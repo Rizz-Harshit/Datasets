@@ -1,0 +1,808 @@
+context: Translation: MoeJo w0lfTranslation check: WinterreiseEditing: Minami_Typsetting: LaytonEncoding: Layton response:	Anime-Koi Fansubs
+context: Translation: MoeJo w0lfTranslation check: WinterreiseEditing: Minami_Typsetting: LaytonEncoding: Layton\Anime-Koi Fansubs response:	Nanami Quits hhhhBeing hhhhha Deity
+context: Translation: MoeJo w0lfTranslation check: WinterreiseEditing: Minami_Typsetting: LaytonEncoding: Layton\Anime-Koi Fansubs\Nanami Quits hhhhBeing hhhhha Deity response:	Nanami Quits hhhhBeing hhhhha Deity
+context: Translation: MoeJo w0lfTranslation check: WinterreiseEditing: Minami_Typsetting: LaytonEncoding: Layton\Anime-Koi Fansubs\Nanami Quits hhhhBeing hhhhha Deity\Nanami Quits hhhhBeing hhhhha Deity response:	sign:The Familiar Goes To Town
+context: Translation: MoeJo w0lfTranslation check: WinterreiseEditing: Minami_Typsetting: LaytonEncoding: Layton\Anime-Koi Fansubs\Nanami Quits hhhhBeing hhhhha Deity\Nanami Quits hhhhBeing hhhhha Deity\sign:The Familiar Goes To Town response:	sign:We'll be right back!
+context: Translation: MoeJo w0lfTranslation check: WinterreiseEditing: Minami_Typsetting: LaytonEncoding: Layton\Anime-Koi Fansubs\Nanami Quits hhhhBeing hhhhha Deity\Nanami Quits hhhhBeing hhhhha Deity\sign:The Familiar Goes To Town\sign:We'll be right back! response:	Next Episode Preview
+context: Translation: MoeJo w0lfTranslation check: WinterreiseEditing: Minami_Typsetting: LaytonEncoding: Layton\Anime-Koi Fansubs\Nanami Quits hhhhBeing hhhhha Deity\Nanami Quits hhhhBeing hhhhha Deity\sign:The Familiar Goes To Town\sign:We'll be right back!\Next Episode Preview response:	The Deity Goes to the Beach
+context: Translation: MoeJo w0lfTranslation check: WinterreiseEditing: Minami_Typsetting: LaytonEncoding: Layton\Anime-Koi Fansubs\Nanami Quits hhhhBeing hhhhha Deity\Nanami Quits hhhhBeing hhhhha Deity\sign:The Familiar Goes To Town\sign:We'll be right back!\Next Episode Preview\The Deity Goes to the Beach response:	sign:The Deity Loses her Home
+context: Anime-Koi Fansubs\Nanami Quits hhhhBeing hhhhha Deity\Nanami Quits hhhhBeing hhhhha Deity\sign:The Familiar Goes To Town\sign:We'll be right back!\Next Episode Preview\The Deity Goes to the Beach\sign:The Deity Loses her Home response:	sign:Air
+context: Nanami Quits hhhhBeing hhhhha Deity\Nanami Quits hhhhBeing hhhhha Deity\sign:The Familiar Goes To Town\sign:We'll be right back!\Next Episode Preview\The Deity Goes to the Beach\sign:The Deity Loses her Home\sign:Air response:	sign:These are from episode one. I'd say just go and grab them for consistency's sake.
+context: Nanami Quits hhhhBeing hhhhha Deity\sign:The Familiar Goes To Town\sign:We'll be right back!\Next Episode Preview\The Deity Goes to the Beach\sign:The Deity Loses her Home\sign:Air\sign:These are from episode one. I'd say just go and grab them for consistency's sake. response:	Sign: Air
+context: sign:The Familiar Goes To Town\sign:We'll be right back!\Next Episode Preview\The Deity Goes to the Beach\sign:The Deity Loses her Home\sign:Air\sign:These are from episode one. I'd say just go and grab them for consistency's sake.\Sign: Air response:	sign:Mikage Shrine
+context: sign:We'll be right back!\Next Episode Preview\The Deity Goes to the Beach\sign:The Deity Loses her Home\sign:Air\sign:These are from episode one. I'd say just go and grab them for consistency's sake.\Sign: Air\sign:Mikage Shrine response:	Fall Festival
+context: Next Episode Preview\The Deity Goes to the Beach\sign:The Deity Loses her Home\sign:Air\sign:These are from episode one. I'd say just go and grab them for consistency's sake.\Sign: Air\sign:Mikage Shrine\Fall Festival response:	Open to the public!
+context: The Deity Goes to the Beach\sign:The Deity Loses her Home\sign:Air\sign:These are from episode one. I'd say just go and grab them for consistency's sake.\Sign: Air\sign:Mikage Shrine\Fall Festival\Open to the public! response:	October 21st
+context: sign:The Deity Loses her Home\sign:Air\sign:These are from episode one. I'd say just go and grab them for consistency's sake.\Sign: Air\sign:Mikage Shrine\Fall Festival\Open to the public!\October 21st response:	From 5PM
+context: sign:Air\sign:These are from episode one. I'd say just go and grab them for consistency's sake.\Sign: Air\sign:Mikage Shrine\Fall Festival\Open to the public!\October 21st\From 5PM response:	Mikage Shrine
+context: sign:These are from episode one. I'd say just go and grab them for consistency's sake.\Sign: Air\sign:Mikage Shrine\Fall Festival\Open to the public!\October 21st\From 5PM\Mikage Shrine response:	sign:We'll be right back!
+context: Sign: Air\sign:Mikage Shrine\Fall Festival\Open to the public!\October 21st\From 5PM\Mikage Shrine\sign:We'll be right back! response:	sign:And we're back!
+context: sign:Mikage Shrine\Fall Festival\Open to the public!\October 21st\From 5PM\Mikage Shrine\sign:We'll be right back!\sign:And we're back! response:	sign: Tailwind Max
+context: Fall Festival\Open to the public!\October 21st\From 5PM\Mikage Shrine\sign:We'll be right back!\sign:And we're back!\sign: Tailwind Max response:	sign:Mikage Shrine
+context: Open to the public!\October 21st\From 5PM\Mikage Shrine\sign:We'll be right back!\sign:And we're back!\sign: Tailwind Max\sign:Mikage Shrine response:	We're throwing a fall festival!
+context: October 21st\From 5PM\Mikage Shrine\sign:We'll be right back!\sign:And we're back!\sign: Tailwind Max\sign:Mikage Shrine\We're throwing a fall festival! response:	Make sure you come!
+context: From 5PM\Mikage Shrine\sign:We'll be right back!\sign:And we're back!\sign: Tailwind Max\sign:Mikage Shrine\We're throwing a fall festival!\Make sure you come! response:	onnanoko hajimemashita
+context: Mikage Shrine\sign:We'll be right back!\sign:And we're back!\sign: Tailwind Max\sign:Mikage Shrine\We're throwing a fall festival!\Make sure you come!\onnanoko hajimemashita response:	A tired girl starts her day
+context: sign:We'll be right back!\sign:And we're back!\sign: Tailwind Max\sign:Mikage Shrine\We're throwing a fall festival!\Make sure you come!\onnanoko hajimemashita\A tired girl starts her day response:	tameiki wa bioron no shirabe ni nite
+context: sign:And we're back!\sign: Tailwind Max\sign:Mikage Shrine\We're throwing a fall festival!\Make sure you come!\onnanoko hajimemashita\A tired girl starts her day\tameiki wa bioron no shirabe ni nite response:	With a sigh like the moan of a violin
+context: sign: Tailwind Max\sign:Mikage Shrine\We're throwing a fall festival!\Make sure you come!\onnanoko hajimemashita\A tired girl starts her day\tameiki wa bioron no shirabe ni nite\With a sigh like the moan of a violin response:	akai mi hajikechatta
+context: sign:Mikage Shrine\We're throwing a fall festival!\Make sure you come!\onnanoko hajimemashita\A tired girl starts her day\tameiki wa bioron no shirabe ni nite\With a sigh like the moan of a violin\akai mi hajikechatta response:	A cherry bursts in her mouth
+context: We're throwing a fall festival!\Make sure you come!\onnanoko hajimemashita\A tired girl starts her day\tameiki wa bioron no shirabe ni nite\With a sigh like the moan of a violin\akai mi hajikechatta\A cherry bursts in her mouth response:	mada anata wo shiranai
+context: Make sure you come!\onnanoko hajimemashita\A tired girl starts her day\tameiki wa bioron no shirabe ni nite\With a sigh like the moan of a violin\akai mi hajikechatta\A cherry bursts in her mouth\mada anata wo shiranai response:	This was before we had met
+context: onnanoko hajimemashita\A tired girl starts her day\tameiki wa bioron no shirabe ni nite\With a sigh like the moan of a violin\akai mi hajikechatta\A cherry bursts in her mouth\mada anata wo shiranai\This was before we had met response:	konna koto hajimetette
+context: A tired girl starts her day\tameiki wa bioron no shirabe ni nite\With a sigh like the moan of a violin\akai mi hajikechatta\A cherry bursts in her mouth\mada anata wo shiranai\This was before we had met\konna koto hajimetette response:	This is the first time I've ever felt like this
+context: tameiki wa bioron no shirabe ni nite\With a sigh like the moan of a violin\akai mi hajikechatta\A cherry bursts in her mouth\mada anata wo shiranai\This was before we had met\konna koto hajimetette\This is the first time I've ever felt like this response:	manazashi wa aku no hana sakimidarete mo
+context: With a sigh like the moan of a violin\akai mi hajikechatta\A cherry bursts in her mouth\mada anata wo shiranai\This was before we had met\konna koto hajimetette\This is the first time I've ever felt like this\manazashi wa aku no hana sakimidarete mo response:	I could see that your pretty eyes were filled with contempt
+context: akai mi hajikechatta\A cherry bursts in her mouth\mada anata wo shiranai\This was before we had met\konna koto hajimetette\This is the first time I've ever felt like this\manazashi wa aku no hana sakimidarete mo\I could see that your pretty eyes were filled with contempt response:	ie e to tsuzuku
+context: A cherry bursts in her mouth\mada anata wo shiranai\This was before we had met\konna koto hajimetette\This is the first time I've ever felt like this\manazashi wa aku no hana sakimidarete mo\I could see that your pretty eyes were filled with contempt\ie e to tsuzuku response:	But I had to go home
+context: mada anata wo shiranai\This was before we had met\konna koto hajimetette\This is the first time I've ever felt like this\manazashi wa aku no hana sakimidarete mo\I could see that your pretty eyes were filled with contempt\ie e to tsuzuku\But I had to go home response:	basu sutoppu demo anata wa tsurenai
+context: This was before we had met\konna koto hajimetette\This is the first time I've ever felt like this\manazashi wa aku no hana sakimidarete mo\I could see that your pretty eyes were filled with contempt\ie e to tsuzuku\But I had to go home\basu sutoppu demo anata wa tsurenai response:	Even at the bus stop, you gave me the cold shoulder
+context: konna koto hajimetette\This is the first time I've ever felt like this\manazashi wa aku no hana sakimidarete mo\I could see that your pretty eyes were filled with contempt\ie e to tsuzuku\But I had to go home\basu sutoppu demo anata wa tsurenai\Even at the bus stop, you gave me the cold shoulder response:	karameta hanabi myaku utsu
+context: This is the first time I've ever felt like this\manazashi wa aku no hana sakimidarete mo\I could see that your pretty eyes were filled with contempt\ie e to tsuzuku\But I had to go home\basu sutoppu demo anata wa tsurenai\Even at the bus stop, you gave me the cold shoulder\karameta hanabi myaku utsu response:	The fireworks in the sky pulse
+context: manazashi wa aku no hana sakimidarete mo\I could see that your pretty eyes were filled with contempt\ie e to tsuzuku\But I had to go home\basu sutoppu demo anata wa tsurenai\Even at the bus stop, you gave me the cold shoulder\karameta hanabi myaku utsu\The fireworks in the sky pulse response:	koi no shiruetto
+context: I could see that your pretty eyes were filled with contempt\ie e to tsuzuku\But I had to go home\basu sutoppu demo anata wa tsurenai\Even at the bus stop, you gave me the cold shoulder\karameta hanabi myaku utsu\The fireworks in the sky pulse\koi no shiruetto response:	In a silhouette of love
+context: ie e to tsuzuku\But I had to go home\basu sutoppu demo anata wa tsurenai\Even at the bus stop, you gave me the cold shoulder\karameta hanabi myaku utsu\The fireworks in the sky pulse\koi no shiruetto\In a silhouette of love response:	karui mahou
+context: But I had to go home\basu sutoppu demo anata wa tsurenai\Even at the bus stop, you gave me the cold shoulder\karameta hanabi myaku utsu\The fireworks in the sky pulse\koi no shiruetto\In a silhouette of love\karui mahou response:	With a little magic,
+context: basu sutoppu demo anata wa tsurenai\Even at the bus stop, you gave me the cold shoulder\karameta hanabi myaku utsu\The fireworks in the sky pulse\koi no shiruetto\In a silhouette of love\karui mahou\With a little magic, response:	usotsuki na kuchibiru
+context: Even at the bus stop, you gave me the cold shoulder\karameta hanabi myaku utsu\The fireworks in the sky pulse\koi no shiruetto\In a silhouette of love\karui mahou\With a little magic,\usotsuki na kuchibiru response:	Two sets of lying lips
+context: karameta hanabi myaku utsu\The fireworks in the sky pulse\koi no shiruetto\In a silhouette of love\karui mahou\With a little magic,\usotsuki na kuchibiru\Two sets of lying lips response:	sou kasaneteru
+context: The fireworks in the sky pulse\koi no shiruetto\In a silhouette of love\karui mahou\With a little magic,\usotsuki na kuchibiru\Two sets of lying lips\sou kasaneteru response:	Lock together
+context: koi no shiruetto\In a silhouette of love\karui mahou\With a little magic,\usotsuki na kuchibiru\Two sets of lying lips\sou kasaneteru\Lock together response:	ano ne
+context: In a silhouette of love\karui mahou\With a little magic,\usotsuki na kuchibiru\Two sets of lying lips\sou kasaneteru\Lock together\ano ne response:	You see
+context: karui mahou\With a little magic,\usotsuki na kuchibiru\Two sets of lying lips\sou kasaneteru\Lock together\ano ne\You see response:	nee kamisama
+context: With a little magic,\usotsuki na kuchibiru\Two sets of lying lips\sou kasaneteru\Lock together\ano ne\You see\nee kamisama response:	God...
+context: usotsuki na kuchibiru\Two sets of lying lips\sou kasaneteru\Lock together\ano ne\You see\nee kamisama\God... response:	warui ko ni naritai yo
+context: Two sets of lying lips\sou kasaneteru\Lock together\ano ne\You see\nee kamisama\God...\warui ko ni naritai yo response:	I'd like to be a naughty girl
+context: sou kasaneteru\Lock together\ano ne\You see\nee kamisama\God...\warui ko ni naritai yo\I'd like to be a naughty girl response:	ii ko ni shiteru kara
+context: Lock together\ano ne\You see\nee kamisama\God...\warui ko ni naritai yo\I'd like to be a naughty girl\ii ko ni shiteru kara response:	I'm tired of being good
+context: ano ne\You see\nee kamisama\God...\warui ko ni naritai yo\I'd like to be a naughty girl\ii ko ni shiteru kara\I'm tired of being good response:	onegai dayo
+context: You see\nee kamisama\God...\warui ko ni naritai yo\I'd like to be a naughty girl\ii ko ni shiteru kara\I'm tired of being good\onegai dayo response:	So, please
+context: nee kamisama\God...\warui ko ni naritai yo\I'd like to be a naughty girl\ii ko ni shiteru kara\I'm tired of being good\onegai dayo\So, please response:	zurui koto sasetoite
+context: God...\warui ko ni naritai yo\I'd like to be a naughty girl\ii ko ni shiteru kara\I'm tired of being good\onegai dayo\So, please\zurui koto sasetoite response:	It's for a good reason
+context: warui ko ni naritai yo\I'd like to be a naughty girl\ii ko ni shiteru kara\I'm tired of being good\onegai dayo\So, please\zurui koto sasetoite\It's for a good reason response:	ii koto shitai nara
+context: I'd like to be a naughty girl\ii ko ni shiteru kara\I'm tired of being good\onegai dayo\So, please\zurui koto sasetoite\It's for a good reason\ii koto shitai nara response:	So let me be bad for once
+context: ii ko ni shiteru kara\I'm tired of being good\onegai dayo\So, please\zurui koto sasetoite\It's for a good reason\ii koto shitai nara\So let me be bad for once response:	sukaato hirogaesu shite
+context: I'm tired of being good\onegai dayo\So, please\zurui koto sasetoite\It's for a good reason\ii koto shitai nara\So let me be bad for once\sukaato hirogaesu shite response:	By flipping my skirt
+context: onegai dayo\So, please\zurui koto sasetoite\It's for a good reason\ii koto shitai nara\So let me be bad for once\sukaato hirogaesu shite\By flipping my skirt response:	sugu kaeru yo
+context: So, please\zurui koto sasetoite\It's for a good reason\ii koto shitai nara\So let me be bad for once\sukaato hirogaesu shite\By flipping my skirt\sugu kaeru yo response:	I'll be back soon
+context: zurui koto sasetoite\It's for a good reason\ii koto shitai nara\So let me be bad for once\sukaato hirogaesu shite\By flipping my skirt\sugu kaeru yo\I'll be back soon response:	doyoubi wa haresou da
+context: It's for a good reason\ii koto shitai nara\So let me be bad for once\sukaato hirogaesu shite\By flipping my skirt\sugu kaeru yo\I'll be back soon\doyoubi wa haresou da response:	It looks like Saturday is going to be sunny
+context: ii koto shitai nara\So let me be bad for once\sukaato hirogaesu shite\By flipping my skirt\sugu kaeru yo\I'll be back soon\doyoubi wa haresou da\It looks like Saturday is going to be sunny response:	kamisama hajimemashita
+context: So let me be bad for once\sukaato hirogaesu shite\By flipping my skirt\sugu kaeru yo\I'll be back soon\doyoubi wa haresou da\It looks like Saturday is going to be sunny\kamisama hajimemashita response:	God, it has already started
+context: sukaato hirogaesu shite\By flipping my skirt\sugu kaeru yo\I'll be back soon\doyoubi wa haresou da\It looks like Saturday is going to be sunny\kamisama hajimemashita\God, it has already started response:	Ko na ka tta
+context: By flipping my skirt\sugu kaeru yo\I'll be back soon\doyoubi wa haresou da\It looks like Saturday is going to be sunny\kamisama hajimemashita\God, it has already started\Ko na ka tta response:	Good bye
+context: sugu kaeru yo\I'll be back soon\doyoubi wa haresou da\It looks like Saturday is going to be sunny\kamisama hajimemashita\God, it has already started\Ko na ka tta\Good bye response:	Good bye
+context: I'll be back soon\doyoubi wa haresou da\It looks like Saturday is going to be sunny\kamisama hajimemashita\God, it has already started\Ko na ka tta\Good bye\Good bye response:	Good bye
+context: doyoubi wa haresou da\It looks like Saturday is going to be sunny\kamisama hajimemashita\God, it has already started\Ko na ka tta\Good bye\Good bye\Good bye response:	Good bye
+context: It looks like Saturday is going to be sunny\kamisama hajimemashita\God, it has already started\Ko na ka tta\Good bye\Good bye\Good bye\Good bye response:	ah ah ah
+context: kamisama hajimemashita\God, it has already started\Ko na ka tta\Good bye\Good bye\Good bye\Good bye\ah ah ah response:	Next Episode Preview
+context: God, it has already started\Ko na ka tta\Good bye\Good bye\Good bye\Good bye\ah ah ah\Next Episode Preview response:	I Became a Deity
+context: Ko na ka tta\Good bye\Good bye\Good bye\Good bye\ah ah ah\Next Episode Preview\I Became a Deity response:	Mikage Shrine
+context: Good bye\Good bye\Good bye\Good bye\ah ah ah\Next Episode Preview\I Became a Deity\Mikage Shrine response:	Mikage Shrine We're doing a fall festival!
+context: Good bye\Good bye\Good bye\ah ah ah\Next Episode Preview\I Became a Deity\Mikage Shrine\Mikage Shrine We're doing a fall festival! response:	Make sure you come!
+context: Good bye\Good bye\ah ah ah\Next Episode Preview\I Became a Deity\Mikage Shrine\Mikage Shrine We're doing a fall festival!\Make sure you come! response:	air
+context: Good bye\ah ah ah\Next Episode Preview\I Became a Deity\Mikage Shrine\Mikage Shrine We're doing a fall festival!\Make sure you come!\air response:	air
+context: ah ah ah\Next Episode Preview\I Became a Deity\Mikage Shrine\Mikage Shrine We're doing a fall festival!\Make sure you come!\air\air response:	air
+context: Next Episode Preview\I Became a Deity\Mikage Shrine\Mikage Shrine We're doing a fall festival!\Make sure you come!\air\air\air response:	air
+context: I Became a Deity\Mikage Shrine\Mikage Shrine We're doing a fall festival!\Make sure you come!\air\air\air\air response:	air
+context: Mikage Shrine\Mikage Shrine We're doing a fall festival!\Make sure you come!\air\air\air\air\air response:	air
+context: Mikage Shrine We're doing a fall festival!\Make sure you come!\air\air\air\air\air\air response:	air
+context: Make sure you come!\air\air\air\air\air\air\air response:	air
+context: air\air\air\air\air\air\air\air response:	Mikage Shrine's
+context: air\air\air\air\air\air\air\Mikage Shrine's response:	Mikage Shrine's
+context: air\air\air\air\air\air\Mikage Shrine's\Mikage Shrine's response:	Fall Festival
+context: air\air\air\air\air\Mikage Shrine's\Mikage Shrine's\Fall Festival response:	Open to the public!!
+context: air\air\air\air\Mikage Shrine's\Mikage Shrine's\Fall Festival\Open to the public!! response:	October 21 st
+context: air\air\air\Mikage Shrine's\Mikage Shrine's\Fall Festival\Open to the public!!\October 21 st response:	We'll be waiting at Mikage Shrine!
+context: air\air\Mikage Shrine's\Mikage Shrine's\Fall Festival\Open to the public!!\October 21 st\We'll be waiting at Mikage Shrine! response:	from 5 PM
+context: air\Mikage Shrine's\Mikage Shrine's\Fall Festival\Open to the public!!\October 21 st\We'll be waiting at Mikage Shrine!\from 5 PM response:	Air
+context: Mikage Shrine's\Mikage Shrine's\Fall Festival\Open to the public!!\October 21 st\We'll be waiting at Mikage Shrine!\from 5 PM\Air response:	Air
+context: Mikage Shrine's\Fall Festival\Open to the public!!\October 21 st\We'll be waiting at Mikage Shrine!\from 5 PM\Air\Air response:	Please leave. o
+context: Fall Festival\Open to the public!!\October 21 st\We'll be waiting at Mikage Shrine!\from 5 PM\Air\Air\Please leave. o response:	You are being evicted from your apartment.
+context: Open to the public!!\October 21 st\We'll be waiting at Mikage Shrine!\from 5 PM\Air\Air\Please leave. o\You are being evicted from your apartment. response:	I'm going on a trip. Please don't look for me. -Dad
+context: October 21 st\We'll be waiting at Mikage Shrine!\from 5 PM\Air\Air\Please leave. o\You are being evicted from your apartment.\I'm going on a trip. Please don't look for me. -Dad response:	Huh?!
+context: We'll be waiting at Mikage Shrine!\from 5 PM\Air\Air\Please leave. o\You are being evicted from your apartment.\I'm going on a trip. Please don't look for me. -Dad\Huh?! response:	ANIME-KOI
+context: from 5 PM\Air\Air\Please leave. o\You are being evicted from your apartment.\I'm going on a trip. Please don't look for me. -Dad\Huh?!\ANIME-KOI response:	PRESENTS
+context: Air\Air\Please leave. o\You are being evicted from your apartment.\I'm going on a trip. Please don't look for me. -Dad\Huh?!\ANIME-KOI\PRESENTS response:	We'll be back soon!
+context: Air\Please leave. o\You are being evicted from your apartment.\I'm going on a trip. Please don't look for me. -Dad\Huh?!\ANIME-KOI\PRESENTS\We'll be back soon! response:	We're back!
+context: Please leave. o\You are being evicted from your apartment.\I'm going on a trip. Please don't look for me. -Dad\Huh?!\ANIME-KOI\PRESENTS\We'll be back soon!\We're back! response:	They...
+context: You are being evicted from your apartment.\I'm going on a trip. Please don't look for me. -Dad\Huh?!\ANIME-KOI\PRESENTS\We'll be back soon!\We're back!\They... response:	don't need me.
+context: I'm going on a trip. Please don't look for me. -Dad\Huh?!\ANIME-KOI\PRESENTS\We'll be back soon!\We're back!\They...\don't need me. response:	Nanami?
+context: Huh?!\ANIME-KOI\PRESENTS\We'll be back soon!\We're back!\They...\don't need me.\Nanami? response:	Nanami!
+context: ANIME-KOI\PRESENTS\We'll be back soon!\We're back!\They...\don't need me.\Nanami?\Nanami! response:	Where have you gone?
+context: PRESENTS\We'll be back soon!\We're back!\They...\don't need me.\Nanami?\Nanami!\Where have you gone? response:	Nanami!
+context: We'll be back soon!\We're back!\They...\don't need me.\Nanami?\Nanami!\Where have you gone?\Nanami! response:	Mizuki-dono, please!
+context: We're back!\They...\don't need me.\Nanami?\Nanami!\Where have you gone?\Nanami!\Mizuki-dono, please! response:	I'm keeping the miasma back as best as I can!
+context: They...\don't need me.\Nanami?\Nanami!\Where have you gone?\Nanami!\Mizuki-dono, please!\I'm keeping the miasma back as best as I can! response:	I don't...
+context: don't need me.\Nanami?\Nanami!\Where have you gone?\Nanami!\Mizuki-dono, please!\I'm keeping the miasma back as best as I can!\I don't... response:	have anywhere left to go.
+context: Nanami?\Nanami!\Where have you gone?\Nanami!\Mizuki-dono, please!\I'm keeping the miasma back as best as I can!\I don't...\have anywhere left to go. response:	Tomoe-kun, why are you making me do all the work?
+context: Nanami!\Where have you gone?\Nanami!\Mizuki-dono, please!\I'm keeping the miasma back as best as I can!\I don't...\have anywhere left to go.\Tomoe-kun, why are you making me do all the work? response:	Look for Nanami!
+context: Where have you gone?\Nanami!\Mizuki-dono, please!\I'm keeping the miasma back as best as I can!\I don't...\have anywhere left to go.\Tomoe-kun, why are you making me do all the work?\Look for Nanami! response:	Did she disappear?
+context: Nanami!\Mizuki-dono, please!\I'm keeping the miasma back as best as I can!\I don't...\have anywhere left to go.\Tomoe-kun, why are you making me do all the work?\Look for Nanami!\Did she disappear? response:	Wait, I'm coming too!
+context: Mizuki-dono, please!\I'm keeping the miasma back as best as I can!\I don't...\have anywhere left to go.\Tomoe-kun, why are you making me do all the work?\Look for Nanami!\Did she disappear?\Wait, I'm coming too! response:	Mizuki-dono, the shrine!
+context: I'm keeping the miasma back as best as I can!\I don't...\have anywhere left to go.\Tomoe-kun, why are you making me do all the work?\Look for Nanami!\Did she disappear?\Wait, I'm coming too!\Mizuki-dono, the shrine! response:	Take this!
+context: I don't...\have anywhere left to go.\Tomoe-kun, why are you making me do all the work?\Look for Nanami!\Did she disappear?\Wait, I'm coming too!\Mizuki-dono, the shrine!\Take this! response:	What?
+context: have anywhere left to go.\Tomoe-kun, why are you making me do all the work?\Look for Nanami!\Did she disappear?\Wait, I'm coming too!\Mizuki-dono, the shrine!\Take this!\What? response:	Good luck!
+context: Tomoe-kun, why are you making me do all the work?\Look for Nanami!\Did she disappear?\Wait, I'm coming too!\Mizuki-dono, the shrine!\Take this!\What?\Good luck! response:	How could you?
+context: Look for Nanami!\Did she disappear?\Wait, I'm coming too!\Mizuki-dono, the shrine!\Take this!\What?\Good luck!\How could you? response:	Wait, are we supposed to hold back the miasma now?
+context: Did she disappear?\Wait, I'm coming too!\Mizuki-dono, the shrine!\Take this!\What?\Good luck!\How could you?\Wait, are we supposed to hold back the miasma now? response:	It's coming for us, Onikiri!
+context: Wait, I'm coming too!\Mizuki-dono, the shrine!\Take this!\What?\Good luck!\How could you?\Wait, are we supposed to hold back the miasma now?\It's coming for us, Onikiri! response:	Get away! Get away!
+context: Mizuki-dono, the shrine!\Take this!\What?\Good luck!\How could you?\Wait, are we supposed to hold back the miasma now?\It's coming for us, Onikiri!\Get away! Get away! response:	Oh dear.
+context: Take this!\What?\Good luck!\How could you?\Wait, are we supposed to hold back the miasma now?\It's coming for us, Onikiri!\Get away! Get away!\Oh dear. response:	Both familiars are gone?
+context: What?\Good luck!\How could you?\Wait, are we supposed to hold back the miasma now?\It's coming for us, Onikiri!\Get away! Get away!\Oh dear.\Both familiars are gone? response:	What are they going to do about this?
+context: Good luck!\How could you?\Wait, are we supposed to hold back the miasma now?\It's coming for us, Onikiri!\Get away! Get away!\Oh dear.\Both familiars are gone?\What are they going to do about this? response:	Well I could drop down and clean up but...
+context: How could you?\Wait, are we supposed to hold back the miasma now?\It's coming for us, Onikiri!\Get away! Get away!\Oh dear.\Both familiars are gone?\What are they going to do about this?\Well I could drop down and clean up but... response:	I guess I'll entertain myself a bit more.
+context: Wait, are we supposed to hold back the miasma now?\It's coming for us, Onikiri!\Get away! Get away!\Oh dear.\Both familiars are gone?\What are they going to do about this?\Well I could drop down and clean up but...\I guess I'll entertain myself a bit more. response:	Oh what a great Wind Deity I am!
+context: It's coming for us, Onikiri!\Get away! Get away!\Oh dear.\Both familiars are gone?\What are they going to do about this?\Well I could drop down and clean up but...\I guess I'll entertain myself a bit more.\Oh what a great Wind Deity I am! response:	Nanami-chan!
+context: Get away! Get away!\Oh dear.\Both familiars are gone?\What are they going to do about this?\Well I could drop down and clean up but...\I guess I'll entertain myself a bit more.\Oh what a great Wind Deity I am!\Nanami-chan! response:	Nanami-chan!
+context: Oh dear.\Both familiars are gone?\What are they going to do about this?\Well I could drop down and clean up but...\I guess I'll entertain myself a bit more.\Oh what a great Wind Deity I am!\Nanami-chan!\Nanami-chan! response:	You here, Nanami-chan?
+context: Both familiars are gone?\What are they going to do about this?\Well I could drop down and clean up but...\I guess I'll entertain myself a bit more.\Oh what a great Wind Deity I am!\Nanami-chan!\Nanami-chan!\You here, Nanami-chan? response:	Nanami-chan?
+context: What are they going to do about this?\Well I could drop down and clean up but...\I guess I'll entertain myself a bit more.\Oh what a great Wind Deity I am!\Nanami-chan!\Nanami-chan!\You here, Nanami-chan?\Nanami-chan? response:	Tomoe-sama!
+context: Well I could drop down and clean up but...\I guess I'll entertain myself a bit more.\Oh what a great Wind Deity I am!\Nanami-chan!\Nanami-chan!\You here, Nanami-chan?\Nanami-chan?\Tomoe-sama! response:	We've searched everywhere, but we can't find a single trace of her!
+context: I guess I'll entertain myself a bit more.\Oh what a great Wind Deity I am!\Nanami-chan!\Nanami-chan!\You here, Nanami-chan?\Nanami-chan?\Tomoe-sama!\We've searched everywhere, but we can't find a single trace of her! response:	We can't even sense her presence!
+context: Oh what a great Wind Deity I am!\Nanami-chan!\Nanami-chan!\You here, Nanami-chan?\Nanami-chan?\Tomoe-sama!\We've searched everywhere, but we can't find a single trace of her!\We can't even sense her presence! response:	It's as if she were never here!
+context: Nanami-chan!\Nanami-chan!\You here, Nanami-chan?\Nanami-chan?\Tomoe-sama!\We've searched everywhere, but we can't find a single trace of her!\We can't even sense her presence!\It's as if she were never here! response:	Yeah, she wasn't by the station either.
+context: Nanami-chan!\You here, Nanami-chan?\Nanami-chan?\Tomoe-sama!\We've searched everywhere, but we can't find a single trace of her!\We can't even sense her presence!\It's as if she were never here!\Yeah, she wasn't by the station either. response:	W-We'll keep looking!
+context: You here, Nanami-chan?\Nanami-chan?\Tomoe-sama!\We've searched everywhere, but we can't find a single trace of her!\We can't even sense her presence!\It's as if she were never here!\Yeah, she wasn't by the station either.\W-We'll keep looking! response:	I'm going to town for a while, Tomoe.
+context: Nanami-chan?\Tomoe-sama!\We've searched everywhere, but we can't find a single trace of her!\We can't even sense her presence!\It's as if she were never here!\Yeah, she wasn't by the station either.\W-We'll keep looking!\I'm going to town for a while, Tomoe. response:	It's Tomoe-kun!
+context: Tomoe-sama!\We've searched everywhere, but we can't find a single trace of her!\We can't even sense her presence!\It's as if she were never here!\Yeah, she wasn't by the station either.\W-We'll keep looking!\I'm going to town for a while, Tomoe.\It's Tomoe-kun! response:	He's in his traditional clothing too!
+context: We've searched everywhere, but we can't find a single trace of her!\We can't even sense her presence!\It's as if she were never here!\Yeah, she wasn't by the station either.\W-We'll keep looking!\I'm going to town for a while, Tomoe.\It's Tomoe-kun!\He's in his traditional clothing too! response:	Yo, Fox.
+context: We can't even sense her presence!\It's as if she were never here!\Yeah, she wasn't by the station either.\W-We'll keep looking!\I'm going to town for a while, Tomoe.\It's Tomoe-kun!\He's in his traditional clothing too!\Yo, Fox. response:	So you finally decided to show yourself at school today.
+context: It's as if she were never here!\Yeah, she wasn't by the station either.\W-We'll keep looking!\I'm going to town for a while, Tomoe.\It's Tomoe-kun!\He's in his traditional clothing too!\Yo, Fox.\So you finally decided to show yourself at school today. response:	And what's with the outfit? Did you wake up late and forget to change out of your pajamas?
+context: Yeah, she wasn't by the station either.\W-We'll keep looking!\I'm going to town for a while, Tomoe.\It's Tomoe-kun!\He's in his traditional clothing too!\Yo, Fox.\So you finally decided to show yourself at school today.\And what's with the outfit? Did you wake up late and forget to change out of your pajamas? response:	Hey! Don't you dare cut me off
+context: W-We'll keep looking!\I'm going to town for a while, Tomoe.\It's Tomoe-kun!\He's in his traditional clothing too!\Yo, Fox.\So you finally decided to show yourself at school today.\And what's with the outfit? Did you wake up late and forget to change out of your pajamas?\Hey! Don't you dare cut me off response:	What the hell are you doing in the girls' bathr
+context: I'm going to town for a while, Tomoe.\It's Tomoe-kun!\He's in his traditional clothing too!\Yo, Fox.\So you finally decided to show yourself at school today.\And what's with the outfit? Did you wake up late and forget to change out of your pajamas?\Hey! Don't you dare cut me off\What the hell are you doing in the girls' bathr response:	Nanami...
+context: It's Tomoe-kun!\He's in his traditional clothing too!\Yo, Fox.\So you finally decided to show yourself at school today.\And what's with the outfit? Did you wake up late and forget to change out of your pajamas?\Hey! Don't you dare cut me off\What the hell are you doing in the girls' bathr\Nanami... response:	Hey! What the hell's your problem?
+context: He's in his traditional clothing too!\Yo, Fox.\So you finally decided to show yourself at school today.\And what's with the outfit? Did you wake up late and forget to change out of your pajamas?\Hey! Don't you dare cut me off\What the hell are you doing in the girls' bathr\Nanami...\Hey! What the hell's your problem? response:	You're never this agitated.
+context: Yo, Fox.\So you finally decided to show yourself at school today.\And what's with the outfit? Did you wake up late and forget to change out of your pajamas?\Hey! Don't you dare cut me off\What the hell are you doing in the girls' bathr\Nanami...\Hey! What the hell's your problem?\You're never this agitated. response:	Did something happen to Nanami?
+context: So you finally decided to show yourself at school today.\And what's with the outfit? Did you wake up late and forget to change out of your pajamas?\Hey! Don't you dare cut me off\What the hell are you doing in the girls' bathr\Nanami...\Hey! What the hell's your problem?\You're never this agitated.\Did something happen to Nanami? response:	That's none of your business.
+context: And what's with the outfit? Did you wake up late and forget to change out of your pajamas?\Hey! Don't you dare cut me off\What the hell are you doing in the girls' bathr\Nanami...\Hey! What the hell's your problem?\You're never this agitated.\Did something happen to Nanami?\That's none of your business. response:	Oh, look. It's the crow kid. You seen Nanami-chan around?
+context: Hey! Don't you dare cut me off\What the hell are you doing in the girls' bathr\Nanami...\Hey! What the hell's your problem?\You're never this agitated.\Did something happen to Nanami?\That's none of your business.\Oh, look. It's the crow kid. You seen Nanami-chan around? response:	She sort of disappeared on us.
+context: What the hell are you doing in the girls' bathr\Nanami...\Hey! What the hell's your problem?\You're never this agitated.\Did something happen to Nanami?\That's none of your business.\Oh, look. It's the crow kid. You seen Nanami-chan around?\She sort of disappeared on us. response:	Tomoe-kun, you were there too?
+context: Nanami...\Hey! What the hell's your problem?\You're never this agitated.\Did something happen to Nanami?\That's none of your business.\Oh, look. It's the crow kid. You seen Nanami-chan around?\She sort of disappeared on us.\Tomoe-kun, you were there too? response:	Go.
+context: Hey! What the hell's your problem?\You're never this agitated.\Did something happen to Nanami?\That's none of your business.\Oh, look. It's the crow kid. You seen Nanami-chan around?\She sort of disappeared on us.\Tomoe-kun, you were there too?\Go. response:	You're too violent, Tomoe-kun!
+context: You're never this agitated.\Did something happen to Nanami?\That's none of your business.\Oh, look. It's the crow kid. You seen Nanami-chan around?\She sort of disappeared on us.\Tomoe-kun, you were there too?\Go.\You're too violent, Tomoe-kun! response:	Nanami's gone?
+context: Did something happen to Nanami?\That's none of your business.\Oh, look. It's the crow kid. You seen Nanami-chan around?\She sort of disappeared on us.\Tomoe-kun, you were there too?\Go.\You're too violent, Tomoe-kun!\Nanami's gone? response:	We still can't find her. Do you think she left town?
+context: That's none of your business.\Oh, look. It's the crow kid. You seen Nanami-chan around?\She sort of disappeared on us.\Tomoe-kun, you were there too?\Go.\You're too violent, Tomoe-kun!\Nanami's gone?\We still can't find her. Do you think she left town? response:	She may have used one of her talismans.
+context: Oh, look. It's the crow kid. You seen Nanami-chan around?\She sort of disappeared on us.\Tomoe-kun, you were there too?\Go.\You're too violent, Tomoe-kun!\Nanami's gone?\We still can't find her. Do you think she left town?\She may have used one of her talismans. response:	Hey, you find her yet?
+context: She sort of disappeared on us.\Tomoe-kun, you were there too?\Go.\You're too violent, Tomoe-kun!\Nanami's gone?\We still can't find her. Do you think she left town?\She may have used one of her talismans.\Hey, you find her yet? response:	What do you think? I'm beat.
+context: Tomoe-kun, you were there too?\Go.\You're too violent, Tomoe-kun!\Nanami's gone?\We still can't find her. Do you think she left town?\She may have used one of her talismans.\Hey, you find her yet?\What do you think? I'm beat. response:	Same.
+context: Go.\You're too violent, Tomoe-kun!\Nanami's gone?\We still can't find her. Do you think she left town?\She may have used one of her talismans.\Hey, you find her yet?\What do you think? I'm beat.\Same. response:	Where in the world has she gone?
+context: You're too violent, Tomoe-kun!\Nanami's gone?\We still can't find her. Do you think she left town?\She may have used one of her talismans.\Hey, you find her yet?\What do you think? I'm beat.\Same.\Where in the world has she gone? response:	I'm all alone again.
+context: Nanami's gone?\We still can't find her. Do you think she left town?\She may have used one of her talismans.\Hey, you find her yet?\What do you think? I'm beat.\Same.\Where in the world has she gone?\I'm all alone again. response:	Whatever! This is how things were in the beginning anyway.
+context: We still can't find her. Do you think she left town?\She may have used one of her talismans.\Hey, you find her yet?\What do you think? I'm beat.\Same.\Where in the world has she gone?\I'm all alone again.\Whatever! This is how things were in the beginning anyway. response:	As if I could be a real deity.
+context: She may have used one of her talismans.\Hey, you find her yet?\What do you think? I'm beat.\Same.\Where in the world has she gone?\I'm all alone again.\Whatever! This is how things were in the beginning anyway.\As if I could be a real deity. response:	The beginning?
+context: Hey, you find her yet?\What do you think? I'm beat.\Same.\Where in the world has she gone?\I'm all alone again.\Whatever! This is how things were in the beginning anyway.\As if I could be a real deity.\The beginning? response:	Someone help me!
+context: What do you think? I'm beat.\Same.\Where in the world has she gone?\I'm all alone again.\Whatever! This is how things were in the beginning anyway.\As if I could be a real deity.\The beginning?\Someone help me! response:	Get that dog away!
+context: Same.\Where in the world has she gone?\I'm all alone again.\Whatever! This is how things were in the beginning anyway.\As if I could be a real deity.\The beginning?\Someone help me!\Get that dog away! response:	You can have mine, then.
+context: Where in the world has she gone?\I'm all alone again.\Whatever! This is how things were in the beginning anyway.\As if I could be a real deity.\The beginning?\Someone help me!\Get that dog away!\You can have mine, then. response:	Besides, I think it's a better fit for you.
+context: I'm all alone again.\Whatever! This is how things were in the beginning anyway.\As if I could be a real deity.\The beginning?\Someone help me!\Get that dog away!\You can have mine, then.\Besides, I think it's a better fit for you. response:	Where have you been all this time?
+context: Whatever! This is how things were in the beginning anyway.\As if I could be a real deity.\The beginning?\Someone help me!\Get that dog away!\You can have mine, then.\Besides, I think it's a better fit for you.\Where have you been all this time? response:	This kid is supposed to be a deity?
+context: As if I could be a real deity.\The beginning?\Someone help me!\Get that dog away!\You can have mine, then.\Besides, I think it's a better fit for you.\Where have you been all this time?\This kid is supposed to be a deity? response:	What can a filthy girl like you do?!
+context: The beginning?\Someone help me!\Get that dog away!\You can have mine, then.\Besides, I think it's a better fit for you.\Where have you been all this time?\This kid is supposed to be a deity?\What can a filthy girl like you do?! response:	I don't care if the temple crumbles.
+context: Someone help me!\Get that dog away!\You can have mine, then.\Besides, I think it's a better fit for you.\Where have you been all this time?\This kid is supposed to be a deity?\What can a filthy girl like you do?!\I don't care if the temple crumbles. response:	Doesn't the shrine, your home, mean anything to you?!
+context: Get that dog away!\You can have mine, then.\Besides, I think it's a better fit for you.\Where have you been all this time?\This kid is supposed to be a deity?\What can a filthy girl like you do?!\I don't care if the temple crumbles.\Doesn't the shrine, your home, mean anything to you?! response:	The festival at the shrine's next weekend, right?
+context: You can have mine, then.\Besides, I think it's a better fit for you.\Where have you been all this time?\This kid is supposed to be a deity?\What can a filthy girl like you do?!\I don't care if the temple crumbles.\Doesn't the shrine, your home, mean anything to you?!\The festival at the shrine's next weekend, right? response:	What's it called again?
+context: Besides, I think it's a better fit for you.\Where have you been all this time?\This kid is supposed to be a deity?\What can a filthy girl like you do?!\I don't care if the temple crumbles.\Doesn't the shrine, your home, mean anything to you?!\The festival at the shrine's next weekend, right?\What's it called again? response:	Mikage-something.
+context: Where have you been all this time?\This kid is supposed to be a deity?\What can a filthy girl like you do?!\I don't care if the temple crumbles.\Doesn't the shrine, your home, mean anything to you?!\The festival at the shrine's next weekend, right?\What's it called again?\Mikage-something. response:	We should get Hide-kun and Suzuki-kun to come too!
+context: This kid is supposed to be a deity?\What can a filthy girl like you do?!\I don't care if the temple crumbles.\Doesn't the shrine, your home, mean anything to you?!\The festival at the shrine's next weekend, right?\What's it called again?\Mikage-something.\We should get Hide-kun and Suzuki-kun to come too! response:	I like that idea!
+context: What can a filthy girl like you do?!\I don't care if the temple crumbles.\Doesn't the shrine, your home, mean anything to you?!\The festival at the shrine's next weekend, right?\What's it called again?\Mikage-something.\We should get Hide-kun and Suzuki-kun to come too!\I like that idea! response:	I can't wait!
+context: I don't care if the temple crumbles.\Doesn't the shrine, your home, mean anything to you?!\The festival at the shrine's next weekend, right?\What's it called again?\Mikage-something.\We should get Hide-kun and Suzuki-kun to come too!\I like that idea!\I can't wait! response:	Mm-hm.
+context: Doesn't the shrine, your home, mean anything to you?!\The festival at the shrine's next weekend, right?\What's it called again?\Mikage-something.\We should get Hide-kun and Suzuki-kun to come too!\I like that idea!\I can't wait!\Mm-hm. response:	The shrine...
+context: The festival at the shrine's next weekend, right?\What's it called again?\Mikage-something.\We should get Hide-kun and Suzuki-kun to come too!\I like that idea!\I can't wait!\Mm-hm.\The shrine... response:	Mikage Shrine...
+context: What's it called again?\Mikage-something.\We should get Hide-kun and Suzuki-kun to come too!\I like that idea!\I can't wait!\Mm-hm.\The shrine...\Mikage Shrine... response:	is my home!
+context: Mikage-something.\We should get Hide-kun and Suzuki-kun to come too!\I like that idea!\I can't wait!\Mm-hm.\The shrine...\Mikage Shrine...\is my home! response:	And my home...
+context: We should get Hide-kun and Suzuki-kun to come too!\I like that idea!\I can't wait!\Mm-hm.\The shrine...\Mikage Shrine...\is my home!\And my home... response:	is in danger right now!
+context: I like that idea!\I can't wait!\Mm-hm.\The shrine...\Mikage Shrine...\is my home!\And my home...\is in danger right now! response:	Nanami-sama.
+context: I can't wait!\Mm-hm.\The shrine...\Mikage Shrine...\is my home!\And my home...\is in danger right now!\Nanami-sama. response:	Nanami-sama?
+context: Mm-hm.\The shrine...\Mikage Shrine...\is my home!\And my home...\is in danger right now!\Nanami-sama.\Nanami-sama? response:	We found her!
+context: The shrine...\Mikage Shrine...\is my home!\And my home...\is in danger right now!\Nanami-sama.\Nanami-sama?\We found her! response:	I'll protect it. I have to try!
+context: Mikage Shrine...\is my home!\And my home...\is in danger right now!\Nanami-sama.\Nanami-sama?\We found her!\I'll protect it. I have to try! response:	I might fail...
+context: is my home!\And my home...\is in danger right now!\Nanami-sama.\Nanami-sama?\We found her!\I'll protect it. I have to try!\I might fail... response:	I might lose everything...
+context: And my home...\is in danger right now!\Nanami-sama.\Nanami-sama?\We found her!\I'll protect it. I have to try!\I might fail...\I might lose everything... response:	But I have to try,
+context: is in danger right now!\Nanami-sama.\Nanami-sama?\We found her!\I'll protect it. I have to try!\I might fail...\I might lose everything...\But I have to try, response:	because I'm the only one who can save the shrine!
+context: Nanami-sama.\Nanami-sama?\We found her!\I'll protect it. I have to try!\I might fail...\I might lose everything...\But I have to try,\because I'm the only one who can save the shrine! response:	Huh?
+context: Nanami-sama?\We found her!\I'll protect it. I have to try!\I might fail...\I might lose everything...\But I have to try,\because I'm the only one who can save the shrine!\Huh? response:	Where is that coming from?
+context: We found her!\I'll protect it. I have to try!\I might fail...\I might lose everything...\But I have to try,\because I'm the only one who can save the shrine!\Huh?\Where is that coming from? response:	W-What kind of miasma is this?!
+context: I'll protect it. I have to try!\I might fail...\I might lose everything...\But I have to try,\because I'm the only one who can save the shrine!\Huh?\Where is that coming from?\W-What kind of miasma is this?! response:	Oh no! I dropped it!
+context: I might fail...\I might lose everything...\But I have to try,\because I'm the only one who can save the shrine!\Huh?\Where is that coming from?\W-What kind of miasma is this?!\Oh no! I dropped it! response:	What's going on?
+context: I might lose everything...\But I have to try,\because I'm the only one who can save the shrine!\Huh?\Where is that coming from?\W-What kind of miasma is this?!\Oh no! I dropped it!\What's going on? response:	The other miasma is getting sucked into that one!
+context: But I have to try,\because I'm the only one who can save the shrine!\Huh?\Where is that coming from?\W-What kind of miasma is this?!\Oh no! I dropped it!\What's going on?\The other miasma is getting sucked into that one! response:	What...
+context: because I'm the only one who can save the shrine!\Huh?\Where is that coming from?\W-What kind of miasma is this?!\Oh no! I dropped it!\What's going on?\The other miasma is getting sucked into that one!\What... response:	What on earth?
+context: Huh?\Where is that coming from?\W-What kind of miasma is this?!\Oh no! I dropped it!\What's going on?\The other miasma is getting sucked into that one!\What...\What on earth? response:	Hey, what's going on?
+context: Where is that coming from?\W-What kind of miasma is this?!\Oh no! I dropped it!\What's going on?\The other miasma is getting sucked into that one!\What...\What on earth?\Hey, what's going on? response:	Why is it growing so much?
+context: W-What kind of miasma is this?!\Oh no! I dropped it!\What's going on?\The other miasma is getting sucked into that one!\What...\What on earth?\Hey, what's going on?\Why is it growing so much? response:	This isn't what I released!
+context: Oh no! I dropped it!\What's going on?\The other miasma is getting sucked into that one!\What...\What on earth?\Hey, what's going on?\Why is it growing so much?\This isn't what I released! response:	This is not part of the plan!
+context: What's going on?\The other miasma is getting sucked into that one!\What...\What on earth?\Hey, what's going on?\Why is it growing so much?\This isn't what I released!\This is not part of the plan! response:	Begone, miasma! Return to your contai
+context: The other miasma is getting sucked into that one!\What...\What on earth?\Hey, what's going on?\Why is it growing so much?\This isn't what I released!\This is not part of the plan!\Begone, miasma! Return to your contai response:	The miasma's spreading!
+context: What...\What on earth?\Hey, what's going on?\Why is it growing so much?\This isn't what I released!\This is not part of the plan!\Begone, miasma! Return to your contai\The miasma's spreading! response:	Tomoe-sama, we've found her!
+context: What on earth?\Hey, what's going on?\Why is it growing so much?\This isn't what I released!\This is not part of the plan!\Begone, miasma! Return to your contai\The miasma's spreading!\Tomoe-sama, we've found her! response:	Where is she?
+context: Hey, what's going on?\Why is it growing so much?\This isn't what I released!\This is not part of the plan!\Begone, miasma! Return to your contai\The miasma's spreading!\Tomoe-sama, we've found her!\Where is she? response:	She's heading toward the shrine.
+context: Why is it growing so much?\This isn't what I released!\This is not part of the plan!\Begone, miasma! Return to your contai\The miasma's spreading!\Tomoe-sama, we've found her!\Where is she?\She's heading toward the shrine. response:	What?
+context: This isn't what I released!\This is not part of the plan!\Begone, miasma! Return to your contai\The miasma's spreading!\Tomoe-sama, we've found her!\Where is she?\She's heading toward the shrine.\What? response:	Nanami?
+context: This is not part of the plan!\Begone, miasma! Return to your contai\The miasma's spreading!\Tomoe-sama, we've found her!\Where is she?\She's heading toward the shrine.\What?\Nanami? response:	T-The gate!
+context: Begone, miasma! Return to your contai\The miasma's spreading!\Tomoe-sama, we've found her!\Where is she?\She's heading toward the shrine.\What?\Nanami?\T-The gate! response:	The shrine!
+context: The miasma's spreading!\Tomoe-sama, we've found her!\Where is she?\She's heading toward the shrine.\What?\Nanami?\T-The gate!\The shrine! response:	This has to be the Earth Spider's miasma!
+context: Tomoe-sama, we've found her!\Where is she?\She's heading toward the shrine.\What?\Nanami?\T-The gate!\The shrine!\This has to be the Earth Spider's miasma! response:	Earth Spider?
+context: Where is she?\She's heading toward the shrine.\What?\Nanami?\T-The gate!\The shrine!\This has to be the Earth Spider's miasma!\Earth Spider? response:	Don't you remember?
+context: She's heading toward the shrine.\What?\Nanami?\T-The gate!\The shrine!\This has to be the Earth Spider's miasma!\Earth Spider?\Don't you remember? response:	Mikage-sama sealed it away several centuries ago!
+context: What?\Nanami?\T-The gate!\The shrine!\This has to be the Earth Spider's miasma!\Earth Spider?\Don't you remember?\Mikage-sama sealed it away several centuries ago! response:	Oh!
+context: Nanami?\T-The gate!\The shrine!\This has to be the Earth Spider's miasma!\Earth Spider?\Don't you remember?\Mikage-sama sealed it away several centuries ago!\Oh! response:	Mikage-sama defeated the beast,
+context: T-The gate!\The shrine!\This has to be the Earth Spider's miasma!\Earth Spider?\Don't you remember?\Mikage-sama sealed it away several centuries ago!\Oh!\Mikage-sama defeated the beast, response:	but the miasma it left behind was so enormous that he only managed to seal it!
+context: The shrine!\This has to be the Earth Spider's miasma!\Earth Spider?\Don't you remember?\Mikage-sama sealed it away several centuries ago!\Oh!\Mikage-sama defeated the beast,\but the miasma it left behind was so enormous that he only managed to seal it! response:	That seal must have been undone somehow!
+context: This has to be the Earth Spider's miasma!\Earth Spider?\Don't you remember?\Mikage-sama sealed it away several centuries ago!\Oh!\Mikage-sama defeated the beast,\but the miasma it left behind was so enormous that he only managed to seal it!\That seal must have been undone somehow! response:	I don't know how...
+context: Earth Spider?\Don't you remember?\Mikage-sama sealed it away several centuries ago!\Oh!\Mikage-sama defeated the beast,\but the miasma it left behind was so enormous that he only managed to seal it!\That seal must have been undone somehow!\I don't know how... response:	I don't know how it was undone, but I do know that we're done for!
+context: Don't you remember?\Mikage-sama sealed it away several centuries ago!\Oh!\Mikage-sama defeated the beast,\but the miasma it left behind was so enormous that he only managed to seal it!\That seal must have been undone somehow!\I don't know how...\I don't know how it was undone, but I do know that we're done for! response:	Kotetsu!
+context: Mikage-sama sealed it away several centuries ago!\Oh!\Mikage-sama defeated the beast,\but the miasma it left behind was so enormous that he only managed to seal it!\That seal must have been undone somehow!\I don't know how...\I don't know how it was undone, but I do know that we're done for!\Kotetsu! response:	Kotetsu!
+context: Oh!\Mikage-sama defeated the beast,\but the miasma it left behind was so enormous that he only managed to seal it!\That seal must have been undone somehow!\I don't know how...\I don't know how it was undone, but I do know that we're done for!\Kotetsu!\Kotetsu! response:	Tailwind Max!
+context: Mikage-sama defeated the beast,\but the miasma it left behind was so enormous that he only managed to seal it!\That seal must have been undone somehow!\I don't know how...\I don't know how it was undone, but I do know that we're done for!\Kotetsu!\Kotetsu!\Tailwind Max! response:	Nanami-sama!
+context: but the miasma it left behind was so enormous that he only managed to seal it!\That seal must have been undone somehow!\I don't know how...\I don't know how it was undone, but I do know that we're done for!\Kotetsu!\Kotetsu!\Tailwind Max!\Nanami-sama! response:	Kotetsu...
+context: That seal must have been undone somehow!\I don't know how...\I don't know how it was undone, but I do know that we're done for!\Kotetsu!\Kotetsu!\Tailwind Max!\Nanami-sama!\Kotetsu... response:	Nanami-sama, you've returned!
+context: I don't know how...\I don't know how it was undone, but I do know that we're done for!\Kotetsu!\Kotetsu!\Tailwind Max!\Nanami-sama!\Kotetsu...\Nanami-sama, you've returned! response:	Kotetetsu-kun, are you okay?
+context: I don't know how it was undone, but I do know that we're done for!\Kotetsu!\Kotetsu!\Tailwind Max!\Nanami-sama!\Kotetsu...\Nanami-sama, you've returned!\Kotetetsu-kun, are you okay? response:	You mustn't come closer!
+context: Kotetsu!\Kotetsu!\Tailwind Max!\Nanami-sama!\Kotetsu...\Nanami-sama, you've returned!\Kotetetsu-kun, are you okay?\You mustn't come closer! response:	We're okay because we're not human,
+context: Kotetsu!\Tailwind Max!\Nanami-sama!\Kotetsu...\Nanami-sama, you've returned!\Kotetetsu-kun, are you okay?\You mustn't come closer!\We're okay because we're not human, response:	But since you are, you mustn't come in contact with the miasma!
+context: Tailwind Max!\Nanami-sama!\Kotetsu...\Nanami-sama, you've returned!\Kotetetsu-kun, are you okay?\You mustn't come closer!\We're okay because we're not human,\But since you are, you mustn't come in contact with the miasma! response:	Kotetsu...
+context: Nanami-sama!\Kotetsu...\Nanami-sama, you've returned!\Kotetetsu-kun, are you okay?\You mustn't come closer!\We're okay because we're not human,\But since you are, you mustn't come in contact with the miasma!\Kotetsu... response:	Kotetsu-kun...
+context: Kotetsu...\Nanami-sama, you've returned!\Kotetetsu-kun, are you okay?\You mustn't come closer!\We're okay because we're not human,\But since you are, you mustn't come in contact with the miasma!\Kotetsu...\Kotetsu-kun... response:	I'm sorry I left without saying anything!
+context: Nanami-sama, you've returned!\Kotetetsu-kun, are you okay?\You mustn't come closer!\We're okay because we're not human,\But since you are, you mustn't come in contact with the miasma!\Kotetsu...\Kotetsu-kun...\I'm sorry I left without saying anything! response:	Nanami-sama!
+context: Kotetetsu-kun, are you okay?\You mustn't come closer!\We're okay because we're not human,\But since you are, you mustn't come in contact with the miasma!\Kotetsu...\Kotetsu-kun...\I'm sorry I left without saying anything!\Nanami-sama! response:	Nanami-sama!
+context: You mustn't come closer!\We're okay because we're not human,\But since you are, you mustn't come in contact with the miasma!\Kotetsu...\Kotetsu-kun...\I'm sorry I left without saying anything!\Nanami-sama!\Nanami-sama! response:	Nanami-sama, we can't let this miasma reach the town!
+context: We're okay because we're not human,\But since you are, you mustn't come in contact with the miasma!\Kotetsu...\Kotetsu-kun...\I'm sorry I left without saying anything!\Nanami-sama!\Nanami-sama!\Nanami-sama, we can't let this miasma reach the town! response:	We... We have to do something!
+context: But since you are, you mustn't come in contact with the miasma!\Kotetsu...\Kotetsu-kun...\I'm sorry I left without saying anything!\Nanami-sama!\Nanami-sama!\Nanami-sama, we can't let this miasma reach the town!\We... We have to do something! response:	There are people down there who are looking forward to the festival.
+context: Kotetsu...\Kotetsu-kun...\I'm sorry I left without saying anything!\Nanami-sama!\Nanami-sama!\Nanami-sama, we can't let this miasma reach the town!\We... We have to do something!\There are people down there who are looking forward to the festival. response:	I'll protect the city no matter what!
+context: Kotetsu-kun...\I'm sorry I left without saying anything!\Nanami-sama!\Nanami-sama!\Nanami-sama, we can't let this miasma reach the town!\We... We have to do something!\There are people down there who are looking forward to the festival.\I'll protect the city no matter what! response:	Nanami-sama!
+context: I'm sorry I left without saying anything!\Nanami-sama!\Nanami-sama!\Nanami-sama, we can't let this miasma reach the town!\We... We have to do something!\There are people down there who are looking forward to the festival.\I'll protect the city no matter what!\Nanami-sama! response:	Nanami-sama!
+context: Nanami-sama!\Nanami-sama!\Nanami-sama, we can't let this miasma reach the town!\We... We have to do something!\There are people down there who are looking forward to the festival.\I'll protect the city no matter what!\Nanami-sama!\Nanami-sama! response:	What?!
+context: Nanami-sama!\Nanami-sama, we can't let this miasma reach the town!\We... We have to do something!\There are people down there who are looking forward to the festival.\I'll protect the city no matter what!\Nanami-sama!\Nanami-sama!\What?! response:	Nanami?
+context: Nanami-sama, we can't let this miasma reach the town!\We... We have to do something!\There are people down there who are looking forward to the festival.\I'll protect the city no matter what!\Nanami-sama!\Nanami-sama!\What?!\Nanami? response:	Nanami...
+context: We... We have to do something!\There are people down there who are looking forward to the festival.\I'll protect the city no matter what!\Nanami-sama!\Nanami-sama!\What?!\Nanami?\Nanami... response:	The Earth Spider?
+context: There are people down there who are looking forward to the festival.\I'll protect the city no matter what!\Nanami-sama!\Nanami-sama!\What?!\Nanami?\Nanami...\The Earth Spider? response:	The Earth Spider is starting to reveal itself.
+context: I'll protect the city no matter what!\Nanami-sama!\Nanami-sama!\What?!\Nanami?\Nanami...\The Earth Spider?\The Earth Spider is starting to reveal itself. response:	This is freaking scary!
+context: Nanami-sama!\Nanami-sama!\What?!\Nanami?\Nanami...\The Earth Spider?\The Earth Spider is starting to reveal itself.\This is freaking scary! response:	Nanami-sama!
+context: Nanami-sama!\What?!\Nanami?\Nanami...\The Earth Spider?\The Earth Spider is starting to reveal itself.\This is freaking scary!\Nanami-sama! response:	Nanami!
+context: What?!\Nanami?\Nanami...\The Earth Spider?\The Earth Spider is starting to reveal itself.\This is freaking scary!\Nanami-sama!\Nanami! response:	Nanami-chan's ritual is repelling it!
+context: Nanami?\Nanami...\The Earth Spider?\The Earth Spider is starting to reveal itself.\This is freaking scary!\Nanami-sama!\Nanami!\Nanami-chan's ritual is repelling it! response:	Her dancing is flawless.
+context: Nanami...\The Earth Spider?\The Earth Spider is starting to reveal itself.\This is freaking scary!\Nanami-sama!\Nanami!\Nanami-chan's ritual is repelling it!\Her dancing is flawless. response:	When did she get so...
+context: The Earth Spider?\The Earth Spider is starting to reveal itself.\This is freaking scary!\Nanami-sama!\Nanami!\Nanami-chan's ritual is repelling it!\Her dancing is flawless.\When did she get so... response:	Nanami-sama, you're so elegant!
+context: The Earth Spider is starting to reveal itself.\This is freaking scary!\Nanami-sama!\Nanami!\Nanami-chan's ritual is repelling it!\Her dancing is flawless.\When did she get so...\Nanami-sama, you're so elegant! response:	So beautiful!
+context: This is freaking scary!\Nanami-sama!\Nanami!\Nanami-chan's ritual is repelling it!\Her dancing is flawless.\When did she get so...\Nanami-sama, you're so elegant!\So beautiful! response:	Yeah!
+context: Nanami-sama!\Nanami!\Nanami-chan's ritual is repelling it!\Her dancing is flawless.\When did she get so...\Nanami-sama, you're so elegant!\So beautiful!\Yeah! response:	Yeah!
+context: Nanami!\Nanami-chan's ritual is repelling it!\Her dancing is flawless.\When did she get so...\Nanami-sama, you're so elegant!\So beautiful!\Yeah!\Yeah! response:	Girl...
+context: Nanami-chan's ritual is repelling it!\Her dancing is flawless.\When did she get so...\Nanami-sama, you're so elegant!\So beautiful!\Yeah!\Yeah!\Girl... response:	My, what a divine performance!
+context: Her dancing is flawless.\When did she get so...\Nanami-sama, you're so elegant!\So beautiful!\Yeah!\Yeah!\Girl...\My, what a divine performance! response:	Mikage?
+context: When did she get so...\Nanami-sama, you're so elegant!\So beautiful!\Yeah!\Yeah!\Girl...\My, what a divine performance!\Mikage? response:	Right.
+context: Nanami-sama, you're so elegant!\So beautiful!\Yeah!\Yeah!\Girl...\My, what a divine performance!\Mikage?\Right. response:	Left.
+context: So beautiful!\Yeah!\Yeah!\Girl...\My, what a divine performance!\Mikage?\Right.\Left. response:	Forward.
+context: Yeah!\Yeah!\Girl...\My, what a divine performance!\Mikage?\Right.\Left.\Forward. response:	Left.
+context: Yeah!\Girl...\My, what a divine performance!\Mikage?\Right.\Left.\Forward.\Left. response:	Right.
+context: Girl...\My, what a divine performance!\Mikage?\Right.\Left.\Forward.\Left.\Right. response:	Left.
+context: My, what a divine performance!\Mikage?\Right.\Left.\Forward.\Left.\Right.\Left. response:	Right.
+context: Mikage?\Right.\Left.\Forward.\Left.\Right.\Left.\Right. response:	That's right, Nanami, you're doing great.
+context: Right.\Left.\Forward.\Left.\Right.\Left.\Right.\That's right, Nanami, you're doing great. response:	Now all you have to do is not trip...
+context: Left.\Forward.\Left.\Right.\Left.\Right.\That's right, Nanami, you're doing great.\Now all you have to do is not trip... response:	She tripped.
+context: Forward.\Left.\Right.\Left.\Right.\That's right, Nanami, you're doing great.\Now all you have to do is not trip...\She tripped. response:	Nanami-sama!
+context: Left.\Right.\Left.\Right.\That's right, Nanami, you're doing great.\Now all you have to do is not trip...\She tripped.\Nanami-sama! response:	Really?
+context: Right.\Left.\Right.\That's right, Nanami, you're doing great.\Now all you have to do is not trip...\She tripped.\Nanami-sama!\Really? response:	Nanami-sama!
+context: Left.\Right.\That's right, Nanami, you're doing great.\Now all you have to do is not trip...\She tripped.\Nanami-sama!\Really?\Nanami-sama! response:	Tomoe!
+context: Right.\That's right, Nanami, you're doing great.\Now all you have to do is not trip...\She tripped.\Nanami-sama!\Really?\Nanami-sama!\Tomoe! response:	Nanami!
+context: That's right, Nanami, you're doing great.\Now all you have to do is not trip...\She tripped.\Nanami-sama!\Really?\Nanami-sama!\Tomoe!\Nanami! response:	I chose you as my master.
+context: Now all you have to do is not trip...\She tripped.\Nanami-sama!\Really?\Nanami-sama!\Tomoe!\Nanami!\I chose you as my master. response:	Don't be scared.
+context: She tripped.\Nanami-sama!\Really?\Nanami-sama!\Tomoe!\Nanami!\I chose you as my master.\Don't be scared. response:	Tomoe!
+context: Nanami-sama!\Really?\Nanami-sama!\Tomoe!\Nanami!\I chose you as my master.\Don't be scared.\Tomoe! response:	Nanami, your bells!
+context: Really?\Nanami-sama!\Tomoe!\Nanami!\I chose you as my master.\Don't be scared.\Tomoe!\Nanami, your bells! response:	Mizuki!
+context: Nanami-sama!\Tomoe!\Nanami!\I chose you as my master.\Don't be scared.\Tomoe!\Nanami, your bells!\Mizuki! response:	I'm your familiar too. I'll support you as best as I can.
+context: Tomoe!\Nanami!\I chose you as my master.\Don't be scared.\Tomoe!\Nanami, your bells!\Mizuki!\I'm your familiar too. I'll support you as best as I can. response:	That girl...
+context: Nanami!\I chose you as my master.\Don't be scared.\Tomoe!\Nanami, your bells!\Mizuki!\I'm your familiar too. I'll support you as best as I can.\That girl... response:	She's as I envisioned.
+context: I chose you as my master.\Don't be scared.\Tomoe!\Nanami, your bells!\Mizuki!\I'm your familiar too. I'll support you as best as I can.\That girl...\She's as I envisioned. response:	Mikage, you planned this from the beginning?
+context: Don't be scared.\Tomoe!\Nanami, your bells!\Mizuki!\I'm your familiar too. I'll support you as best as I can.\That girl...\She's as I envisioned.\Mikage, you planned this from the beginning? response:	Maybe.
+context: Tomoe!\Nanami, your bells!\Mizuki!\I'm your familiar too. I'll support you as best as I can.\That girl...\She's as I envisioned.\Mikage, you planned this from the beginning?\Maybe. response:	Maybe not.
+context: Nanami, your bells!\Mizuki!\I'm your familiar too. I'll support you as best as I can.\That girl...\She's as I envisioned.\Mikage, you planned this from the beginning?\Maybe.\Maybe not. response:	W-What?
+context: Mizuki!\I'm your familiar too. I'll support you as best as I can.\That girl...\She's as I envisioned.\Mikage, you planned this from the beginning?\Maybe.\Maybe not.\W-What? response:	Mikage!
+context: I'm your familiar too. I'll support you as best as I can.\That girl...\She's as I envisioned.\Mikage, you planned this from the beginning?\Maybe.\Maybe not.\W-What?\Mikage! response:	Mikage?
+context: That girl...\She's as I envisioned.\Mikage, you planned this from the beginning?\Maybe.\Maybe not.\W-What?\Mikage!\Mikage? response:	Nanami!
+context: She's as I envisioned.\Mikage, you planned this from the beginning?\Maybe.\Maybe not.\W-What?\Mikage!\Mikage?\Nanami! response:	Are you hurt?
+context: Mikage, you planned this from the beginning?\Maybe.\Maybe not.\W-What?\Mikage!\Mikage?\Nanami!\Are you hurt? response:	I did it.
+context: Maybe.\Maybe not.\W-What?\Mikage!\Mikage?\Nanami!\Are you hurt?\I did it. response:	I did it, Tomoe!
+context: Maybe not.\W-What?\Mikage!\Mikage?\Nanami!\Are you hurt?\I did it.\I did it, Tomoe! response:	Yeah.
+context: W-What?\Mikage!\Mikage?\Nanami!\Are you hurt?\I did it.\I did it, Tomoe!\Yeah. response:	Nanami-sama!
+context: Mikage!\Mikage?\Nanami!\Are you hurt?\I did it.\I did it, Tomoe!\Yeah.\Nanami-sama! response:	Kotetsu's back to normal!
+context: Mikage?\Nanami!\Are you hurt?\I did it.\I did it, Tomoe!\Yeah.\Nanami-sama!\Kotetsu's back to normal! response:	Kotetsu-kun!
+context: Nanami!\Are you hurt?\I did it.\I did it, Tomoe!\Yeah.\Nanami-sama!\Kotetsu's back to normal!\Kotetsu-kun! response:	Thank goodness... Thank goodness!
+context: Are you hurt?\I did it.\I did it, Tomoe!\Yeah.\Nanami-sama!\Kotetsu's back to normal!\Kotetsu-kun!\Thank goodness... Thank goodness! response:	Nanami-sama, thank you so much!
+context: I did it.\I did it, Tomoe!\Yeah.\Nanami-sama!\Kotetsu's back to normal!\Kotetsu-kun!\Thank goodness... Thank goodness!\Nanami-sama, thank you so much! response:	Nanami-chan, you're amazing.
+context: I did it, Tomoe!\Yeah.\Nanami-sama!\Kotetsu's back to normal!\Kotetsu-kun!\Thank goodness... Thank goodness!\Nanami-sama, thank you so much!\Nanami-chan, you're amazing. response:	Tomoe...
+context: Yeah.\Nanami-sama!\Kotetsu's back to normal!\Kotetsu-kun!\Thank goodness... Thank goodness!\Nanami-sama, thank you so much!\Nanami-chan, you're amazing.\Tomoe... response:	What is it?
+context: Nanami-sama!\Kotetsu's back to normal!\Kotetsu-kun!\Thank goodness... Thank goodness!\Nanami-sama, thank you so much!\Nanami-chan, you're amazing.\Tomoe...\What is it? response:	Catch me.
+context: Kotetsu's back to normal!\Kotetsu-kun!\Thank goodness... Thank goodness!\Nanami-sama, thank you so much!\Nanami-chan, you're amazing.\Tomoe...\What is it?\Catch me. response:	Thus, the day of the long-awaited fall festival finally came.
+context: Kotetsu-kun!\Thank goodness... Thank goodness!\Nanami-sama, thank you so much!\Nanami-chan, you're amazing.\Tomoe...\What is it?\Catch me.\Thus, the day of the long-awaited fall festival finally came. response:	Oh, it looks like it's a huge success.
+context: Thank goodness... Thank goodness!\Nanami-sama, thank you so much!\Nanami-chan, you're amazing.\Tomoe...\What is it?\Catch me.\Thus, the day of the long-awaited fall festival finally came.\Oh, it looks like it's a huge success. response:	That's totally unhygienic!
+context: Nanami-sama, thank you so much!\Nanami-chan, you're amazing.\Tomoe...\What is it?\Catch me.\Thus, the day of the long-awaited fall festival finally came.\Oh, it looks like it's a huge success.\That's totally unhygienic! response:	But come on!
+context: Nanami-chan, you're amazing.\Tomoe...\What is it?\Catch me.\Thus, the day of the long-awaited fall festival finally came.\Oh, it looks like it's a huge success.\That's totally unhygienic!\But come on! response:	People actually came!
+context: Tomoe...\What is it?\Catch me.\Thus, the day of the long-awaited fall festival finally came.\Oh, it looks like it's a huge success.\That's totally unhygienic!\But come on!\People actually came! response:	I spent quite a bit of time handing those fliers out.
+context: What is it?\Catch me.\Thus, the day of the long-awaited fall festival finally came.\Oh, it looks like it's a huge success.\That's totally unhygienic!\But come on!\People actually came!\I spent quite a bit of time handing those fliers out. response:	But who put all of this up?
+context: Catch me.\Thus, the day of the long-awaited fall festival finally came.\Oh, it looks like it's a huge success.\That's totally unhygienic!\But come on!\People actually came!\I spent quite a bit of time handing those fliers out.\But who put all of this up? response:	You can thank my crew and me for that.
+context: Thus, the day of the long-awaited fall festival finally came.\Oh, it looks like it's a huge success.\That's totally unhygienic!\But come on!\People actually came!\I spent quite a bit of time handing those fliers out.\But who put all of this up?\You can thank my crew and me for that. response:	We helped!
+context: Oh, it looks like it's a huge success.\That's totally unhygienic!\But come on!\People actually came!\I spent quite a bit of time handing those fliers out.\But who put all of this up?\You can thank my crew and me for that.\We helped! response:	Princess!
+context: That's totally unhygienic!\But come on!\People actually came!\I spent quite a bit of time handing those fliers out.\But who put all of this up?\You can thank my crew and me for that.\We helped!\Princess! response:	Where did you get those clothes? They're super-cute!
+context: But come on!\People actually came!\I spent quite a bit of time handing those fliers out.\But who put all of this up?\You can thank my crew and me for that.\We helped!\Princess!\Where did you get those clothes? They're super-cute! response:	Really?
+context: People actually came!\I spent quite a bit of time handing those fliers out.\But who put all of this up?\You can thank my crew and me for that.\We helped!\Princess!\Where did you get those clothes? They're super-cute!\Really? response:	Hold up!
+context: I spent quite a bit of time handing those fliers out.\But who put all of this up?\You can thank my crew and me for that.\We helped!\Princess!\Where did you get those clothes? They're super-cute!\Really?\Hold up! response:	How can you guys start the party without me?
+context: But who put all of this up?\You can thank my crew and me for that.\We helped!\Princess!\Where did you get those clothes? They're super-cute!\Really?\Hold up!\How can you guys start the party without me? response:	The Dragon King has arrived! This show's mine now!
+context: You can thank my crew and me for that.\We helped!\Princess!\Where did you get those clothes? They're super-cute!\Really?\Hold up!\How can you guys start the party without me?\The Dragon King has arrived! This show's mine now! response:	You came too!
+context: We helped!\Princess!\Where did you get those clothes? They're super-cute!\Really?\Hold up!\How can you guys start the party without me?\The Dragon King has arrived! This show's mine now!\You came too! response:	You're the one who sent me this invitation!
+context: Princess!\Where did you get those clothes? They're super-cute!\Really?\Hold up!\How can you guys start the party without me?\The Dragon King has arrived! This show's mine now!\You came too!\You're the one who sent me this invitation! response:	So I decided I'd do you stinkin' landlubbers a favor and come here.
+context: Where did you get those clothes? They're super-cute!\Really?\Hold up!\How can you guys start the party without me?\The Dragon King has arrived! This show's mine now!\You came too!\You're the one who sent me this invitation!\So I decided I'd do you stinkin' landlubbers a favor and come here. response:	Landlubbers?
+context: Really?\Hold up!\How can you guys start the party without me?\The Dragon King has arrived! This show's mine now!\You came too!\You're the one who sent me this invitation!\So I decided I'd do you stinkin' landlubbers a favor and come here.\Landlubbers? response:	Why the hell are you here looking like a demon?!
+context: Hold up!\How can you guys start the party without me?\The Dragon King has arrived! This show's mine now!\You came too!\You're the one who sent me this invitation!\So I decided I'd do you stinkin' landlubbers a favor and come here.\Landlubbers?\Why the hell are you here looking like a demon?! response:	At least pretend to be in disguise!
+context: How can you guys start the party without me?\The Dragon King has arrived! This show's mine now!\You came too!\You're the one who sent me this invitation!\So I decided I'd do you stinkin' landlubbers a favor and come here.\Landlubbers?\Why the hell are you here looking like a demon?!\At least pretend to be in disguise! response:	What the hell do you want, Fox?
+context: The Dragon King has arrived! This show's mine now!\You came too!\You're the one who sent me this invitation!\So I decided I'd do you stinkin' landlubbers a favor and come here.\Landlubbers?\Why the hell are you here looking like a demon?!\At least pretend to be in disguise!\What the hell do you want, Fox? response:	Get away! You landlubbers stink!
+context: You came too!\You're the one who sent me this invitation!\So I decided I'd do you stinkin' landlubbers a favor and come here.\Landlubbers?\Why the hell are you here looking like a demon?!\At least pretend to be in disguise!\What the hell do you want, Fox?\Get away! You landlubbers stink! response:	Earth Deity.
+context: You're the one who sent me this invitation!\So I decided I'd do you stinkin' landlubbers a favor and come here.\Landlubbers?\Why the hell are you here looking like a demon?!\At least pretend to be in disguise!\What the hell do you want, Fox?\Get away! You landlubbers stink!\Earth Deity. response:	It is our pleasure to meet you.
+context: So I decided I'd do you stinkin' landlubbers a favor and come here.\Landlubbers?\Why the hell are you here looking like a demon?!\At least pretend to be in disguise!\What the hell do you want, Fox?\Get away! You landlubbers stink!\Earth Deity.\It is our pleasure to meet you. response:	We are spirits that hail from lands south of here.
+context: Landlubbers?\Why the hell are you here looking like a demon?!\At least pretend to be in disguise!\What the hell do you want, Fox?\Get away! You landlubbers stink!\Earth Deity.\It is our pleasure to meet you.\We are spirits that hail from lands south of here. response:	We traveled here when we heard that you knew the ancient Kagura dances.
+context: Why the hell are you here looking like a demon?!\At least pretend to be in disguise!\What the hell do you want, Fox?\Get away! You landlubbers stink!\Earth Deity.\It is our pleasure to meet you.\We are spirits that hail from lands south of here.\We traveled here when we heard that you knew the ancient Kagura dances. response:	If we could have your blessing...
+context: At least pretend to be in disguise!\What the hell do you want, Fox?\Get away! You landlubbers stink!\Earth Deity.\It is our pleasure to meet you.\We are spirits that hail from lands south of here.\We traveled here when we heard that you knew the ancient Kagura dances.\If we could have your blessing... response:	We would be ever so grateful.
+context: What the hell do you want, Fox?\Get away! You landlubbers stink!\Earth Deity.\It is our pleasure to meet you.\We are spirits that hail from lands south of here.\We traveled here when we heard that you knew the ancient Kagura dances.\If we could have your blessing...\We would be ever so grateful. response:	Glory to the Earth Deity!
+context: Get away! You landlubbers stink!\Earth Deity.\It is our pleasure to meet you.\We are spirits that hail from lands south of here.\We traveled here when we heard that you knew the ancient Kagura dances.\If we could have your blessing...\We would be ever so grateful.\Glory to the Earth Deity! response:	It's Kurama-sama!
+context: Earth Deity.\It is our pleasure to meet you.\We are spirits that hail from lands south of here.\We traveled here when we heard that you knew the ancient Kagura dances.\If we could have your blessing...\We would be ever so grateful.\Glory to the Earth Deity!\It's Kurama-sama! response:	For cryin' out loud, can't I get one night to myself? This was supposed to be low-key.
+context: It is our pleasure to meet you.\We are spirits that hail from lands south of here.\We traveled here when we heard that you knew the ancient Kagura dances.\If we could have your blessing...\We would be ever so grateful.\Glory to the Earth Deity!\It's Kurama-sama!\For cryin' out loud, can't I get one night to myself? This was supposed to be low-key. response:	Oh, you're back Nanami?
+context: We are spirits that hail from lands south of here.\We traveled here when we heard that you knew the ancient Kagura dances.\If we could have your blessing...\We would be ever so grateful.\Glory to the Earth Deity!\It's Kurama-sama!\For cryin' out loud, can't I get one night to myself? This was supposed to be low-key.\Oh, you're back Nanami? response:	You can't call that outfit low-key.
+context: We traveled here when we heard that you knew the ancient Kagura dances.\If we could have your blessing...\We would be ever so grateful.\Glory to the Earth Deity!\It's Kurama-sama!\For cryin' out loud, can't I get one night to myself? This was supposed to be low-key.\Oh, you're back Nanami?\You can't call that outfit low-key. response:	You there. Give me a mask.
+context: If we could have your blessing...\We would be ever so grateful.\Glory to the Earth Deity!\It's Kurama-sama!\For cryin' out loud, can't I get one night to myself? This was supposed to be low-key.\Oh, you're back Nanami?\You can't call that outfit low-key.\You there. Give me a mask. response:	Of course! These are called death masks! They
+context: We would be ever so grateful.\Glory to the Earth Deity!\It's Kurama-sama!\For cryin' out loud, can't I get one night to myself? This was supposed to be low-key.\Oh, you're back Nanami?\You can't call that outfit low-key.\You there. Give me a mask.\Of course! These are called death masks! They response:	I know. It looks like your face just died a bit.
+context: Glory to the Earth Deity!\It's Kurama-sama!\For cryin' out loud, can't I get one night to myself? This was supposed to be low-key.\Oh, you're back Nanami?\You can't call that outfit low-key.\You there. Give me a mask.\Of course! These are called death masks! They\I know. It looks like your face just died a bit. response:	Keep the change.
+context: It's Kurama-sama!\For cryin' out loud, can't I get one night to myself? This was supposed to be low-key.\Oh, you're back Nanami?\You can't call that outfit low-key.\You there. Give me a mask.\Of course! These are called death masks! They\I know. It looks like your face just died a bit.\Keep the change. response:	That was a person, right?
+context: For cryin' out loud, can't I get one night to myself? This was supposed to be low-key.\Oh, you're back Nanami?\You can't call that outfit low-key.\You there. Give me a mask.\Of course! These are called death masks! They\I know. It looks like your face just died a bit.\Keep the change.\That was a person, right? response:	Nanami-sama, it's almost time for your performance!
+context: Oh, you're back Nanami?\You can't call that outfit low-key.\You there. Give me a mask.\Of course! These are called death masks! They\I know. It looks like your face just died a bit.\Keep the change.\That was a person, right?\Nanami-sama, it's almost time for your performance! response:	Oh, right.
+context: You can't call that outfit low-key.\You there. Give me a mask.\Of course! These are called death masks! They\I know. It looks like your face just died a bit.\Keep the change.\That was a person, right?\Nanami-sama, it's almost time for your performance!\Oh, right. response:	We'll prepare your change of clothes.
+context: You there. Give me a mask.\Of course! These are called death masks! They\I know. It looks like your face just died a bit.\Keep the change.\That was a person, right?\Nanami-sama, it's almost time for your performance!\Oh, right.\We'll prepare your change of clothes. response:	We'll be waiting!
+context: Of course! These are called death masks! They\I know. It looks like your face just died a bit.\Keep the change.\That was a person, right?\Nanami-sama, it's almost time for your performance!\Oh, right.\We'll prepare your change of clothes.\We'll be waiting! response:	Okay.
+context: I know. It looks like your face just died a bit.\Keep the change.\That was a person, right?\Nanami-sama, it's almost time for your performance!\Oh, right.\We'll prepare your change of clothes.\We'll be waiting!\Okay. response:	I managed to dance in front of that beast,
+context: Keep the change.\That was a person, right?\Nanami-sama, it's almost time for your performance!\Oh, right.\We'll prepare your change of clothes.\We'll be waiting!\Okay.\I managed to dance in front of that beast, response:	but dancing in front of a crowd is a different story!
+context: That was a person, right?\Nanami-sama, it's almost time for your performance!\Oh, right.\We'll prepare your change of clothes.\We'll be waiting!\Okay.\I managed to dance in front of that beast,\but dancing in front of a crowd is a different story! response:	Don't worry about it, young lady.
+context: Nanami-sama, it's almost time for your performance!\Oh, right.\We'll prepare your change of clothes.\We'll be waiting!\Okay.\I managed to dance in front of that beast,\but dancing in front of a crowd is a different story!\Don't worry about it, young lady. response:	Oh, it's that one ladyor is that a guylady?
+context: Oh, right.\We'll prepare your change of clothes.\We'll be waiting!\Okay.\I managed to dance in front of that beast,\but dancing in front of a crowd is a different story!\Don't worry about it, young lady.\Oh, it's that one ladyor is that a guylady? response:	I hope you weren't talking about me.
+context: We'll prepare your change of clothes.\We'll be waiting!\Okay.\I managed to dance in front of that beast,\but dancing in front of a crowd is a different story!\Don't worry about it, young lady.\Oh, it's that one ladyor is that a guylady?\I hope you weren't talking about me. response:	Have these. I bought them in town.
+context: We'll be waiting!\Okay.\I managed to dance in front of that beast,\but dancing in front of a crowd is a different story!\Don't worry about it, young lady.\Oh, it's that one ladyor is that a guylady?\I hope you weren't talking about me.\Have these. I bought them in town. response:	Thanks!
+context: Okay.\I managed to dance in front of that beast,\but dancing in front of a crowd is a different story!\Don't worry about it, young lady.\Oh, it's that one ladyor is that a guylady?\I hope you weren't talking about me.\Have these. I bought them in town.\Thanks! response:	I'm sure you'll do a fine job.
+context: I managed to dance in front of that beast,\but dancing in front of a crowd is a different story!\Don't worry about it, young lady.\Oh, it's that one ladyor is that a guylady?\I hope you weren't talking about me.\Have these. I bought them in town.\Thanks!\I'm sure you'll do a fine job. response:	See ya around, girl!
+context: but dancing in front of a crowd is a different story!\Don't worry about it, young lady.\Oh, it's that one ladyor is that a guylady?\I hope you weren't talking about me.\Have these. I bought them in town.\Thanks!\I'm sure you'll do a fine job.\See ya around, girl! response:	Let's meet again someday!
+context: Don't worry about it, young lady.\Oh, it's that one ladyor is that a guylady?\I hope you weren't talking about me.\Have these. I bought them in town.\Thanks!\I'm sure you'll do a fine job.\See ya around, girl!\Let's meet again someday! response:	Nanami!
+context: Oh, it's that one ladyor is that a guylady?\I hope you weren't talking about me.\Have these. I bought them in town.\Thanks!\I'm sure you'll do a fine job.\See ya around, girl!\Let's meet again someday!\Nanami! response:	Nanami...
+context: I hope you weren't talking about me.\Have these. I bought them in town.\Thanks!\I'm sure you'll do a fine job.\See ya around, girl!\Let's meet again someday!\Nanami!\Nanami... response:	And so the festival ended with a magnificent finale.
+context: Have these. I bought them in town.\Thanks!\I'm sure you'll do a fine job.\See ya around, girl!\Let's meet again someday!\Nanami!\Nanami...\And so the festival ended with a magnificent finale. response:	Those who were touched by her performance left with glowing hearts that night.
+context: Thanks!\I'm sure you'll do a fine job.\See ya around, girl!\Let's meet again someday!\Nanami!\Nanami...\And so the festival ended with a magnificent finale.\Those who were touched by her performance left with glowing hearts that night. response:	That went much better than expected.
+context: I'm sure you'll do a fine job.\See ya around, girl!\Let's meet again someday!\Nanami!\Nanami...\And so the festival ended with a magnificent finale.\Those who were touched by her performance left with glowing hearts that night.\That went much better than expected. response:	The rumors about us should die down now.
+context: See ya around, girl!\Let's meet again someday!\Nanami!\Nanami...\And so the festival ended with a magnificent finale.\Those who were touched by her performance left with glowing hearts that night.\That went much better than expected.\The rumors about us should die down now. response:	You did a great job, Nanami-chan. Your dance was splendid!
+context: Let's meet again someday!\Nanami!\Nanami...\And so the festival ended with a magnificent finale.\Those who were touched by her performance left with glowing hearts that night.\That went much better than expected.\The rumors about us should die down now.\You did a great job, Nanami-chan. Your dance was splendid! response:	Thanks, Mizuki.
+context: Nanami!\Nanami...\And so the festival ended with a magnificent finale.\Those who were touched by her performance left with glowing hearts that night.\That went much better than expected.\The rumors about us should die down now.\You did a great job, Nanami-chan. Your dance was splendid!\Thanks, Mizuki. response:	But my muscles are sore...
+context: Nanami...\And so the festival ended with a magnificent finale.\Those who were touched by her performance left with glowing hearts that night.\That went much better than expected.\The rumors about us should die down now.\You did a great job, Nanami-chan. Your dance was splendid!\Thanks, Mizuki.\But my muscles are sore... response:	I really hope we get more followers now.
+context: And so the festival ended with a magnificent finale.\Those who were touched by her performance left with glowing hearts that night.\That went much better than expected.\The rumors about us should die down now.\You did a great job, Nanami-chan. Your dance was splendid!\Thanks, Mizuki.\But my muscles are sore...\I really hope we get more followers now. response:	Yeah!
+context: Those who were touched by her performance left with glowing hearts that night.\That went much better than expected.\The rumors about us should die down now.\You did a great job, Nanami-chan. Your dance was splendid!\Thanks, Mizuki.\But my muscles are sore...\I really hope we get more followers now.\Yeah! response:	Oh, we're out of sake. I'll go grab some more.
+context: That went much better than expected.\The rumors about us should die down now.\You did a great job, Nanami-chan. Your dance was splendid!\Thanks, Mizuki.\But my muscles are sore...\I really hope we get more followers now.\Yeah!\Oh, we're out of sake. I'll go grab some more. response:	We'll fetch something to go with the sake.
+context: The rumors about us should die down now.\You did a great job, Nanami-chan. Your dance was splendid!\Thanks, Mizuki.\But my muscles are sore...\I really hope we get more followers now.\Yeah!\Oh, we're out of sake. I'll go grab some more.\We'll fetch something to go with the sake. response:	Onikiri.
+context: You did a great job, Nanami-chan. Your dance was splendid!\Thanks, Mizuki.\But my muscles are sore...\I really hope we get more followers now.\Yeah!\Oh, we're out of sake. I'll go grab some more.\We'll fetch something to go with the sake.\Onikiri. response:	Tomoe, how was my dancing?
+context: Thanks, Mizuki.\But my muscles are sore...\I really hope we get more followers now.\Yeah!\Oh, we're out of sake. I'll go grab some more.\We'll fetch something to go with the sake.\Onikiri.\Tomoe, how was my dancing? response:	Huh?
+context: But my muscles are sore...\I really hope we get more followers now.\Yeah!\Oh, we're out of sake. I'll go grab some more.\We'll fetch something to go with the sake.\Onikiri.\Tomoe, how was my dancing?\Huh? response:	It was quite something. You did well.
+context: I really hope we get more followers now.\Yeah!\Oh, we're out of sake. I'll go grab some more.\We'll fetch something to go with the sake.\Onikiri.\Tomoe, how was my dancing?\Huh?\It was quite something. You did well. response:	Anything else?
+context: Yeah!\Oh, we're out of sake. I'll go grab some more.\We'll fetch something to go with the sake.\Onikiri.\Tomoe, how was my dancing?\Huh?\It was quite something. You did well.\Anything else? response:	What do you mean? That's it.
+context: Oh, we're out of sake. I'll go grab some more.\We'll fetch something to go with the sake.\Onikiri.\Tomoe, how was my dancing?\Huh?\It was quite something. You did well.\Anything else?\What do you mean? That's it. response:	That's it? Nothing else?
+context: We'll fetch something to go with the sake.\Onikiri.\Tomoe, how was my dancing?\Huh?\It was quite something. You did well.\Anything else?\What do you mean? That's it.\That's it? Nothing else? response:	Something like, It was magnificent!?
+context: Onikiri.\Tomoe, how was my dancing?\Huh?\It was quite something. You did well.\Anything else?\What do you mean? That's it.\That's it? Nothing else?\Something like, It was magnificent!? response:	Wow, you really have nothing else.
+context: Tomoe, how was my dancing?\Huh?\It was quite something. You did well.\Anything else?\What do you mean? That's it.\That's it? Nothing else?\Something like, It was magnificent!?\Wow, you really have nothing else. response:	It was magnificent.
+context: Huh?\It was quite something. You did well.\Anything else?\What do you mean? That's it.\That's it? Nothing else?\Something like, It was magnificent!?\Wow, you really have nothing else.\It was magnificent. response:	More than anything else.
+context: It was quite something. You did well.\Anything else?\What do you mean? That's it.\That's it? Nothing else?\Something like, It was magnificent!?\Wow, you really have nothing else.\It was magnificent.\More than anything else. response:	Wait, I couldn't hear that! Can you say that again?
+context: Anything else?\What do you mean? That's it.\That's it? Nothing else?\Something like, It was magnificent!?\Wow, you really have nothing else.\It was magnificent.\More than anything else.\Wait, I couldn't hear that! Can you say that again? response:	Too bad! No second chances!
+context: What do you mean? That's it.\That's it? Nothing else?\Something like, It was magnificent!?\Wow, you really have nothing else.\It was magnificent.\More than anything else.\Wait, I couldn't hear that! Can you say that again?\Too bad! No second chances! response:	Come on! Say it again!
+context: That's it? Nothing else?\Something like, It was magnificent!?\Wow, you really have nothing else.\It was magnificent.\More than anything else.\Wait, I couldn't hear that! Can you say that again?\Too bad! No second chances!\Come on! Say it again! response:	Shut up!
+context: Something like, It was magnificent!?\Wow, you really have nothing else.\It was magnificent.\More than anything else.\Wait, I couldn't hear that! Can you say that again?\Too bad! No second chances!\Come on! Say it again!\Shut up! response:	Actually, I did hear it.
+context: Wow, you really have nothing else.\It was magnificent.\More than anything else.\Wait, I couldn't hear that! Can you say that again?\Too bad! No second chances!\Come on! Say it again!\Shut up!\Actually, I did hear it. response:	That makes me happy.
+context: It was magnificent.\More than anything else.\Wait, I couldn't hear that! Can you say that again?\Too bad! No second chances!\Come on! Say it again!\Shut up!\Actually, I did hear it.\That makes me happy. response:	Nanami...
+context: More than anything else.\Wait, I couldn't hear that! Can you say that again?\Too bad! No second chances!\Come on! Say it again!\Shut up!\Actually, I did hear it.\That makes me happy.\Nanami... response:	Could I make a contract as your familiar?
+context: Wait, I couldn't hear that! Can you say that again?\Too bad! No second chances!\Come on! Say it again!\Shut up!\Actually, I did hear it.\That makes me happy.\Nanami...\Could I make a contract as your familiar? response:	But haven't we already?
+context: Too bad! No second chances!\Come on! Say it again!\Shut up!\Actually, I did hear it.\That makes me happy.\Nanami...\Could I make a contract as your familiar?\But haven't we already? response:	This one's from my heart.
+context: Come on! Say it again!\Shut up!\Actually, I did hear it.\That makes me happy.\Nanami...\Could I make a contract as your familiar?\But haven't we already?\This one's from my heart. response:	Please, God
+context: Shut up!\Actually, I did hear it.\That makes me happy.\Nanami...\Could I make a contract as your familiar?\But haven't we already?\This one's from my heart.\Please, God response:	I...
+context: Actually, I did hear it.\That makes me happy.\Nanami...\Could I make a contract as your familiar?\But haven't we already?\This one's from my heart.\Please, God\I... response:	I want to meet her
+context: That makes me happy.\Nanami...\Could I make a contract as your familiar?\But haven't we already?\This one's from my heart.\Please, God\I...\I want to meet her response:	God, I'm in pain
+context: Nanami...\Could I make a contract as your familiar?\But haven't we already?\This one's from my heart.\Please, God\I...\I want to meet her\God, I'm in pain response:	Because, she...
+context: Could I make a contract as your familiar?\But haven't we already?\This one's from my heart.\Please, God\I...\I want to meet her\God, I'm in pain\Because, she... response:	didn't come today either.
+context: But haven't we already?\This one's from my heart.\Please, God\I...\I want to meet her\God, I'm in pain\Because, she...\didn't come today either. response:	I have a request, God
+context: This one's from my heart.\Please, God\I...\I want to meet her\God, I'm in pain\Because, she...\didn't come today either.\I have a request, God response:	Please, save me
+context: Please, God\I...\I want to meet her\God, I'm in pain\Because, she...\didn't come today either.\I have a request, God\Please, save me response:	farewell, Baby
+context: I...\I want to meet her\God, I'm in pain\Because, she...\didn't come today either.\I have a request, God\Please, save me\farewell, Baby response:	Mikage Shrine's
+context: I want to meet her\God, I'm in pain\Because, she...\didn't come today either.\I have a request, God\Please, save me\farewell, Baby\Mikage Shrine's response:	Mikage Shrine's
+context: God, I'm in pain\Because, she...\didn't come today either.\I have a request, God\Please, save me\farewell, Baby\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Because, she...\didn't come today either.\I have a request, God\Please, save me\farewell, Baby\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: didn't come today either.\I have a request, God\Please, save me\farewell, Baby\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: I have a request, God\Please, save me\farewell, Baby\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Please, save me\farewell, Baby\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: farewell, Baby\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Mikage Shrine's
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's response:	Fall Festival
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Fall Festival response:	Fall Festival
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Fall Festival\Fall Festival response:	Fall Festival
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Mikage Shrine's\Mikage Shrine's\Mikage Shrine's\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Mikage Shrine's\Mikage Shrine's\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Mikage Shrine's\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Fall Festival
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival response:	Open to the public!!
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Open to the public!! response:	Open to the public!!
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Fall Festival\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Fall Festival\Fall Festival\Fall Festival\Fall Festival\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Fall Festival\Fall Festival\Fall Festival\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Fall Festival\Fall Festival\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Fall Festival\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	Open to the public!!
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!! response:	October 21 st
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\October 21 st response:	October 21 st
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\October 21 st\October 21 st response:	October 21 st
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\October 21 st\October 21 st\October 21 st response:	October 21 st
+context: Open to the public!!\Open to the public!!\Open to the public!!\Open to the public!!\October 21 st\October 21 st\October 21 st\October 21 st response:	October 21 st
+context: Open to the public!!\Open to the public!!\Open to the public!!\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st response:	October 21 st
+context: Open to the public!!\Open to the public!!\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st response:	October 21 st
+context: Open to the public!!\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st response:	October 21 st
+context: October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st response:	October 21 st
+context: October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st response:	October 21 st
+context: October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st response:	October 21 st
+context: October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st response:	October 21 st
+context: October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st response:	October 21 st
+context: October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st response:	October 21 st
+context: October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st response:	October 21 st
+context: October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st response:	October 21 st
+context: October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st response:	October 21 st
+context: October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st response:	October 21 st
+context: October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st response:	We'll be waiting at Mikage Shrine!
+context: October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\We'll be waiting at Mikage Shrine! response:	We'll be waiting at Mikage Shrine!
+context: October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine! response:	We'll be waiting at Mikage Shrine!
+context: October 21 st\October 21 st\October 21 st\October 21 st\October 21 st\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine! response:	We'll be waiting at Mikage Shrine!
+context: October 21 st\October 21 st\October 21 st\October 21 st\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine! response:	We'll be waiting at Mikage Shrine!
+context: October 21 st\October 21 st\October 21 st\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine! response:	We'll be waiting at Mikage Shrine!
+context: October 21 st\October 21 st\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine! response:	We'll be waiting at Mikage Shrine!
+context: October 21 st\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine! response:	We'll be waiting at Mikage Shrine!
+context: We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine! response:	We'll be waiting at Mikage Shrine!
+context: We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine! response:	We'll be waiting at Mikage Shrine!
+context: We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine! response:	We'll be waiting at Mikage Shrine!
+context: We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine! response:	We'll be waiting at Mikage Shrine!
+context: We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine! response:	We'll be waiting at Mikage Shrine!
+context: We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine! response:	We'll be waiting at Mikage Shrine!
+context: We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine! response:	We'll be waiting at Mikage Shrine!
+context: We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine! response:	from 5 PM
+context: We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\from 5 PM response:	from 5 PM
+context: We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\from 5 PM\from 5 PM response:	from 5 PM
+context: We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\from 5 PM\from 5 PM\from 5 PM response:	from 5 PM
+context: We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\from 5 PM\from 5 PM\from 5 PM\from 5 PM response:	from 5 PM
+context: We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM response:	from 5 PM
+context: We'll be waiting at Mikage Shrine!\We'll be waiting at Mikage Shrine!\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM response:	from 5 PM
+context: We'll be waiting at Mikage Shrine!\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM response:	from 5 PM
+context: from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM response:	from 5 PM
+context: from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM response:	from 5 PM
+context: from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM response:	from 5 PM
+context: from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM response:	from 5 PM
+context: from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM response:	Sign: Tailwind Max!
+context: from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\Sign: Tailwind Max! response:	Mikage Shrine We're doing a fall festival!
+context: from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\Sign: Tailwind Max!\Mikage Shrine We're doing a fall festival! response:	Mikage Shrine We're doing a fall festival!
+context: from 5 PM\from 5 PM\from 5 PM\from 5 PM\from 5 PM\Sign: Tailwind Max!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival! response:	Mikage Shrine We're doing a fall festival!
+context: from 5 PM\from 5 PM\from 5 PM\from 5 PM\Sign: Tailwind Max!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival! response:	Mikage Shrine We're doing a fall festival!
+context: from 5 PM\from 5 PM\from 5 PM\Sign: Tailwind Max!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival! response:	Mikage Shrine We're doing a fall festival!
+context: from 5 PM\from 5 PM\Sign: Tailwind Max!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival! response:	Mikage Shrine We're doing a fall festival!
+context: from 5 PM\Sign: Tailwind Max!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival! response:	Mikage Shrine We're doing a fall festival!
+context: Sign: Tailwind Max!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival! response:	Mikage Shrine We're doing a fall festival!
+context: Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival! response:	Mikage Shrine We're doing a fall festival!
+context: Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival! response:	Mikage Shrine We're doing a fall festival!
+context: Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival! response:	Mikage Shrine We're doing a fall festival!
+context: Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival! response:	Mikage Shrine We're doing a fall festival!
+context: Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival! response:	Mikage Shrine We're doing a fall festival!
+context: Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival! response:	Make sure you come!
+context: Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Make sure you come! response:	Make sure you come!
+context: Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Make sure you come!\Make sure you come! response:	Make sure you come!
+context: Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Make sure you come!\Make sure you come!\Make sure you come! response:	Make sure you come!
+context: Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come! response:	Make sure you come!
+context: Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come! response:	Make sure you come!
+context: Mikage Shrine We're doing a fall festival!\Mikage Shrine We're doing a fall festival!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come! response:	Make sure you come!
+context: Mikage Shrine We're doing a fall festival!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come! response:	Make sure you come!
+context: Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come! response:	Make sure you come!
+context: Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come! response:	Make sure you come!
+context: Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come! response:	Air
+context: Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Air response:	Air
+context: Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Air\Air response:	Air
+context: Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Air\Air\Air response:	Air
+context: Make sure you come!\Make sure you come!\Make sure you come!\Make sure you come!\Air\Air\Air\Air response:	Air
+context: Make sure you come!\Make sure you come!\Make sure you come!\Air\Air\Air\Air\Air response:	Air
+context: Make sure you come!\Make sure you come!\Air\Air\Air\Air\Air\Air response:	Air
+context: Make sure you come!\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Air
+context: Air\Air\Air\Air\Air\Air\Air\Air response:	Please leave. o
+context: Air\Air\Air\Air\Air\Air\Air\Please leave. o response:	Please leave. o
+context: Air\Air\Air\Air\Air\Air\Please leave. o\Please leave. o response:	Please leave. o
+context: Air\Air\Air\Air\Air\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Air\Air\Air\Air\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Air\Air\Air\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Air\Air\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Air\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	Please leave. o
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o response:	You are being evicted from your apartment.
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\You are being evicted from your apartment.\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\Please leave. o\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: Please leave. o\Please leave. o\Please leave. o\Please leave. o\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: Please leave. o\Please leave. o\Please leave. o\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: Please leave. o\Please leave. o\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: Please leave. o\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment. response:	You are being evicted from your apartment.
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment. response:	I'm going on a trip. Please don't look for me. -Dad
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\You are being evicted from your apartment.\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: You are being evicted from your apartment.\You are being evicted from your apartment.\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: You are being evicted from your apartment.\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	I'm going on a trip. Please don't look for me. -Dad
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad response:	Huh?!
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\Huh?! response:	Huh?!
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\Huh?!\Huh?! response:	Huh?!
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: I'm going on a trip. Please don't look for me. -Dad\I'm going on a trip. Please don't look for me. -Dad\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: I'm going on a trip. Please don't look for me. -Dad\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Huh?!
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?! response:	Air
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Air response:	Ko na ka tta
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Air\Ko na ka tta response:	Good bye
+context: Huh?!\Huh?!\Huh?!\Huh?!\Huh?!\Air\Ko na ka tta\Good bye response:	Good bye
+context: Huh?!\Huh?!\Huh?!\Huh?!\Air\Ko na ka tta\Good bye\Good bye response:	Good bye
+context: Huh?!\Huh?!\Huh?!\Air\Ko na ka tta\Good bye\Good bye\Good bye response:	Good bye
+context: Huh?!\Huh?!\Air\Ko na ka tta\Good bye\Good bye\Good bye\Good bye response:	ah ah ah

@@ -1,0 +1,809 @@
+context: Signs response:	Gin
+context: Signs\Gin response:	kgo
+context: Signs\Gin\kgo response:	kgo
+context: Signs\Gin\kgo\kgo response:	Fair
+context: Signs\Gin\kgo\kgo\Fair response:	It was the first time I'd ever hugged a girl.
+context: Signs\Gin\kgo\kgo\Fair\It was the first time I'd ever hugged a girl. response:	I could feel a slight heat beyond the soft sensation.
+context: Signs\Gin\kgo\kgo\Fair\It was the first time I'd ever hugged a girl.\I could feel a slight heat beyond the soft sensation. response:	She was so fragile, I felt like she'd break if I held her any tighter.
+context: Signs\Gin\kgo\kgo\Fair\It was the first time I'd ever hugged a girl.\I could feel a slight heat beyond the soft sensation.\She was so fragile, I felt like she'd break if I held her any tighter. response:	So lost and sad...
+context: Gin\kgo\kgo\Fair\It was the first time I'd ever hugged a girl.\I could feel a slight heat beyond the soft sensation.\She was so fragile, I felt like she'd break if I held her any tighter.\So lost and sad... response:	Rikka...
+context: kgo\kgo\Fair\It was the first time I'd ever hugged a girl.\I could feel a slight heat beyond the soft sensation.\She was so fragile, I felt like she'd break if I held her any tighter.\So lost and sad...\Rikka... response:	Rikka?
+context: kgo\Fair\It was the first time I'd ever hugged a girl.\I could feel a slight heat beyond the soft sensation.\She was so fragile, I felt like she'd break if I held her any tighter.\So lost and sad...\Rikka...\Rikka? response:	Forget it! Forget it! Forget it! Forget it! Forget it! Forget it!
+context: Fair\It was the first time I'd ever hugged a girl.\I could feel a slight heat beyond the soft sensation.\She was so fragile, I felt like she'd break if I held her any tighter.\So lost and sad...\Rikka...\Rikka?\Forget it! Forget it! Forget it! Forget it! Forget it! Forget it! response:	Students are to leave the school by 8pm at the latest.
+context: It was the first time I'd ever hugged a girl.\I could feel a slight heat beyond the soft sensation.\She was so fragile, I felt like she'd break if I held her any tighter.\So lost and sad...\Rikka...\Rikka?\Forget it! Forget it! Forget it! Forget it! Forget it! Forget it!\Students are to leave the school by 8pm at the latest. response:	Master!
+context: I could feel a slight heat beyond the soft sensation.\She was so fragile, I felt like she'd break if I held her any tighter.\So lost and sad...\Rikka...\Rikka?\Forget it! Forget it! Forget it! Forget it! Forget it! Forget it!\Students are to leave the school by 8pm at the latest.\Master! response:	Do you dare design to draw forth the deathly night of devils from this darkness?
+context: She was so fragile, I felt like she'd break if I held her any tighter.\So lost and sad...\Rikka...\Rikka?\Forget it! Forget it! Forget it! Forget it! Forget it! Forget it!\Students are to leave the school by 8pm at the latest.\Master!\Do you dare design to draw forth the deathly night of devils from this darkness? response:	Master?
+context: So lost and sad...\Rikka...\Rikka?\Forget it! Forget it! Forget it! Forget it! Forget it! Forget it!\Students are to leave the school by 8pm at the latest.\Master!\Do you dare design to draw forth the deathly night of devils from this darkness?\Master? response:	You're still as death! Did you freeze yourself in time?!
+context: Rikka...\Rikka?\Forget it! Forget it! Forget it! Forget it! Forget it! Forget it!\Students are to leave the school by 8pm at the latest.\Master!\Do you dare design to draw forth the deathly night of devils from this darkness?\Master?\You're still as death! Did you freeze yourself in time?! response:	It doesn't seem that you have.
+context: Rikka?\Forget it! Forget it! Forget it! Forget it! Forget it! Forget it!\Students are to leave the school by 8pm at the latest.\Master!\Do you dare design to draw forth the deathly night of devils from this darkness?\Master?\You're still as death! Did you freeze yourself in time?!\It doesn't seem that you have. response:	Master?
+context: Forget it! Forget it! Forget it! Forget it! Forget it! Forget it!\Students are to leave the school by 8pm at the latest.\Master!\Do you dare design to draw forth the deathly night of devils from this darkness?\Master?\You're still as death! Did you freeze yourself in time?!\It doesn't seem that you have.\Master? response:	What the death are you doing? Master!
+context: Students are to leave the school by 8pm at the latest.\Master!\Do you dare design to draw forth the deathly night of devils from this darkness?\Master?\You're still as death! Did you freeze yourself in time?!\It doesn't seem that you have.\Master?\What the death are you doing? Master! response:	Could it be that Master finally accepts me as...
+context: Master!\Do you dare design to draw forth the deathly night of devils from this darkness?\Master?\You're still as death! Did you freeze yourself in time?!\It doesn't seem that you have.\Master?\What the death are you doing? Master!\Could it be that Master finally accepts me as... response:	Master, we mustn't!
+context: Do you dare design to draw forth the deathly night of devils from this darkness?\Master?\You're still as death! Did you freeze yourself in time?!\It doesn't seem that you have.\Master?\What the death are you doing? Master!\Could it be that Master finally accepts me as...\Master, we mustn't! response:	I'm your servant! We mustn't give in to our emotions like this!
+context: Master?\You're still as death! Did you freeze yourself in time?!\It doesn't seem that you have.\Master?\What the death are you doing? Master!\Could it be that Master finally accepts me as...\Master, we mustn't!\I'm your servant! We mustn't give in to our emotions like this! response:	Though of course, it's only natural that strong joy should turn to passion...
+context: You're still as death! Did you freeze yourself in time?!\It doesn't seem that you have.\Master?\What the death are you doing? Master!\Could it be that Master finally accepts me as...\Master, we mustn't!\I'm your servant! We mustn't give in to our emotions like this!\Though of course, it's only natural that strong joy should turn to passion... response:	Master?
+context: It doesn't seem that you have.\Master?\What the death are you doing? Master!\Could it be that Master finally accepts me as...\Master, we mustn't!\I'm your servant! We mustn't give in to our emotions like this!\Though of course, it's only natural that strong joy should turn to passion...\Master? response:	I hugged Yuuta.
+context: Master?\What the death are you doing? Master!\Could it be that Master finally accepts me as...\Master, we mustn't!\I'm your servant! We mustn't give in to our emotions like this!\Though of course, it's only natural that strong joy should turn to passion...\Master?\I hugged Yuuta. response:	I love Yuuta.
+context: What the death are you doing? Master!\Could it be that Master finally accepts me as...\Master, we mustn't!\I'm your servant! We mustn't give in to our emotions like this!\Though of course, it's only natural that strong joy should turn to passion...\Master?\I hugged Yuuta.\I love Yuuta. response:	Master?
+context: Could it be that Master finally accepts me as...\Master, we mustn't!\I'm your servant! We mustn't give in to our emotions like this!\Though of course, it's only natural that strong joy should turn to passion...\Master?\I hugged Yuuta.\I love Yuuta.\Master? response:	No way... Are you just a fake copy of Master?!
+context: Master, we mustn't!\I'm your servant! We mustn't give in to our emotions like this!\Though of course, it's only natural that strong joy should turn to passion...\Master?\I hugged Yuuta.\I love Yuuta.\Master?\No way... Are you just a fake copy of Master?! response:	So now we not only have a fake Forest Summer, but Master as well?!
+context: I'm your servant! We mustn't give in to our emotions like this!\Though of course, it's only natural that strong joy should turn to passion...\Master?\I hugged Yuuta.\I love Yuuta.\Master?\No way... Are you just a fake copy of Master?!\So now we not only have a fake Forest Summer, but Master as well?! response:	I'm the real one.
+context: Though of course, it's only natural that strong joy should turn to passion...\Master?\I hugged Yuuta.\I love Yuuta.\Master?\No way... Are you just a fake copy of Master?!\So now we not only have a fake Forest Summer, but Master as well?!\I'm the real one. response:	But... does that mean...
+context: Master?\I hugged Yuuta.\I love Yuuta.\Master?\No way... Are you just a fake copy of Master?!\So now we not only have a fake Forest Summer, but Master as well?!\I'm the real one.\But... does that mean... response:	Master, you f-f-fell in love with the Dark Flame Master?
+context: I hugged Yuuta.\I love Yuuta.\Master?\No way... Are you just a fake copy of Master?!\So now we not only have a fake Forest Summer, but Master as well?!\I'm the real one.\But... does that mean...\Master, you f-f-fell in love with the Dark Flame Master? response:	Master, I am needed for an urgent matter of life and death! I must take my leave.
+context: I love Yuuta.\Master?\No way... Are you just a fake copy of Master?!\So now we not only have a fake Forest Summer, but Master as well?!\I'm the real one.\But... does that mean...\Master, you f-f-fell in love with the Dark Flame Master?\Master, I am needed for an urgent matter of life and death! I must take my leave. response:	Dekomori...
+context: Master?\No way... Are you just a fake copy of Master?!\So now we not only have a fake Forest Summer, but Master as well?!\I'm the real one.\But... does that mean...\Master, you f-f-fell in love with the Dark Flame Master?\Master, I am needed for an urgent matter of life and death! I must take my leave.\Dekomori... response:	Don't try to stop me!
+context: No way... Are you just a fake copy of Master?!\So now we not only have a fake Forest Summer, but Master as well?!\I'm the real one.\But... does that mean...\Master, you f-f-fell in love with the Dark Flame Master?\Master, I am needed for an urgent matter of life and death! I must take my leave.\Dekomori...\Don't try to stop me! response:	As your servant, it's my duty to cast the one who stole your heart into the darkn
+context: So now we not only have a fake Forest Summer, but Master as well?!\I'm the real one.\But... does that mean...\Master, you f-f-fell in love with the Dark Flame Master?\Master, I am needed for an urgent matter of life and death! I must take my leave.\Dekomori...\Don't try to stop me!\As your servant, it's my duty to cast the one who stole your heart into the darkn response:	What should I do?
+context: I'm the real one.\But... does that mean...\Master, you f-f-fell in love with the Dark Flame Master?\Master, I am needed for an urgent matter of life and death! I must take my leave.\Dekomori...\Don't try to stop me!\As your servant, it's my duty to cast the one who stole your heart into the darkn\What should I do? response:	You said that you were able to protect the Wicked Eye for this long thanks to the Dark Flame Master.
+context: But... does that mean...\Master, you f-f-fell in love with the Dark Flame Master?\Master, I am needed for an urgent matter of life and death! I must take my leave.\Dekomori...\Don't try to stop me!\As your servant, it's my duty to cast the one who stole your heart into the darkn\What should I do?\You said that you were able to protect the Wicked Eye for this long thanks to the Dark Flame Master. response:	I'm sure he'll be able to realize your heartfelt feelings as well.
+context: Master, you f-f-fell in love with the Dark Flame Master?\Master, I am needed for an urgent matter of life and death! I must take my leave.\Dekomori...\Don't try to stop me!\As your servant, it's my duty to cast the one who stole your heart into the darkn\What should I do?\You said that you were able to protect the Wicked Eye for this long thanks to the Dark Flame Master.\I'm sure he'll be able to realize your heartfelt feelings as well. response:	I wonder.
+context: Master, I am needed for an urgent matter of life and death! I must take my leave.\Dekomori...\Don't try to stop me!\As your servant, it's my duty to cast the one who stole your heart into the darkn\What should I do?\You said that you were able to protect the Wicked Eye for this long thanks to the Dark Flame Master.\I'm sure he'll be able to realize your heartfelt feelings as well.\I wonder. response:	I've been serving under you for a little over two years.
+context: Dekomori...\Don't try to stop me!\As your servant, it's my duty to cast the one who stole your heart into the darkn\What should I do?\You said that you were able to protect the Wicked Eye for this long thanks to the Dark Flame Master.\I'm sure he'll be able to realize your heartfelt feelings as well.\I wonder.\I've been serving under you for a little over two years. response:	It's the duty of the servant to know everything about their master.
+context: Don't try to stop me!\As your servant, it's my duty to cast the one who stole your heart into the darkn\What should I do?\You said that you were able to protect the Wicked Eye for this long thanks to the Dark Flame Master.\I'm sure he'll be able to realize your heartfelt feelings as well.\I wonder.\I've been serving under you for a little over two years.\It's the duty of the servant to know everything about their master. response:	Dekomori...
+context: As your servant, it's my duty to cast the one who stole your heart into the darkn\What should I do?\You said that you were able to protect the Wicked Eye for this long thanks to the Dark Flame Master.\I'm sure he'll be able to realize your heartfelt feelings as well.\I wonder.\I've been serving under you for a little over two years.\It's the duty of the servant to know everything about their master.\Dekomori... response:	There's no need for you to worry.
+context: What should I do?\You said that you were able to protect the Wicked Eye for this long thanks to the Dark Flame Master.\I'm sure he'll be able to realize your heartfelt feelings as well.\I wonder.\I've been serving under you for a little over two years.\It's the duty of the servant to know everything about their master.\Dekomori...\There's no need for you to worry. response:	The Wicked Eye's power exceeds death itself!
+context: You said that you were able to protect the Wicked Eye for this long thanks to the Dark Flame Master.\I'm sure he'll be able to realize your heartfelt feelings as well.\I wonder.\I've been serving under you for a little over two years.\It's the duty of the servant to know everything about their master.\Dekomori...\There's no need for you to worry.\The Wicked Eye's power exceeds death itself! response:	You'll be saying 'Til death do we part in no time.
+context: I'm sure he'll be able to realize your heartfelt feelings as well.\I wonder.\I've been serving under you for a little over two years.\It's the duty of the servant to know everything about their master.\Dekomori...\There's no need for you to worry.\The Wicked Eye's power exceeds death itself!\You'll be saying 'Til death do we part in no time. response:	Then, you and Takanashi...
+context: I wonder.\I've been serving under you for a little over two years.\It's the duty of the servant to know everything about their master.\Dekomori...\There's no need for you to worry.\The Wicked Eye's power exceeds death itself!\You'll be saying 'Til death do we part in no time.\Then, you and Takanashi... response:	Yeah.
+context: I've been serving under you for a little over two years.\It's the duty of the servant to know everything about their master.\Dekomori...\There's no need for you to worry.\The Wicked Eye's power exceeds death itself!\You'll be saying 'Til death do we part in no time.\Then, you and Takanashi...\Yeah. response:	What should I do?
+context: It's the duty of the servant to know everything about their master.\Dekomori...\There's no need for you to worry.\The Wicked Eye's power exceeds death itself!\You'll be saying 'Til death do we part in no time.\Then, you and Takanashi...\Yeah.\What should I do? response:	About what?
+context: Dekomori...\There's no need for you to worry.\The Wicked Eye's power exceeds death itself!\You'll be saying 'Til death do we part in no time.\Then, you and Takanashi...\Yeah.\What should I do?\About what? response:	Am I supposed to confess?
+context: There's no need for you to worry.\The Wicked Eye's power exceeds death itself!\You'll be saying 'Til death do we part in no time.\Then, you and Takanashi...\Yeah.\What should I do?\About what?\Am I supposed to confess? response:	You love her, don't you?
+context: The Wicked Eye's power exceeds death itself!\You'll be saying 'Til death do we part in no time.\Then, you and Takanashi...\Yeah.\What should I do?\About what?\Am I supposed to confess?\You love her, don't you? response:	I think so...
+context: You'll be saying 'Til death do we part in no time.\Then, you and Takanashi...\Yeah.\What should I do?\About what?\Am I supposed to confess?\You love her, don't you?\I think so... response:	But it's not because she's cute or hot!
+context: Then, you and Takanashi...\Yeah.\What should I do?\About what?\Am I supposed to confess?\You love her, don't you?\I think so...\But it's not because she's cute or hot! response:	She's way beyond help with her eighth-grader syndrome,
+context: Yeah.\What should I do?\About what?\Am I supposed to confess?\You love her, don't you?\I think so...\But it's not because she's cute or hot!\She's way beyond help with her eighth-grader syndrome, response:	but there's more to her than just that!
+context: What should I do?\About what?\Am I supposed to confess?\You love her, don't you?\I think so...\But it's not because she's cute or hot!\She's way beyond help with her eighth-grader syndrome,\but there's more to her than just that! response:	She has her problems, and I feel sorry for her, but...
+context: About what?\Am I supposed to confess?\You love her, don't you?\I think so...\But it's not because she's cute or hot!\She's way beyond help with her eighth-grader syndrome,\but there's more to her than just that!\She has her problems, and I feel sorry for her, but... response:	I mean... I'm not just doing it out of pity, of course...
+context: Am I supposed to confess?\You love her, don't you?\I think so...\But it's not because she's cute or hot!\She's way beyond help with her eighth-grader syndrome,\but there's more to her than just that!\She has her problems, and I feel sorry for her, but...\I mean... I'm not just doing it out of pity, of course... response:	Say no more, dude.
+context: You love her, don't you?\I think so...\But it's not because she's cute or hot!\She's way beyond help with her eighth-grader syndrome,\but there's more to her than just that!\She has her problems, and I feel sorry for her, but...\I mean... I'm not just doing it out of pity, of course...\Say no more, dude. response:	You don't need a reason to fall in love.
+context: I think so...\But it's not because she's cute or hot!\She's way beyond help with her eighth-grader syndrome,\but there's more to her than just that!\She has her problems, and I feel sorry for her, but...\I mean... I'm not just doing it out of pity, of course...\Say no more, dude.\You don't need a reason to fall in love. response:	What an expert you must be.
+context: But it's not because she's cute or hot!\She's way beyond help with her eighth-grader syndrome,\but there's more to her than just that!\She has her problems, and I feel sorry for her, but...\I mean... I'm not just doing it out of pity, of course...\Say no more, dude.\You don't need a reason to fall in love.\What an expert you must be. response:	Good luck!
+context: She's way beyond help with her eighth-grader syndrome,\but there's more to her than just that!\She has her problems, and I feel sorry for her, but...\I mean... I'm not just doing it out of pity, of course...\Say no more, dude.\You don't need a reason to fall in love.\What an expert you must be.\Good luck! response:	Same to you.
+context: but there's more to her than just that!\She has her problems, and I feel sorry for her, but...\I mean... I'm not just doing it out of pity, of course...\Say no more, dude.\You don't need a reason to fall in love.\What an expert you must be.\Good luck!\Same to you. response:	That's damn creepy!
+context: She has her problems, and I feel sorry for her, but...\I mean... I'm not just doing it out of pity, of course...\Say no more, dude.\You don't need a reason to fall in love.\What an expert you must be.\Good luck!\Same to you.\That's damn creepy! response:	How dare you treat me this way after I listened to your troubles?!
+context: I mean... I'm not just doing it out of pity, of course...\Say no more, dude.\You don't need a reason to fall in love.\What an expert you must be.\Good luck!\Same to you.\That's damn creepy!\How dare you treat me this way after I listened to your troubles?! response:	No one asked you to!
+context: Say no more, dude.\You don't need a reason to fall in love.\What an expert you must be.\Good luck!\Same to you.\That's damn creepy!\How dare you treat me this way after I listened to your troubles?!\No one asked you to! response:	You mess up everything by spreading half-true rumors in class!
+context: You don't need a reason to fall in love.\What an expert you must be.\Good luck!\Same to you.\That's damn creepy!\How dare you treat me this way after I listened to your troubles?!\No one asked you to!\You mess up everything by spreading half-true rumors in class! response:	But darn, you're lucky.
+context: What an expert you must be.\Good luck!\Same to you.\That's damn creepy!\How dare you treat me this way after I listened to your troubles?!\No one asked you to!\You mess up everything by spreading half-true rumors in class!\But darn, you're lucky. response:	Takanashi's got the potential to place 4th on the cutie poll.
+context: Good luck!\Same to you.\That's damn creepy!\How dare you treat me this way after I listened to your troubles?!\No one asked you to!\You mess up everything by spreading half-true rumors in class!\But darn, you're lucky.\Takanashi's got the potential to place 4th on the cutie poll. response:	With a girl like that...
+context: Same to you.\That's damn creepy!\How dare you treat me this way after I listened to your troubles?!\No one asked you to!\You mess up everything by spreading half-true rumors in class!\But darn, you're lucky.\Takanashi's got the potential to place 4th on the cutie poll.\With a girl like that... response:	With a girl like that?
+context: That's damn creepy!\How dare you treat me this way after I listened to your troubles?!\No one asked you to!\You mess up everything by spreading half-true rumors in class!\But darn, you're lucky.\Takanashi's got the potential to place 4th on the cutie poll.\With a girl like that...\With a girl like that? response:	One day, you'll...
+context: How dare you treat me this way after I listened to your troubles?!\No one asked you to!\You mess up everything by spreading half-true rumors in class!\But darn, you're lucky.\Takanashi's got the potential to place 4th on the cutie poll.\With a girl like that...\With a girl like that?\One day, you'll... response:	We'll what?
+context: No one asked you to!\You mess up everything by spreading half-true rumors in class!\But darn, you're lucky.\Takanashi's got the potential to place 4th on the cutie poll.\With a girl like that...\With a girl like that?\One day, you'll...\We'll what? response:	Yuuta, I regret to say that I have no prior experience regarding bodily interactions.
+context: You mess up everything by spreading half-true rumors in class!\But darn, you're lucky.\Takanashi's got the potential to place 4th on the cutie poll.\With a girl like that...\With a girl like that?\One day, you'll...\We'll what?\Yuuta, I regret to say that I have no prior experience regarding bodily interactions. response:	Regrettably, neither do I!
+context: But darn, you're lucky.\Takanashi's got the potential to place 4th on the cutie poll.\With a girl like that...\With a girl like that?\One day, you'll...\We'll what?\Yuuta, I regret to say that I have no prior experience regarding bodily interactions.\Regrettably, neither do I! response:	Don't even suggest that! Are you nuts?!
+context: Takanashi's got the potential to place 4th on the cutie poll.\With a girl like that...\With a girl like that?\One day, you'll...\We'll what?\Yuuta, I regret to say that I have no prior experience regarding bodily interactions.\Regrettably, neither do I!\Don't even suggest that! Are you nuts?! response:	Well then... I've got something of my own to sort out, so I'll catch you later.
+context: With a girl like that...\With a girl like that?\One day, you'll...\We'll what?\Yuuta, I regret to say that I have no prior experience regarding bodily interactions.\Regrettably, neither do I!\Don't even suggest that! Are you nuts?!\Well then... I've got something of my own to sort out, so I'll catch you later. response:	Kumin!
+context: With a girl like that?\One day, you'll...\We'll what?\Yuuta, I regret to say that I have no prior experience regarding bodily interactions.\Regrettably, neither do I!\Don't even suggest that! Are you nuts?!\Well then... I've got something of my own to sort out, so I'll catch you later.\Kumin! response:	What?
+context: One day, you'll...\We'll what?\Yuuta, I regret to say that I have no prior experience regarding bodily interactions.\Regrettably, neither do I!\Don't even suggest that! Are you nuts?!\Well then... I've got something of my own to sort out, so I'll catch you later.\Kumin!\What? response:	Would you come with me to the school fair afterparty?
+context: We'll what?\Yuuta, I regret to say that I have no prior experience regarding bodily interactions.\Regrettably, neither do I!\Don't even suggest that! Are you nuts?!\Well then... I've got something of my own to sort out, so I'll catch you later.\Kumin!\What?\Would you come with me to the school fair afterparty? response:	Sure!
+context: Yuuta, I regret to say that I have no prior experience regarding bodily interactions.\Regrettably, neither do I!\Don't even suggest that! Are you nuts?!\Well then... I've got something of my own to sort out, so I'll catch you later.\Kumin!\What?\Would you come with me to the school fair afterparty?\Sure! response:	Really?
+context: Regrettably, neither do I!\Don't even suggest that! Are you nuts?!\Well then... I've got something of my own to sort out, so I'll catch you later.\Kumin!\What?\Would you come with me to the school fair afterparty?\Sure!\Really? response:	Cut!
+context: Don't even suggest that! Are you nuts?!\Well then... I've got something of my own to sort out, so I'll catch you later.\Kumin!\What?\Would you come with me to the school fair afterparty?\Sure!\Really?\Cut! response:	Why do I always have to endure your two-bit acting?
+context: Well then... I've got something of my own to sort out, so I'll catch you later.\Kumin!\What?\Would you come with me to the school fair afterparty?\Sure!\Really?\Cut!\Why do I always have to endure your two-bit acting? response:	We're not acting! And why are you even here at all?!
+context: Kumin!\What?\Would you come with me to the school fair afterparty?\Sure!\Really?\Cut!\Why do I always have to endure your two-bit acting?\We're not acting! And why are you even here at all?! response:	We need to get ready for tomorrow's performance.
+context: What?\Would you come with me to the school fair afterparty?\Sure!\Really?\Cut!\Why do I always have to endure your two-bit acting?\We're not acting! And why are you even here at all?!\We need to get ready for tomorrow's performance. response:	Where are Togashi and Takanashi?
+context: Would you come with me to the school fair afterparty?\Sure!\Really?\Cut!\Why do I always have to endure your two-bit acting?\We're not acting! And why are you even here at all?!\We need to get ready for tomorrow's performance.\Where are Togashi and Takanashi? response:	Do not utter those names in my presence.
+context: Sure!\Really?\Cut!\Why do I always have to endure your two-bit acting?\We're not acting! And why are you even here at all?!\We need to get ready for tomorrow's performance.\Where are Togashi and Takanashi?\Do not utter those names in my presence. response:	My mood is deathly foul.
+context: Really?\Cut!\Why do I always have to endure your two-bit acting?\We're not acting! And why are you even here at all?!\We need to get ready for tomorrow's performance.\Where are Togashi and Takanashi?\Do not utter those names in my presence.\My mood is deathly foul. response:	We shall fight.
+context: Cut!\Why do I always have to endure your two-bit acting?\We're not acting! And why are you even here at all?!\We need to get ready for tomorrow's performance.\Where are Togashi and Takanashi?\Do not utter those names in my presence.\My mood is deathly foul.\We shall fight. response:	You think we have time for that?
+context: Why do I always have to endure your two-bit acting?\We're not acting! And why are you even here at all?!\We need to get ready for tomorrow's performance.\Where are Togashi and Takanashi?\Do not utter those names in my presence.\My mood is deathly foul.\We shall fight.\You think we have time for that? response:	Put that energy into looking for those two so that
+context: We're not acting! And why are you even here at all?!\We need to get ready for tomorrow's performance.\Where are Togashi and Takanashi?\Do not utter those names in my presence.\My mood is deathly foul.\We shall fight.\You think we have time for that?\Put that energy into looking for those two so that response:	They already left, for death's sake!
+context: We need to get ready for tomorrow's performance.\Where are Togashi and Takanashi?\Do not utter those names in my presence.\My mood is deathly foul.\We shall fight.\You think we have time for that?\Put that energy into looking for those two so that\They already left, for death's sake! response:	The Dark Flame Master said they had something to discuss of deathly importance
+context: Where are Togashi and Takanashi?\Do not utter those names in my presence.\My mood is deathly foul.\We shall fight.\You think we have time for that?\Put that energy into looking for those two so that\They already left, for death's sake!\The Dark Flame Master said they had something to discuss of deathly importance response:	Um...
+context: Do not utter those names in my presence.\My mood is deathly foul.\We shall fight.\You think we have time for that?\Put that energy into looking for those two so that\They already left, for death's sake!\The Dark Flame Master said they had something to discuss of deathly importance\Um... response:	Follow my orders as bound by your pledge...
+context: My mood is deathly foul.\We shall fight.\You think we have time for that?\Put that energy into looking for those two so that\They already left, for death's sake!\The Dark Flame Master said they had something to discuss of deathly importance\Um...\Follow my orders as bound by your pledge... response:	Follow my orders as bound by your pledge...
+context: We shall fight.\You think we have time for that?\Put that energy into looking for those two so that\They already left, for death's sake!\The Dark Flame Master said they had something to discuss of deathly importance\Um...\Follow my orders as bound by your pledge...\Follow my orders as bound by your pledge... response:	Follow my orders as bound by your pledge...
+context: You think we have time for that?\Put that energy into looking for those two so that\They already left, for death's sake!\The Dark Flame Master said they had something to discuss of deathly importance\Um...\Follow my orders as bound by your pledge...\Follow my orders as bound by your pledge...\Follow my orders as bound by your pledge... response:	What's that?
+context: Put that energy into looking for those two so that\They already left, for death's sake!\The Dark Flame Master said they had something to discuss of deathly importance\Um...\Follow my orders as bound by your pledge...\Follow my orders as bound by your pledge...\Follow my orders as bound by your pledge...\What's that? response:	An enchanted gem. It fulfills wishes.
+context: They already left, for death's sake!\The Dark Flame Master said they had something to discuss of deathly importance\Um...\Follow my orders as bound by your pledge...\Follow my orders as bound by your pledge...\Follow my orders as bound by your pledge...\What's that?\An enchanted gem. It fulfills wishes. response:	I got it from Dekomori.
+context: The Dark Flame Master said they had something to discuss of deathly importance\Um...\Follow my orders as bound by your pledge...\Follow my orders as bound by your pledge...\Follow my orders as bound by your pledge...\What's that?\An enchanted gem. It fulfills wishes.\I got it from Dekomori. response:	Wishes?
+context: Um...\Follow my orders as bound by your pledge...\Follow my orders as bound by your pledge...\Follow my orders as bound by your pledge...\What's that?\An enchanted gem. It fulfills wishes.\I got it from Dekomori.\Wishes? response:	I can't go into details!
+context: Follow my orders as bound by your pledge...\Follow my orders as bound by your pledge...\Follow my orders as bound by your pledge...\What's that?\An enchanted gem. It fulfills wishes.\I got it from Dekomori.\Wishes?\I can't go into details! response:	That's okay, I don't need to know.
+context: Follow my orders as bound by your pledge...\Follow my orders as bound by your pledge...\What's that?\An enchanted gem. It fulfills wishes.\I got it from Dekomori.\Wishes?\I can't go into details!\That's okay, I don't need to know. response:	You dropped it.
+context: Follow my orders as bound by your pledge...\What's that?\An enchanted gem. It fulfills wishes.\I got it from Dekomori.\Wishes?\I can't go into details!\That's okay, I don't need to know.\You dropped it. response:	It's warm.
+context: What's that?\An enchanted gem. It fulfills wishes.\I got it from Dekomori.\Wishes?\I can't go into details!\That's okay, I don't need to know.\You dropped it.\It's warm. response:	Strong wishes cause the gem to emit heat.
+context: An enchanted gem. It fulfills wishes.\I got it from Dekomori.\Wishes?\I can't go into details!\That's okay, I don't need to know.\You dropped it.\It's warm.\Strong wishes cause the gem to emit heat. response:	Which means
+context: I got it from Dekomori.\Wishes?\I can't go into details!\That's okay, I don't need to know.\You dropped it.\It's warm.\Strong wishes cause the gem to emit heat.\Which means response:	Don't!
+context: Wishes?\I can't go into details!\That's okay, I don't need to know.\You dropped it.\It's warm.\Strong wishes cause the gem to emit heat.\Which means\Don't! response:	Ouch...
+context: I can't go into details!\That's okay, I don't need to know.\You dropped it.\It's warm.\Strong wishes cause the gem to emit heat.\Which means\Don't!\Ouch... response:	It started raining...
+context: That's okay, I don't need to know.\You dropped it.\It's warm.\Strong wishes cause the gem to emit heat.\Which means\Don't!\Ouch...\It started raining... response:	Do you have an umbre Of course you do.
+context: You dropped it.\It's warm.\Strong wishes cause the gem to emit heat.\Which means\Don't!\Ouch...\It started raining...\Do you have an umbre Of course you do. response:	What did you want?
+context: It's warm.\Strong wishes cause the gem to emit heat.\Which means\Don't!\Ouch...\It started raining...\Do you have an umbre Of course you do.\What did you want? response:	Oh, right.
+context: Strong wishes cause the gem to emit heat.\Which means\Don't!\Ouch...\It started raining...\Do you have an umbre Of course you do.\What did you want?\Oh, right. response:	I have something too.
+context: Which means\Don't!\Ouch...\It started raining...\Do you have an umbre Of course you do.\What did you want?\Oh, right.\I have something too. response:	Something highly confidential I must discuss with you.
+context: Don't!\Ouch...\It started raining...\Do you have an umbre Of course you do.\What did you want?\Oh, right.\I have something too.\Something highly confidential I must discuss with you. response:	I-I see.
+context: Ouch...\It started raining...\Do you have an umbre Of course you do.\What did you want?\Oh, right.\I have something too.\Something highly confidential I must discuss with you.\I-I see. response:	I wanted to talk about... But not here.
+context: It started raining...\Do you have an umbre Of course you do.\What did you want?\Oh, right.\I have something too.\Something highly confidential I must discuss with you.\I-I see.\I wanted to talk about... But not here. response:	This can't go on.
+context: Do you have an umbre Of course you do.\What did you want?\Oh, right.\I have something too.\Something highly confidential I must discuss with you.\I-I see.\I wanted to talk about... But not here.\This can't go on. response:	Hey...
+context: What did you want?\Oh, right.\I have something too.\Something highly confidential I must discuss with you.\I-I see.\I wanted to talk about... But not here.\This can't go on.\Hey... response:	Hey...
+context: Oh, right.\I have something too.\Something highly confidential I must discuss with you.\I-I see.\I wanted to talk about... But not here.\This can't go on.\Hey...\Hey... response:	Schwarz Sechs Prototype Mk II!
+context: I have something too.\Something highly confidential I must discuss with you.\I-I see.\I wanted to talk about... But not here.\This can't go on.\Hey...\Hey...\Schwarz Sechs Prototype Mk II! response:	How can you say its full name so fast?!
+context: Something highly confidential I must discuss with you.\I-I see.\I wanted to talk about... But not here.\This can't go on.\Hey...\Hey...\Schwarz Sechs Prototype Mk II!\How can you say its full name so fast?! response:	Hey!
+context: I-I see.\I wanted to talk about... But not here.\This can't go on.\Hey...\Hey...\Schwarz Sechs Prototype Mk II!\How can you say its full name so fast?!\Hey! response:	Good thing it didn't fall into the river.
+context: I wanted to talk about... But not here.\This can't go on.\Hey...\Hey...\Schwarz Sechs Prototype Mk II!\How can you say its full name so fast?!\Hey!\Good thing it didn't fall into the river. response:	What's up?
+context: This can't go on.\Hey...\Hey...\Schwarz Sechs Prototype Mk II!\How can you say its full name so fast?!\Hey!\Good thing it didn't fall into the river.\What's up? response:	The lights...
+context: Hey...\Hey...\Schwarz Sechs Prototype Mk II!\How can you say its full name so fast?!\Hey!\Good thing it didn't fall into the river.\What's up?\The lights... response:	The lights... are moving.
+context: Hey...\Schwarz Sechs Prototype Mk II!\How can you say its full name so fast?!\Hey!\Good thing it didn't fall into the river.\What's up?\The lights...\The lights... are moving. response:	Rikka...
+context: Schwarz Sechs Prototype Mk II!\How can you say its full name so fast?!\Hey!\Good thing it didn't fall into the river.\What's up?\The lights...\The lights... are moving.\Rikka... response:	I love you, Yuuta.
+context: How can you say its full name so fast?!\Hey!\Good thing it didn't fall into the river.\What's up?\The lights...\The lights... are moving.\Rikka...\I love you, Yuuta. response:	I love you, Yuuta.
+context: Hey!\Good thing it didn't fall into the river.\What's up?\The lights...\The lights... are moving.\Rikka...\I love you, Yuuta.\I love you, Yuuta. response:	Wait, I was gonna say it first!
+context: Good thing it didn't fall into the river.\What's up?\The lights...\The lights... are moving.\Rikka...\I love you, Yuuta.\I love you, Yuuta.\Wait, I was gonna say it first! response:	No. The Wicked Eye is destined to always be first.
+context: What's up?\The lights...\The lights... are moving.\Rikka...\I love you, Yuuta.\I love you, Yuuta.\Wait, I was gonna say it first!\No. The Wicked Eye is destined to always be first. response:	I'm the Dark Flame Master!
+context: The lights...\The lights... are moving.\Rikka...\I love you, Yuuta.\I love you, Yuuta.\Wait, I was gonna say it first!\No. The Wicked Eye is destined to always be first.\I'm the Dark Flame Master! response:	The Wicked Eye's the strongest of all.
+context: The lights... are moving.\Rikka...\I love you, Yuuta.\I love you, Yuuta.\Wait, I was gonna say it first!\No. The Wicked Eye is destined to always be first.\I'm the Dark Flame Master!\The Wicked Eye's the strongest of all. response:	Geez, whatever.
+context: Rikka...\I love you, Yuuta.\I love you, Yuuta.\Wait, I was gonna say it first!\No. The Wicked Eye is destined to always be first.\I'm the Dark Flame Master!\The Wicked Eye's the strongest of all.\Geez, whatever. response:	It took me ages to come up with this, so I'm saying it anyway.
+context: I love you, Yuuta.\I love you, Yuuta.\Wait, I was gonna say it first!\No. The Wicked Eye is destined to always be first.\I'm the Dark Flame Master!\The Wicked Eye's the strongest of all.\Geez, whatever.\It took me ages to come up with this, so I'm saying it anyway. response:	Thou who art surrounded by the flames of darkness,
+context: I love you, Yuuta.\Wait, I was gonna say it first!\No. The Wicked Eye is destined to always be first.\I'm the Dark Flame Master!\The Wicked Eye's the strongest of all.\Geez, whatever.\It took me ages to come up with this, so I'm saying it anyway.\Thou who art surrounded by the flames of darkness, response:	I, the Dark Flame Master, beseech thee to forge a lover's
+context: Wait, I was gonna say it first!\No. The Wicked Eye is destined to always be first.\I'm the Dark Flame Master!\The Wicked Eye's the strongest of all.\Geez, whatever.\It took me ages to come up with this, so I'm saying it anyway.\Thou who art surrounded by the flames of darkness,\I, the Dark Flame Master, beseech thee to forge a lover's response:	Okay, screw that. The point is
+context: No. The Wicked Eye is destined to always be first.\I'm the Dark Flame Master!\The Wicked Eye's the strongest of all.\Geez, whatever.\It took me ages to come up with this, so I'm saying it anyway.\Thou who art surrounded by the flames of darkness,\I, the Dark Flame Master, beseech thee to forge a lover's\Okay, screw that. The point is response:	Continue!
+context: I'm the Dark Flame Master!\The Wicked Eye's the strongest of all.\Geez, whatever.\It took me ages to come up with this, so I'm saying it anyway.\Thou who art surrounded by the flames of darkness,\I, the Dark Flame Master, beseech thee to forge a lover's\Okay, screw that. The point is\Continue! response:	Yuuta!
+context: The Wicked Eye's the strongest of all.\Geez, whatever.\It took me ages to come up with this, so I'm saying it anyway.\Thou who art surrounded by the flames of darkness,\I, the Dark Flame Master, beseech thee to forge a lover's\Okay, screw that. The point is\Continue!\Yuuta! response:	Thou who art surrounded by the flames of darkness,
+context: Geez, whatever.\It took me ages to come up with this, so I'm saying it anyway.\Thou who art surrounded by the flames of darkness,\I, the Dark Flame Master, beseech thee to forge a lover's\Okay, screw that. The point is\Continue!\Yuuta!\Thou who art surrounded by the flames of darkness, response:	I, the Dark Flame Master, beseech thee to forge a lover's contract between us.
+context: It took me ages to come up with this, so I'm saying it anyway.\Thou who art surrounded by the flames of darkness,\I, the Dark Flame Master, beseech thee to forge a lover's\Okay, screw that. The point is\Continue!\Yuuta!\Thou who art surrounded by the flames of darkness,\I, the Dark Flame Master, beseech thee to forge a lover's contract between us. response:	Okay.
+context: Thou who art surrounded by the flames of darkness,\I, the Dark Flame Master, beseech thee to forge a lover's\Okay, screw that. The point is\Continue!\Yuuta!\Thou who art surrounded by the flames of darkness,\I, the Dark Flame Master, beseech thee to forge a lover's contract between us.\Okay. response:	Shouldn't you be leaning on my chest?
+context: I, the Dark Flame Master, beseech thee to forge a lover's\Okay, screw that. The point is\Continue!\Yuuta!\Thou who art surrounded by the flames of darkness,\I, the Dark Flame Master, beseech thee to forge a lover's contract between us.\Okay.\Shouldn't you be leaning on my chest? response:	Is it embarrassing?
+context: Okay, screw that. The point is\Continue!\Yuuta!\Thou who art surrounded by the flames of darkness,\I, the Dark Flame Master, beseech thee to forge a lover's contract between us.\Okay.\Shouldn't you be leaning on my chest?\Is it embarrassing? response:	Then, your hand?
+context: Continue!\Yuuta!\Thou who art surrounded by the flames of darkness,\I, the Dark Flame Master, beseech thee to forge a lover's contract between us.\Okay.\Shouldn't you be leaning on my chest?\Is it embarrassing?\Then, your hand? response:	My pinky.
+context: Yuuta!\Thou who art surrounded by the flames of darkness,\I, the Dark Flame Master, beseech thee to forge a lover's contract between us.\Okay.\Shouldn't you be leaning on my chest?\Is it embarrassing?\Then, your hand?\My pinky. response:	Your pinky, then.
+context: Thou who art surrounded by the flames of darkness,\I, the Dark Flame Master, beseech thee to forge a lover's contract between us.\Okay.\Shouldn't you be leaning on my chest?\Is it embarrassing?\Then, your hand?\My pinky.\Your pinky, then. response:	I'm home!
+context: I, the Dark Flame Master, beseech thee to forge a lover's contract between us.\Okay.\Shouldn't you be leaning on my chest?\Is it embarrassing?\Then, your hand?\My pinky.\Your pinky, then.\I'm home! response:	You're late!
+context: Okay.\Shouldn't you be leaning on my chest?\Is it embarrassing?\Then, your hand?\My pinky.\Your pinky, then.\I'm home!\You're late! response:	Sorry, Kuzuha.
+context: Shouldn't you be leaning on my chest?\Is it embarrassing?\Then, your hand?\My pinky.\Your pinky, then.\I'm home!\You're late!\Sorry, Kuzuha. response:	Demandant, do you possess feelings of love for the respondent?
+context: Is it embarrassing?\Then, your hand?\My pinky.\Your pinky, then.\I'm home!\You're late!\Sorry, Kuzuha.\Demandant, do you possess feelings of love for the respondent? response:	No.
+context: Then, your hand?\My pinky.\Your pinky, then.\I'm home!\You're late!\Sorry, Kuzuha.\Demandant, do you possess feelings of love for the respondent?\No. response:	All I feel is that I want to be divorced from the respondent as soon as possible.
+context: My pinky.\Your pinky, then.\I'm home!\You're late!\Sorry, Kuzuha.\Demandant, do you possess feelings of love for the respondent?\No.\All I feel is that I want to be divorced from the respondent as soon as possible. response:	What are you doing?
+context: Your pinky, then.\I'm home!\You're late!\Sorry, Kuzuha.\Demandant, do you possess feelings of love for the respondent?\No.\All I feel is that I want to be divorced from the respondent as soon as possible.\What are you doing? response:	We have to talk.
+context: I'm home!\You're late!\Sorry, Kuzuha.\Demandant, do you possess feelings of love for the respondent?\No.\All I feel is that I want to be divorced from the respondent as soon as possible.\What are you doing?\We have to talk. response:	Huh?
+context: You're late!\Sorry, Kuzuha.\Demandant, do you possess feelings of love for the respondent?\No.\All I feel is that I want to be divorced from the respondent as soon as possible.\What are you doing?\We have to talk.\Huh? response:	This one's lost its taste too. You can have it.
+context: Sorry, Kuzuha.\Demandant, do you possess feelings of love for the respondent?\No.\All I feel is that I want to be divorced from the respondent as soon as possible.\What are you doing?\We have to talk.\Huh?\This one's lost its taste too. You can have it. response:	Can't we discuss this at home?
+context: Demandant, do you possess feelings of love for the respondent?\No.\All I feel is that I want to be divorced from the respondent as soon as possible.\What are you doing?\We have to talk.\Huh?\This one's lost its taste too. You can have it.\Can't we discuss this at home? response:	I can't allow Rikka to hear it.
+context: No.\All I feel is that I want to be divorced from the respondent as soon as possible.\What are you doing?\We have to talk.\Huh?\This one's lost its taste too. You can have it.\Can't we discuss this at home?\I can't allow Rikka to hear it. response:	It's from the head restaurant in Italy. They invited me there for training.
+context: All I feel is that I want to be divorced from the respondent as soon as possible.\What are you doing?\We have to talk.\Huh?\This one's lost its taste too. You can have it.\Can't we discuss this at home?\I can't allow Rikka to hear it.\It's from the head restaurant in Italy. They invited me there for training. response:	I have no reason to refuse.
+context: What are you doing?\We have to talk.\Huh?\This one's lost its taste too. You can have it.\Can't we discuss this at home?\I can't allow Rikka to hear it.\It's from the head restaurant in Italy. They invited me there for training.\I have no reason to refuse. response:	You really are that good, huh?
+context: We have to talk.\Huh?\This one's lost its taste too. You can have it.\Can't we discuss this at home?\I can't allow Rikka to hear it.\It's from the head restaurant in Italy. They invited me there for training.\I have no reason to refuse.\You really are that good, huh? response:	Did you doubt me?
+context: Huh?\This one's lost its taste too. You can have it.\Can't we discuss this at home?\I can't allow Rikka to hear it.\It's from the head restaurant in Italy. They invited me there for training.\I have no reason to refuse.\You really are that good, huh?\Did you doubt me? response:	Not at all!
+context: This one's lost its taste too. You can have it.\Can't we discuss this at home?\I can't allow Rikka to hear it.\It's from the head restaurant in Italy. They invited me there for training.\I have no reason to refuse.\You really are that good, huh?\Did you doubt me?\Not at all! response:	Whatever.
+context: Can't we discuss this at home?\I can't allow Rikka to hear it.\It's from the head restaurant in Italy. They invited me there for training.\I have no reason to refuse.\You really are that good, huh?\Did you doubt me?\Not at all!\Whatever. response:	But isn't that nice?
+context: I can't allow Rikka to hear it.\It's from the head restaurant in Italy. They invited me there for training.\I have no reason to refuse.\You really are that good, huh?\Did you doubt me?\Not at all!\Whatever.\But isn't that nice? response:	I'm sure Rikka will be
+context: It's from the head restaurant in Italy. They invited me there for training.\I have no reason to refuse.\You really are that good, huh?\Did you doubt me?\Not at all!\Whatever.\But isn't that nice?\I'm sure Rikka will be response:	You get it, don't you?
+context: I have no reason to refuse.\You really are that good, huh?\Did you doubt me?\Not at all!\Whatever.\But isn't that nice?\I'm sure Rikka will be\You get it, don't you? response:	I can't let her live there by herself.
+context: You really are that good, huh?\Did you doubt me?\Not at all!\Whatever.\But isn't that nice?\I'm sure Rikka will be\You get it, don't you?\I can't let her live there by herself. response:	So Mom's moving in in my stead.
+context: Did you doubt me?\Not at all!\Whatever.\But isn't that nice?\I'm sure Rikka will be\You get it, don't you?\I can't let her live there by herself.\So Mom's moving in in my stead. response:	Rikka's mother?
+context: Not at all!\Whatever.\But isn't that nice?\I'm sure Rikka will be\You get it, don't you?\I can't let her live there by herself.\So Mom's moving in in my stead.\Rikka's mother? response:	What do you think?
+context: Whatever.\But isn't that nice?\I'm sure Rikka will be\You get it, don't you?\I can't let her live there by herself.\So Mom's moving in in my stead.\Rikka's mother?\What do you think? response:	I don't
+context: But isn't that nice?\I'm sure Rikka will be\You get it, don't you?\I can't let her live there by herself.\So Mom's moving in in my stead.\Rikka's mother?\What do you think?\I don't response:	Do you think it's gonna work out?
+context: I'm sure Rikka will be\You get it, don't you?\I can't let her live there by herself.\So Mom's moving in in my stead.\Rikka's mother?\What do you think?\I don't\Do you think it's gonna work out? response:	Rikka doesn't hate her mother, right? Then
+context: You get it, don't you?\I can't let her live there by herself.\So Mom's moving in in my stead.\Rikka's mother?\What do you think?\I don't\Do you think it's gonna work out?\Rikka doesn't hate her mother, right? Then response:	Mom...
+context: I can't let her live there by herself.\So Mom's moving in in my stead.\Rikka's mother?\What do you think?\I don't\Do you think it's gonna work out?\Rikka doesn't hate her mother, right? Then\Mom... response:	Mom tried to talk with Rikka a number of times.
+context: So Mom's moving in in my stead.\Rikka's mother?\What do you think?\I don't\Do you think it's gonna work out?\Rikka doesn't hate her mother, right? Then\Mom...\Mom tried to talk with Rikka a number of times. response:	She apologized for not telling her about Dad.
+context: Rikka's mother?\What do you think?\I don't\Do you think it's gonna work out?\Rikka doesn't hate her mother, right? Then\Mom...\Mom tried to talk with Rikka a number of times.\She apologized for not telling her about Dad. response:	But...
+context: What do you think?\I don't\Do you think it's gonna work out?\Rikka doesn't hate her mother, right? Then\Mom...\Mom tried to talk with Rikka a number of times.\She apologized for not telling her about Dad.\But... response:	What's wrong, Tooka?
+context: I don't\Do you think it's gonna work out?\Rikka doesn't hate her mother, right? Then\Mom...\Mom tried to talk with Rikka a number of times.\She apologized for not telling her about Dad.\But...\What's wrong, Tooka? response:	Please help me!
+context: Do you think it's gonna work out?\Rikka doesn't hate her mother, right? Then\Mom...\Mom tried to talk with Rikka a number of times.\She apologized for not telling her about Dad.\But...\What's wrong, Tooka?\Please help me! response:	I'm sure she'd listen to you!
+context: Rikka doesn't hate her mother, right? Then\Mom...\Mom tried to talk with Rikka a number of times.\She apologized for not telling her about Dad.\But...\What's wrong, Tooka?\Please help me!\I'm sure she'd listen to you! response:	You just need to tell her to grow up!
+context: Mom...\Mom tried to talk with Rikka a number of times.\She apologized for not telling her about Dad.\But...\What's wrong, Tooka?\Please help me!\I'm sure she'd listen to you!\You just need to tell her to grow up! response:	She's grown up enough.
+context: Mom tried to talk with Rikka a number of times.\She apologized for not telling her about Dad.\But...\What's wrong, Tooka?\Please help me!\I'm sure she'd listen to you!\You just need to tell her to grow up!\She's grown up enough. response:	I think that eyepatch is the armor by which she protects herself.
+context: She apologized for not telling her about Dad.\But...\What's wrong, Tooka?\Please help me!\I'm sure she'd listen to you!\You just need to tell her to grow up!\She's grown up enough.\I think that eyepatch is the armor by which she protects herself. response:	I'm sure she understands... all of it.
+context: But...\What's wrong, Tooka?\Please help me!\I'm sure she'd listen to you!\You just need to tell her to grow up!\She's grown up enough.\I think that eyepatch is the armor by which she protects herself.\I'm sure she understands... all of it. response:	But she can't deal with the gloom in any other way.
+context: What's wrong, Tooka?\Please help me!\I'm sure she'd listen to you!\You just need to tell her to grow up!\She's grown up enough.\I think that eyepatch is the armor by which she protects herself.\I'm sure she understands... all of it.\But she can't deal with the gloom in any other way. response:	Acting like that is the only way she can protect...
+context: Please help me!\I'm sure she'd listen to you!\You just need to tell her to grow up!\She's grown up enough.\I think that eyepatch is the armor by which she protects herself.\I'm sure she understands... all of it.\But she can't deal with the gloom in any other way.\Acting like that is the only way she can protect... response:	Protect what?
+context: I'm sure she'd listen to you!\You just need to tell her to grow up!\She's grown up enough.\I think that eyepatch is the armor by which she protects herself.\I'm sure she understands... all of it.\But she can't deal with the gloom in any other way.\Acting like that is the only way she can protect...\Protect what? response:	I don't know.
+context: You just need to tell her to grow up!\She's grown up enough.\I think that eyepatch is the armor by which she protects herself.\I'm sure she understands... all of it.\But she can't deal with the gloom in any other way.\Acting like that is the only way she can protect...\Protect what?\I don't know. response:	But I'd say she still wants to hold on to it.
+context: She's grown up enough.\I think that eyepatch is the armor by which she protects herself.\I'm sure she understands... all of it.\But she can't deal with the gloom in any other way.\Acting like that is the only way she can protect...\Protect what?\I don't know.\But I'd say she still wants to hold on to it. response:	If she listened to you or your mother and swallowed the bitter pill, it'd be all over.
+context: I think that eyepatch is the armor by which she protects herself.\I'm sure she understands... all of it.\But she can't deal with the gloom in any other way.\Acting like that is the only way she can protect...\Protect what?\I don't know.\But I'd say she still wants to hold on to it.\If she listened to you or your mother and swallowed the bitter pill, it'd be all over. response:	She doesn't want that.
+context: I'm sure she understands... all of it.\But she can't deal with the gloom in any other way.\Acting like that is the only way she can protect...\Protect what?\I don't know.\But I'd say she still wants to hold on to it.\If she listened to you or your mother and swallowed the bitter pill, it'd be all over.\She doesn't want that. response:	What's wrong with it being over?
+context: But she can't deal with the gloom in any other way.\Acting like that is the only way she can protect...\Protect what?\I don't know.\But I'd say she still wants to hold on to it.\If she listened to you or your mother and swallowed the bitter pill, it'd be all over.\She doesn't want that.\What's wrong with it being over? response:	There's no Horizon or Wicked Eye!
+context: Acting like that is the only way she can protect...\Protect what?\I don't know.\But I'd say she still wants to hold on to it.\If she listened to you or your mother and swallowed the bitter pill, it'd be all over.\She doesn't want that.\What's wrong with it being over?\There's no Horizon or Wicked Eye! response:	No matter how much she looks for Dad, she'll never find him!
+context: Protect what?\I don't know.\But I'd say she still wants to hold on to it.\If she listened to you or your mother and swallowed the bitter pill, it'd be all over.\She doesn't want that.\What's wrong with it being over?\There's no Horizon or Wicked Eye!\No matter how much she looks for Dad, she'll never find him! response:	Well...
+context: I don't know.\But I'd say she still wants to hold on to it.\If she listened to you or your mother and swallowed the bitter pill, it'd be all over.\She doesn't want that.\What's wrong with it being over?\There's no Horizon or Wicked Eye!\No matter how much she looks for Dad, she'll never find him!\Well... response:	How is affirming what she says better in any way?
+context: But I'd say she still wants to hold on to it.\If she listened to you or your mother and swallowed the bitter pill, it'd be all over.\She doesn't want that.\What's wrong with it being over?\There's no Horizon or Wicked Eye!\No matter how much she looks for Dad, she'll never find him!\Well...\How is affirming what she says better in any way? response:	She's never gonna get what she's looking for!
+context: If she listened to you or your mother and swallowed the bitter pill, it'd be all over.\She doesn't want that.\What's wrong with it being over?\There's no Horizon or Wicked Eye!\No matter how much she looks for Dad, she'll never find him!\Well...\How is affirming what she says better in any way?\She's never gonna get what she's looking for! response:	But...
+context: She doesn't want that.\What's wrong with it being over?\There's no Horizon or Wicked Eye!\No matter how much she looks for Dad, she'll never find him!\Well...\How is affirming what she says better in any way?\She's never gonna get what she's looking for!\But... response:	Encouraging her like that...
+context: What's wrong with it being over?\There's no Horizon or Wicked Eye!\No matter how much she looks for Dad, she'll never find him!\Well...\How is affirming what she says better in any way?\She's never gonna get what she's looking for!\But...\Encouraging her like that... response:	is irresponsible.
+context: There's no Horizon or Wicked Eye!\No matter how much she looks for Dad, she'll never find him!\Well...\How is affirming what she says better in any way?\She's never gonna get what she's looking for!\But...\Encouraging her like that...\is irresponsible. response:	Here's your cheese potato! Thank you very much!
+context: No matter how much she looks for Dad, she'll never find him!\Well...\How is affirming what she says better in any way?\She's never gonna get what she's looking for!\But...\Encouraging her like that...\is irresponsible.\Here's your cheese potato! Thank you very much! response:	Wow, it's really popular.
+context: Well...\How is affirming what she says better in any way?\She's never gonna get what she's looking for!\But...\Encouraging her like that...\is irresponsible.\Here's your cheese potato! Thank you very much!\Wow, it's really popular. response:	That's just on the outside! Inside, it's a cruel, backstabbing gang!
+context: How is affirming what she says better in any way?\She's never gonna get what she's looking for!\But...\Encouraging her like that...\is irresponsible.\Here's your cheese potato! Thank you very much!\Wow, it's really popular.\That's just on the outside! Inside, it's a cruel, backstabbing gang! response:	That's why I don't want anything to do with them anymore.
+context: She's never gonna get what she's looking for!\But...\Encouraging her like that...\is irresponsible.\Here's your cheese potato! Thank you very much!\Wow, it's really popular.\That's just on the outside! Inside, it's a cruel, backstabbing gang!\That's why I don't want anything to do with them anymore. response:	So it's golden on the outside, gooey on the inside, just like a cheese potato?
+context: But...\Encouraging her like that...\is irresponsible.\Here's your cheese potato! Thank you very much!\Wow, it's really popular.\That's just on the outside! Inside, it's a cruel, backstabbing gang!\That's why I don't want anything to do with them anymore.\So it's golden on the outside, gooey on the inside, just like a cheese potato? response:	Spare me your smart comments!
+context: Encouraging her like that...\is irresponsible.\Here's your cheese potato! Thank you very much!\Wow, it's really popular.\That's just on the outside! Inside, it's a cruel, backstabbing gang!\That's why I don't want anything to do with them anymore.\So it's golden on the outside, gooey on the inside, just like a cheese potato?\Spare me your smart comments! response:	And where are Takanashi and Togashi?
+context: is irresponsible.\Here's your cheese potato! Thank you very much!\Wow, it's really popular.\That's just on the outside! Inside, it's a cruel, backstabbing gang!\That's why I don't want anything to do with them anymore.\So it's golden on the outside, gooey on the inside, just like a cheese potato?\Spare me your smart comments!\And where are Takanashi and Togashi? response:	They said they were going to change.
+context: Here's your cheese potato! Thank you very much!\Wow, it's really popular.\That's just on the outside! Inside, it's a cruel, backstabbing gang!\That's why I don't want anything to do with them anymore.\So it's golden on the outside, gooey on the inside, just like a cheese potato?\Spare me your smart comments!\And where are Takanashi and Togashi?\They said they were going to change. response:	Hurry up!
+context: Wow, it's really popular.\That's just on the outside! Inside, it's a cruel, backstabbing gang!\That's why I don't want anything to do with them anymore.\So it's golden on the outside, gooey on the inside, just like a cheese potato?\Spare me your smart comments!\And where are Takanashi and Togashi?\They said they were going to change.\Hurry up! response:	Just you watch! Our impromptu performance will take all your customers away!
+context: That's just on the outside! Inside, it's a cruel, backstabbing gang!\That's why I don't want anything to do with them anymore.\So it's golden on the outside, gooey on the inside, just like a cheese potato?\Spare me your smart comments!\And where are Takanashi and Togashi?\They said they were going to change.\Hurry up!\Just you watch! Our impromptu performance will take all your customers away! response:	Oh look, it's Forest Summer!
+context: That's why I don't want anything to do with them anymore.\So it's golden on the outside, gooey on the inside, just like a cheese potato?\Spare me your smart comments!\And where are Takanashi and Togashi?\They said they were going to change.\Hurry up!\Just you watch! Our impromptu performance will take all your customers away!\Oh look, it's Forest Summer! response:	Don't call m
+context: So it's golden on the outside, gooey on the inside, just like a cheese potato?\Spare me your smart comments!\And where are Takanashi and Togashi?\They said they were going to change.\Hurry up!\Just you watch! Our impromptu performance will take all your customers away!\Oh look, it's Forest Summer!\Don't call m response:	Sato! Suzuki!
+context: Spare me your smart comments!\And where are Takanashi and Togashi?\They said they were going to change.\Hurry up!\Just you watch! Our impromptu performance will take all your customers away!\Oh look, it's Forest Summer!\Don't call m\Sato! Suzuki! response:	Hey! Haven't seen you since junior high!
+context: And where are Takanashi and Togashi?\They said they were going to change.\Hurry up!\Just you watch! Our impromptu performance will take all your customers away!\Oh look, it's Forest Summer!\Don't call m\Sato! Suzuki!\Hey! Haven't seen you since junior high! response:	How old are you this year? 716?
+context: They said they were going to change.\Hurry up!\Just you watch! Our impromptu performance will take all your customers away!\Oh look, it's Forest Summer!\Don't call m\Sato! Suzuki!\Hey! Haven't seen you since junior high!\How old are you this year? 716? response:	Are you still catching lizards?
+context: Hurry up!\Just you watch! Our impromptu performance will take all your customers away!\Oh look, it's Forest Summer!\Don't call m\Sato! Suzuki!\Hey! Haven't seen you since junior high!\How old are you this year? 716?\Are you still catching lizards? response:	Don't bring that up!
+context: Just you watch! Our impromptu performance will take all your customers away!\Oh look, it's Forest Summer!\Don't call m\Sato! Suzuki!\Hey! Haven't seen you since junior high!\How old are you this year? 716?\Are you still catching lizards?\Don't bring that up! response:	Didn't you paint your lips purple to feign sickness, Sato?
+context: Oh look, it's Forest Summer!\Don't call m\Sato! Suzuki!\Hey! Haven't seen you since junior high!\How old are you this year? 716?\Are you still catching lizards?\Don't bring that up!\Didn't you paint your lips purple to feign sickness, Sato? response:	Oh, you were into stuff like that too?
+context: Don't call m\Sato! Suzuki!\Hey! Haven't seen you since junior high!\How old are you this year? 716?\Are you still catching lizards?\Don't bring that up!\Didn't you paint your lips purple to feign sickness, Sato?\Oh, you were into stuff like that too? response:	You too, Suzuki!
+context: Sato! Suzuki!\Hey! Haven't seen you since junior high!\How old are you this year? 716?\Are you still catching lizards?\Don't bring that up!\Didn't you paint your lips purple to feign sickness, Sato?\Oh, you were into stuff like that too?\You too, Suzuki! response:	I remember you claiming you'd found fairies!
+context: Hey! Haven't seen you since junior high!\How old are you this year? 716?\Are you still catching lizards?\Don't bring that up!\Didn't you paint your lips purple to feign sickness, Sato?\Oh, you were into stuff like that too?\You too, Suzuki!\I remember you claiming you'd found fairies! response:	I just...
+context: How old are you this year? 716?\Are you still catching lizards?\Don't bring that up!\Didn't you paint your lips purple to feign sickness, Sato?\Oh, you were into stuff like that too?\You too, Suzuki!\I remember you claiming you'd found fairies!\I just... response:	Fairies?
+context: Are you still catching lizards?\Don't bring that up!\Didn't you paint your lips purple to feign sickness, Sato?\Oh, you were into stuff like that too?\You too, Suzuki!\I remember you claiming you'd found fairies!\I just...\Fairies? response:	You never know what'll be unearthed next. Mining for eighth-grade memories is a dangerous job.
+context: Don't bring that up!\Didn't you paint your lips purple to feign sickness, Sato?\Oh, you were into stuff like that too?\You too, Suzuki!\I remember you claiming you'd found fairies!\I just...\Fairies?\You never know what'll be unearthed next. Mining for eighth-grade memories is a dangerous job. response:	Yesterday's business is still far from over!
+context: Didn't you paint your lips purple to feign sickness, Sato?\Oh, you were into stuff like that too?\You too, Suzuki!\I remember you claiming you'd found fairies!\I just...\Fairies?\You never know what'll be unearthed next. Mining for eighth-grade memories is a dangerous job.\Yesterday's business is still far from over! response:	Today I've increased my powers fourfold!
+context: Oh, you were into stuff like that too?\You too, Suzuki!\I remember you claiming you'd found fairies!\I just...\Fairies?\You never know what'll be unearthed next. Mining for eighth-grade memories is a dangerous job.\Yesterday's business is still far from over!\Today I've increased my powers fourfold! response:	Ugh, it's heavy!
+context: You too, Suzuki!\I remember you claiming you'd found fairies!\I just...\Fairies?\You never know what'll be unearthed next. Mining for eighth-grade memories is a dangerous job.\Yesterday's business is still far from over!\Today I've increased my powers fourfold!\Ugh, it's heavy! response:	You're nuts.
+context: I remember you claiming you'd found fairies!\I just...\Fairies?\You never know what'll be unearthed next. Mining for eighth-grade memories is a dangerous job.\Yesterday's business is still far from over!\Today I've increased my powers fourfold!\Ugh, it's heavy!\You're nuts. response:	How is affirming what she says better in any way?
+context: I just...\Fairies?\You never know what'll be unearthed next. Mining for eighth-grade memories is a dangerous job.\Yesterday's business is still far from over!\Today I've increased my powers fourfold!\Ugh, it's heavy!\You're nuts.\How is affirming what she says better in any way? response:	Encouraging her like that...
+context: Fairies?\You never know what'll be unearthed next. Mining for eighth-grade memories is a dangerous job.\Yesterday's business is still far from over!\Today I've increased my powers fourfold!\Ugh, it's heavy!\You're nuts.\How is affirming what she says better in any way?\Encouraging her like that... response:	is irresponsible.
+context: You never know what'll be unearthed next. Mining for eighth-grade memories is a dangerous job.\Yesterday's business is still far from over!\Today I've increased my powers fourfold!\Ugh, it's heavy!\You're nuts.\How is affirming what she says better in any way?\Encouraging her like that...\is irresponsible. response:	Yuuta, you're so cool!
+context: Yesterday's business is still far from over!\Today I've increased my powers fourfold!\Ugh, it's heavy!\You're nuts.\How is affirming what she says better in any way?\Encouraging her like that...\is irresponsible.\Yuuta, you're so cool! response:	You don't have to look that impressed!
+context: Today I've increased my powers fourfold!\Ugh, it's heavy!\You're nuts.\How is affirming what she says better in any way?\Encouraging her like that...\is irresponsible.\Yuuta, you're so cool!\You don't have to look that impressed! response:	Your move!
+context: Ugh, it's heavy!\You're nuts.\How is affirming what she says better in any way?\Encouraging her like that...\is irresponsible.\Yuuta, you're so cool!\You don't have to look that impressed!\Your move! response:	Vanish into the embrace of dark flames!
+context: You're nuts.\How is affirming what she says better in any way?\Encouraging her like that...\is irresponsible.\Yuuta, you're so cool!\You don't have to look that impressed!\Your move!\Vanish into the embrace of dark flames! response:	Yuuta, do it!
+context: How is affirming what she says better in any way?\Encouraging her like that...\is irresponsible.\Yuuta, you're so cool!\You don't have to look that impressed!\Your move!\Vanish into the embrace of dark flames!\Yuuta, do it! response:	I don't wanna.
+context: Encouraging her like that...\is irresponsible.\Yuuta, you're so cool!\You don't have to look that impressed!\Your move!\Vanish into the embrace of dark flames!\Yuuta, do it!\I don't wanna. response:	But you'll have to do it soon anyway.
+context: is irresponsible.\Yuuta, you're so cool!\You don't have to look that impressed!\Your move!\Vanish into the embrace of dark flames!\Yuuta, do it!\I don't wanna.\But you'll have to do it soon anyway. response:	Yeah, I guess so.
+context: Yuuta, you're so cool!\You don't have to look that impressed!\Your move!\Vanish into the embrace of dark flames!\Yuuta, do it!\I don't wanna.\But you'll have to do it soon anyway.\Yeah, I guess so. response:	Vanish into the embrace of dark flames.
+context: You don't have to look that impressed!\Your move!\Vanish into the embrace of dark flames!\Yuuta, do it!\I don't wanna.\But you'll have to do it soon anyway.\Yeah, I guess so.\Vanish into the embrace of dark flames. response:	There was no power in that.
+context: Your move!\Vanish into the embrace of dark flames!\Yuuta, do it!\I don't wanna.\But you'll have to do it soon anyway.\Yeah, I guess so.\Vanish into the embrace of dark flames.\There was no power in that. response:	Can there be any power in it?
+context: Vanish into the embrace of dark flames!\Yuuta, do it!\I don't wanna.\But you'll have to do it soon anyway.\Yeah, I guess so.\Vanish into the embrace of dark flames.\There was no power in that.\Can there be any power in it? response:	Of course. Open your legs, bend your knees, and flap the tail of your coat.
+context: Yuuta, do it!\I don't wanna.\But you'll have to do it soon anyway.\Yeah, I guess so.\Vanish into the embrace of dark flames.\There was no power in that.\Can there be any power in it?\Of course. Open your legs, bend your knees, and flap the tail of your coat. response:	Yeah, yeah.
+context: I don't wanna.\But you'll have to do it soon anyway.\Yeah, I guess so.\Vanish into the embrace of dark flames.\There was no power in that.\Can there be any power in it?\Of course. Open your legs, bend your knees, and flap the tail of your coat.\Yeah, yeah. response:	Vanish into the embrace of dark flames!
+context: But you'll have to do it soon anyway.\Yeah, I guess so.\Vanish into the embrace of dark flames.\There was no power in that.\Can there be any power in it?\Of course. Open your legs, bend your knees, and flap the tail of your coat.\Yeah, yeah.\Vanish into the embrace of dark flames! response:	No pictures!
+context: Yeah, I guess so.\Vanish into the embrace of dark flames.\There was no power in that.\Can there be any power in it?\Of course. Open your legs, bend your knees, and flap the tail of your coat.\Yeah, yeah.\Vanish into the embrace of dark flames!\No pictures! response:	Next, together.
+context: Vanish into the embrace of dark flames.\There was no power in that.\Can there be any power in it?\Of course. Open your legs, bend your knees, and flap the tail of your coat.\Yeah, yeah.\Vanish into the embrace of dark flames!\No pictures!\Next, together. response:	It's almost time to begin our mission.
+context: There was no power in that.\Can there be any power in it?\Of course. Open your legs, bend your knees, and flap the tail of your coat.\Yeah, yeah.\Vanish into the embrace of dark flames!\No pictures!\Next, together.\It's almost time to begin our mission. response:	Let's proceed to our positions.
+context: Can there be any power in it?\Of course. Open your legs, bend your knees, and flap the tail of your coat.\Yeah, yeah.\Vanish into the embrace of dark flames!\No pictures!\Next, together.\It's almost time to begin our mission.\Let's proceed to our positions. response:	Yeah... I'm not really feeling it, though.
+context: Of course. Open your legs, bend your knees, and flap the tail of your coat.\Yeah, yeah.\Vanish into the embrace of dark flames!\No pictures!\Next, together.\It's almost time to begin our mission.\Let's proceed to our positions.\Yeah... I'm not really feeling it, though. response:	Rikka!
+context: Yeah, yeah.\Vanish into the embrace of dark flames!\No pictures!\Next, together.\It's almost time to begin our mission.\Let's proceed to our positions.\Yeah... I'm not really feeling it, though.\Rikka! response:	What?
+context: Vanish into the embrace of dark flames!\No pictures!\Next, together.\It's almost time to begin our mission.\Let's proceed to our positions.\Yeah... I'm not really feeling it, though.\Rikka!\What? response:	Nothing.
+context: No pictures!\Next, together.\It's almost time to begin our mission.\Let's proceed to our positions.\Yeah... I'm not really feeling it, though.\Rikka!\What?\Nothing. response:	Your pinky.
+context: Next, together.\It's almost time to begin our mission.\Let's proceed to our positions.\Yeah... I'm not really feeling it, though.\Rikka!\What?\Nothing.\Your pinky. response:	Excuse me...
+context: It's almost time to begin our mission.\Let's proceed to our positions.\Yeah... I'm not really feeling it, though.\Rikka!\What?\Nothing.\Your pinky.\Excuse me... response:	Yes?
+context: Let's proceed to our positions.\Yeah... I'm not really feeling it, though.\Rikka!\What?\Nothing.\Your pinky.\Excuse me...\Yes? response:	Would a girl named Takanashi Rikka happen to be here?
+context: Yeah... I'm not really feeling it, though.\Rikka!\What?\Nothing.\Your pinky.\Excuse me...\Yes?\Would a girl named Takanashi Rikka happen to be here? response:	She's...
+context: Rikka!\What?\Nothing.\Your pinky.\Excuse me...\Yes?\Would a girl named Takanashi Rikka happen to be here?\She's... response:	She's not here right now.
+context: What?\Nothing.\Your pinky.\Excuse me...\Yes?\Would a girl named Takanashi Rikka happen to be here?\She's...\She's not here right now. response:	I see.
+context: Nothing.\Your pinky.\Excuse me...\Yes?\Would a girl named Takanashi Rikka happen to be here?\She's...\She's not here right now.\I see. response:	Could you give her this?
+context: Your pinky.\Excuse me...\Yes?\Would a girl named Takanashi Rikka happen to be here?\She's...\She's not here right now.\I see.\Could you give her this? response:	Um...
+context: Excuse me...\Yes?\Would a girl named Takanashi Rikka happen to be here?\She's...\She's not here right now.\I see.\Could you give her this?\Um... response:	It's okay. I'm leaving right away.
+context: Yes?\Would a girl named Takanashi Rikka happen to be here?\She's...\She's not here right now.\I see.\Could you give her this?\Um...\It's okay. I'm leaving right away. response:	I think she still doesn't want to meet me yet.
+context: Would a girl named Takanashi Rikka happen to be here?\She's...\She's not here right now.\I see.\Could you give her this?\Um...\It's okay. I'm leaving right away.\I think she still doesn't want to meet me yet. response:	Am I really being irresponsible?
+context: She's...\She's not here right now.\I see.\Could you give her this?\Um...\It's okay. I'm leaving right away.\I think she still doesn't want to meet me yet.\Am I really being irresponsible? response:	Yuuta!
+context: She's not here right now.\I see.\Could you give her this?\Um...\It's okay. I'm leaving right away.\I think she still doesn't want to meet me yet.\Am I really being irresponsible?\Yuuta! response:	Why are you spacing out there?
+context: I see.\Could you give her this?\Um...\It's okay. I'm leaving right away.\I think she still doesn't want to meet me yet.\Am I really being irresponsible?\Yuuta!\Why are you spacing out there? response:	It's about time we started!
+context: Could you give her this?\Um...\It's okay. I'm leaving right away.\I think she still doesn't want to meet me yet.\Am I really being irresponsible?\Yuuta!\Why are you spacing out there?\It's about time we started! response:	We've got so many visitors too!
+context: Um...\It's okay. I'm leaving right away.\I think she still doesn't want to meet me yet.\Am I really being irresponsible?\Yuuta!\Why are you spacing out there?\It's about time we started!\We've got so many visitors too! response:	Rikka...
+context: It's okay. I'm leaving right away.\I think she still doesn't want to meet me yet.\Am I really being irresponsible?\Yuuta!\Why are you spacing out there?\It's about time we started!\We've got so many visitors too!\Rikka... response:	Take off your eyepatch.
+context: I think she still doesn't want to meet me yet.\Am I really being irresponsible?\Yuuta!\Why are you spacing out there?\It's about time we started!\We've got so many visitors too!\Rikka...\Take off your eyepatch. response:	It's time for our long-running talent show!
+context: Am I really being irresponsible?\Yuuta!\Why are you spacing out there?\It's about time we started!\We've got so many visitors too!\Rikka...\Take off your eyepatch.\It's time for our long-running talent show! response:	Let's start then! Number one, on stage!
+context: Yuuta!\Why are you spacing out there?\It's about time we started!\We've got so many visitors too!\Rikka...\Take off your eyepatch.\It's time for our long-running talent show!\Let's start then! Number one, on stage! response:	I'm number one, class 1-3, Haruno Shinya! I'll be doing impersonations!
+context: Why are you spacing out there?\It's about time we started!\We've got so many visitors too!\Rikka...\Take off your eyepatch.\It's time for our long-running talent show!\Let's start then! Number one, on stage!\I'm number one, class 1-3, Haruno Shinya! I'll be doing impersonations! response:	First, the principal!
+context: It's about time we started!\We've got so many visitors too!\Rikka...\Take off your eyepatch.\It's time for our long-running talent show!\Let's start then! Number one, on stage!\I'm number one, class 1-3, Haruno Shinya! I'll be doing impersonations!\First, the principal! response:	Are you done with the performance?
+context: We've got so many visitors too!\Rikka...\Take off your eyepatch.\It's time for our long-running talent show!\Let's start then! Number one, on stage!\I'm number one, class 1-3, Haruno Shinya! I'll be doing impersonations!\First, the principal!\Are you done with the performance? response:	Yeah. The brat and I managed to pull it off.
+context: Rikka...\Take off your eyepatch.\It's time for our long-running talent show!\Let's start then! Number one, on stage!\I'm number one, class 1-3, Haruno Shinya! I'll be doing impersonations!\First, the principal!\Are you done with the performance?\Yeah. The brat and I managed to pull it off. response:	She came at me with killing intent, you know!
+context: Take off your eyepatch.\It's time for our long-running talent show!\Let's start then! Number one, on stage!\I'm number one, class 1-3, Haruno Shinya! I'll be doing impersonations!\First, the principal!\Are you done with the performance?\Yeah. The brat and I managed to pull it off.\She came at me with killing intent, you know! response:	Sorry.
+context: It's time for our long-running talent show!\Let's start then! Number one, on stage!\I'm number one, class 1-3, Haruno Shinya! I'll be doing impersonations!\First, the principal!\Are you done with the performance?\Yeah. The brat and I managed to pull it off.\She came at me with killing intent, you know!\Sorry. response:	I didn't expect...
+context: Let's start then! Number one, on stage!\I'm number one, class 1-3, Haruno Shinya! I'll be doing impersonations!\First, the principal!\Are you done with the performance?\Yeah. The brat and I managed to pull it off.\She came at me with killing intent, you know!\Sorry.\I didn't expect... response:	you to say something like that.
+context: I'm number one, class 1-3, Haruno Shinya! I'll be doing impersonations!\First, the principal!\Are you done with the performance?\Yeah. The brat and I managed to pull it off.\She came at me with killing intent, you know!\Sorry.\I didn't expect...\you to say something like that. response:	That lunchbox, you know...
+context: First, the principal!\Are you done with the performance?\Yeah. The brat and I managed to pull it off.\She came at me with killing intent, you know!\Sorry.\I didn't expect...\you to say something like that.\That lunchbox, you know... response:	It was still warm.
+context: Are you done with the performance?\Yeah. The brat and I managed to pull it off.\She came at me with killing intent, you know!\Sorry.\I didn't expect...\you to say something like that.\That lunchbox, you know...\It was still warm. response:	It had a good heft to it, too.
+context: Yeah. The brat and I managed to pull it off.\She came at me with killing intent, you know!\Sorry.\I didn't expect...\you to say something like that.\That lunchbox, you know...\It was still warm.\It had a good heft to it, too. response:	It was stuffed.
+context: She came at me with killing intent, you know!\Sorry.\I didn't expect...\you to say something like that.\That lunchbox, you know...\It was still warm.\It had a good heft to it, too.\It was stuffed. response:	With love?
+context: Sorry.\I didn't expect...\you to say something like that.\That lunchbox, you know...\It was still warm.\It had a good heft to it, too.\It was stuffed.\With love? response:	With reality.
+context: I didn't expect...\you to say something like that.\That lunchbox, you know...\It was still warm.\It had a good heft to it, too.\It was stuffed.\With love?\With reality. response:	Number two! Class 1-4, Isshiki Makoto!
+context: you to say something like that.\That lunchbox, you know...\It was still warm.\It had a good heft to it, too.\It was stuffed.\With love?\With reality.\Number two! Class 1-4, Isshiki Makoto! response:	I'll shout!
+context: That lunchbox, you know...\It was still warm.\It had a good heft to it, too.\It was stuffed.\With love?\With reality.\Number two! Class 1-4, Isshiki Makoto!\I'll shout! response:	Tsuyuri Kumin!
+context: It was still warm.\It had a good heft to it, too.\It was stuffed.\With love?\With reality.\Number two! Class 1-4, Isshiki Makoto!\I'll shout!\Tsuyuri Kumin! response:	Please go out with me!
+context: It had a good heft to it, too.\It was stuffed.\With love?\With reality.\Number two! Class 1-4, Isshiki Makoto!\I'll shout!\Tsuyuri Kumin!\Please go out with me! response:	Sorry...
+context: It was stuffed.\With love?\With reality.\Number two! Class 1-4, Isshiki Makoto!\I'll shout!\Tsuyuri Kumin!\Please go out with me!\Sorry... response:	What about Takanashi?
+context: With love?\With reality.\Number two! Class 1-4, Isshiki Makoto!\I'll shout!\Tsuyuri Kumin!\Please go out with me!\Sorry...\What about Takanashi? response:	I'll go look for her.
+context: With reality.\Number two! Class 1-4, Isshiki Makoto!\I'll shout!\Tsuyuri Kumin!\Please go out with me!\Sorry...\What about Takanashi?\I'll go look for her. response:	Togashi!
+context: Number two! Class 1-4, Isshiki Makoto!\I'll shout!\Tsuyuri Kumin!\Please go out with me!\Sorry...\What about Takanashi?\I'll go look for her.\Togashi! response:	I think you did the right thing.
+context: I'll shout!\Tsuyuri Kumin!\Please go out with me!\Sorry...\What about Takanashi?\I'll go look for her.\Togashi!\I think you did the right thing. response:	Thanks.
+context: Tsuyuri Kumin!\Please go out with me!\Sorry...\What about Takanashi?\I'll go look for her.\Togashi!\I think you did the right thing.\Thanks. response:	Class 1-4, Takanashi Rikka.
+context: Please go out with me!\Sorry...\What about Takanashi?\I'll go look for her.\Togashi!\I think you did the right thing.\Thanks.\Class 1-4, Takanashi Rikka. response:	I'll sing.
+context: Sorry...\What about Takanashi?\I'll go look for her.\Togashi!\I think you did the right thing.\Thanks.\Class 1-4, Takanashi Rikka.\I'll sing. response:	Take a look
+context: What about Takanashi?\I'll go look for her.\Togashi!\I think you did the right thing.\Thanks.\Class 1-4, Takanashi Rikka.\I'll sing.\Take a look response:	at the stars of the night
+context: I'll go look for her.\Togashi!\I think you did the right thing.\Thanks.\Class 1-4, Takanashi Rikka.\I'll sing.\Take a look\at the stars of the night response:	The tiny lights
+context: Togashi!\I think you did the right thing.\Thanks.\Class 1-4, Takanashi Rikka.\I'll sing.\Take a look\at the stars of the night\The tiny lights response:	of the tiny stars
+context: I think you did the right thing.\Thanks.\Class 1-4, Takanashi Rikka.\I'll sing.\Take a look\at the stars of the night\The tiny lights\of the tiny stars response:	Sing of feeble
+context: Thanks.\Class 1-4, Takanashi Rikka.\I'll sing.\Take a look\at the stars of the night\The tiny lights\of the tiny stars\Sing of feeble response:	happiness
+context: Class 1-4, Takanashi Rikka.\I'll sing.\Take a look\at the stars of the night\The tiny lights\of the tiny stars\Sing of feeble\happiness response:	What is she doing?!
+context: I'll sing.\Take a look\at the stars of the night\The tiny lights\of the tiny stars\Sing of feeble\happiness\What is she doing?! response:	Dad...
+context: Take a look\at the stars of the night\The tiny lights\of the tiny stars\Sing of feeble\happiness\What is she doing?!\Dad... response:	Dad liked this song.
+context: at the stars of the night\The tiny lights\of the tiny stars\Sing of feeble\happiness\What is she doing?!\Dad...\Dad liked this song. response:	Rikka...
+context: The tiny lights\of the tiny stars\Sing of feeble\happiness\What is she doing?!\Dad...\Dad liked this song.\Rikka... response:	That was Takanashi Rikka from class 1-4!
+context: of the tiny stars\Sing of feeble\happiness\What is she doing?!\Dad...\Dad liked this song.\Rikka...\That was Takanashi Rikka from class 1-4! response:	Thank you very much!
+context: Sing of feeble\happiness\What is she doing?!\Dad...\Dad liked this song.\Rikka...\That was Takanashi Rikka from class 1-4!\Thank you very much! response:	Does this song bring back memories for you, or something like that?
+context: happiness\What is she doing?!\Dad...\Dad liked this song.\Rikka...\That was Takanashi Rikka from class 1-4!\Thank you very much!\Does this song bring back memories for you, or something like that? response:	Let's look for a
+context: What is she doing?!\Dad...\Dad liked this song.\Rikka...\That was Takanashi Rikka from class 1-4!\Thank you very much!\Does this song bring back memories for you, or something like that?\Let's look for a response:	sparkling daydream...
+context: Dad...\Dad liked this song.\Rikka...\That was Takanashi Rikka from class 1-4!\Thank you very much!\Does this song bring back memories for you, or something like that?\Let's look for a\sparkling daydream... response:	shibaraku mitsumeatte kara
+context: Dad liked this song.\Rikka...\That was Takanashi Rikka from class 1-4!\Thank you very much!\Does this song bring back memories for you, or something like that?\Let's look for a\sparkling daydream...\shibaraku mitsumeatte kara response:	shibaraku mitsumeatte kara
+context: Rikka...\That was Takanashi Rikka from class 1-4!\Thank you very much!\Does this song bring back memories for you, or something like that?\Let's look for a\sparkling daydream...\shibaraku mitsumeatte kara\shibaraku mitsumeatte kara response:	We looked into each other's eyes for a while
+context: That was Takanashi Rikka from class 1-4!\Thank you very much!\Does this song bring back memories for you, or something like that?\Let's look for a\sparkling daydream...\shibaraku mitsumeatte kara\shibaraku mitsumeatte kara\We looked into each other's eyes for a while response:	We looked into each other's eyes for a while
+context: Thank you very much!\Does this song bring back memories for you, or something like that?\Let's look for a\sparkling daydream...\shibaraku mitsumeatte kara\shibaraku mitsumeatte kara\We looked into each other's eyes for a while\We looked into each other's eyes for a while response:	sorasu made ni nani wo kangaeteta no?
+context: Does this song bring back memories for you, or something like that?\Let's look for a\sparkling daydream...\shibaraku mitsumeatte kara\shibaraku mitsumeatte kara\We looked into each other's eyes for a while\We looked into each other's eyes for a while\sorasu made ni nani wo kangaeteta no? response:	What did you think of while it lasted?
+context: Let's look for a\sparkling daydream...\shibaraku mitsumeatte kara\shibaraku mitsumeatte kara\We looked into each other's eyes for a while\We looked into each other's eyes for a while\sorasu made ni nani wo kangaeteta no?\What did you think of while it lasted? response:	sorasu made ni nani wo kangaeteta no?
+context: sparkling daydream...\shibaraku mitsumeatte kara\shibaraku mitsumeatte kara\We looked into each other's eyes for a while\We looked into each other's eyes for a while\sorasu made ni nani wo kangaeteta no?\What did you think of while it lasted?\sorasu made ni nani wo kangaeteta no? response:	What did you think of while it lasted?
+context: shibaraku mitsumeatte kara\shibaraku mitsumeatte kara\We looked into each other's eyes for a while\We looked into each other's eyes for a while\sorasu made ni nani wo kangaeteta no?\What did you think of while it lasted?\sorasu made ni nani wo kangaeteta no?\What did you think of while it lasted? response:	ki ni naru
+context: shibaraku mitsumeatte kara\We looked into each other's eyes for a while\We looked into each other's eyes for a while\sorasu made ni nani wo kangaeteta no?\What did you think of while it lasted?\sorasu made ni nani wo kangaeteta no?\What did you think of while it lasted?\ki ni naru response:	I want to know that
+context: We looked into each other's eyes for a while\We looked into each other's eyes for a while\sorasu made ni nani wo kangaeteta no?\What did you think of while it lasted?\sorasu made ni nani wo kangaeteta no?\What did you think of while it lasted?\ki ni naru\I want to know that response:	kuchibiru togaraseta atashi wo mite
+context: We looked into each other's eyes for a while\sorasu made ni nani wo kangaeteta no?\What did you think of while it lasted?\sorasu made ni nani wo kangaeteta no?\What did you think of while it lasted?\ki ni naru\I want to know that\kuchibiru togaraseta atashi wo mite response:	Look at me as I now pout my lips
+context: sorasu made ni nani wo kangaeteta no?\What did you think of while it lasted?\sorasu made ni nani wo kangaeteta no?\What did you think of while it lasted?\ki ni naru\I want to know that\kuchibiru togaraseta atashi wo mite\Look at me as I now pout my lips response:	dou shita no tte kiite kuru no?
+context: What did you think of while it lasted?\sorasu made ni nani wo kangaeteta no?\What did you think of while it lasted?\ki ni naru\I want to know that\kuchibiru togaraseta atashi wo mite\Look at me as I now pout my lips\dou shita no tte kiite kuru no? response:	Will you ask me what's wrong?
+context: sorasu made ni nani wo kangaeteta no?\What did you think of while it lasted?\ki ni naru\I want to know that\kuchibiru togaraseta atashi wo mite\Look at me as I now pout my lips\dou shita no tte kiite kuru no?\Will you ask me what's wrong? response:	matte miru no
+context: What did you think of while it lasted?\ki ni naru\I want to know that\kuchibiru togaraseta atashi wo mite\Look at me as I now pout my lips\dou shita no tte kiite kuru no?\Will you ask me what's wrong?\matte miru no response:	I'm waiting
+context: ki ni naru\I want to know that\kuchibiru togaraseta atashi wo mite\Look at me as I now pout my lips\dou shita no tte kiite kuru no?\Will you ask me what's wrong?\matte miru no\I'm waiting response:	gomakashita ato no hitorigoto wa
+context: I want to know that\kuchibiru togaraseta atashi wo mite\Look at me as I now pout my lips\dou shita no tte kiite kuru no?\Will you ask me what's wrong?\matte miru no\I'm waiting\gomakashita ato no hitorigoto wa response:	I'm embarrassed by what I mutter after
+context: kuchibiru togaraseta atashi wo mite\Look at me as I now pout my lips\dou shita no tte kiite kuru no?\Will you ask me what's wrong?\matte miru no\I'm waiting\gomakashita ato no hitorigoto wa\I'm embarrassed by what I mutter after response:	hazukashii kara kikanaide kureru?
+context: Look at me as I now pout my lips\dou shita no tte kiite kuru no?\Will you ask me what's wrong?\matte miru no\I'm waiting\gomakashita ato no hitorigoto wa\I'm embarrassed by what I mutter after\hazukashii kara kikanaide kureru? response:	being so evasive, so please don't pay it any attention
+context: dou shita no tte kiite kuru no?\Will you ask me what's wrong?\matte miru no\I'm waiting\gomakashita ato no hitorigoto wa\I'm embarrassed by what I mutter after\hazukashii kara kikanaide kureru?\being so evasive, so please don't pay it any attention response:	ato ni hikenai hodo
+context: Will you ask me what's wrong?\matte miru no\I'm waiting\gomakashita ato no hitorigoto wa\I'm embarrassed by what I mutter after\hazukashii kara kikanaide kureru?\being so evasive, so please don't pay it any attention\ato ni hikenai hodo response:	Our love is so strong
+context: matte miru no\I'm waiting\gomakashita ato no hitorigoto wa\I'm embarrassed by what I mutter after\hazukashii kara kikanaide kureru?\being so evasive, so please don't pay it any attention\ato ni hikenai hodo\Our love is so strong response:	hikareau koi
+context: I'm waiting\gomakashita ato no hitorigoto wa\I'm embarrassed by what I mutter after\hazukashii kara kikanaide kureru?\being so evasive, so please don't pay it any attention\ato ni hikenai hodo\Our love is so strong\hikareau koi response:	we can't run away
+context: gomakashita ato no hitorigoto wa\I'm embarrassed by what I mutter after\hazukashii kara kikanaide kureru?\being so evasive, so please don't pay it any attention\ato ni hikenai hodo\Our love is so strong\hikareau koi\we can't run away response:	mou hajimatteta
+context: I'm embarrassed by what I mutter after\hazukashii kara kikanaide kureru?\being so evasive, so please don't pay it any attention\ato ni hikenai hodo\Our love is so strong\hikareau koi\we can't run away\mou hajimatteta response:	It's already begun
+context: hazukashii kara kikanaide kureru?\being so evasive, so please don't pay it any attention\ato ni hikenai hodo\Our love is so strong\hikareau koi\we can't run away\mou hajimatteta\It's already begun response:	It's already begun
+context: being so evasive, so please don't pay it any attention\ato ni hikenai hodo\Our love is so strong\hikareau koi\we can't run away\mou hajimatteta\It's already begun\It's already begun response:	mou hajimatteta
+context: ato ni hikenai hodo\Our love is so strong\hikareau koi\we can't run away\mou hajimatteta\It's already begun\It's already begun\mou hajimatteta response:	mou hajimatteta
+context: Our love is so strong\hikareau koi\we can't run away\mou hajimatteta\It's already begun\It's already begun\mou hajimatteta\mou hajimatteta response:	It's already begun
+context: hikareau koi\we can't run away\mou hajimatteta\It's already begun\It's already begun\mou hajimatteta\mou hajimatteta\It's already begun response:	mou hajimatteta
+context: we can't run away\mou hajimatteta\It's already begun\It's already begun\mou hajimatteta\mou hajimatteta\It's already begun\mou hajimatteta response:	It's already begun
+context: mou hajimatteta\It's already begun\It's already begun\mou hajimatteta\mou hajimatteta\It's already begun\mou hajimatteta\It's already begun response:	It's already begun
+context: It's already begun\It's already begun\mou hajimatteta\mou hajimatteta\It's already begun\mou hajimatteta\It's already begun\It's already begun response:	mou hajimatteta
+context: It's already begun\mou hajimatteta\mou hajimatteta\It's already begun\mou hajimatteta\It's already begun\It's already begun\mou hajimatteta response:	mou hajimatteta
+context: mou hajimatteta\mou hajimatteta\It's already begun\mou hajimatteta\It's already begun\It's already begun\mou hajimatteta\mou hajimatteta response:	It's already begun
+context: mou hajimatteta\It's already begun\mou hajimatteta\It's already begun\It's already begun\mou hajimatteta\mou hajimatteta\It's already begun response:	mou hajimatteta
+context: It's already begun\mou hajimatteta\It's already begun\It's already begun\mou hajimatteta\mou hajimatteta\It's already begun\mou hajimatteta response:	It's already begun
+context: mou hajimatteta\It's already begun\It's already begun\mou hajimatteta\mou hajimatteta\It's already begun\mou hajimatteta\It's already begun response:	It's already begun
+context: It's already begun\It's already begun\mou hajimatteta\mou hajimatteta\It's already begun\mou hajimatteta\It's already begun\It's already begun response:	mou hajimatteta
+context: It's already begun\mou hajimatteta\mou hajimatteta\It's already begun\mou hajimatteta\It's already begun\It's already begun\mou hajimatteta response:	mou hajimatteta
+context: mou hajimatteta\mou hajimatteta\It's already begun\mou hajimatteta\It's already begun\It's already begun\mou hajimatteta\mou hajimatteta response:	It's already begun
+context: mou hajimatteta\It's already begun\mou hajimatteta\It's already begun\It's already begun\mou hajimatteta\mou hajimatteta\It's already begun response:	yume nara takusan mita
+context: It's already begun\mou hajimatteta\It's already begun\It's already begun\mou hajimatteta\mou hajimatteta\It's already begun\yume nara takusan mita response:	yume nara takusan mita
+context: mou hajimatteta\It's already begun\It's already begun\mou hajimatteta\mou hajimatteta\It's already begun\yume nara takusan mita\yume nara takusan mita response:	yume nara takusan mita
+context: It's already begun\It's already begun\mou hajimatteta\mou hajimatteta\It's already begun\yume nara takusan mita\yume nara takusan mita\yume nara takusan mita response:	yume nara takusan mita
+context: It's already begun\mou hajimatteta\mou hajimatteta\It's already begun\yume nara takusan mita\yume nara takusan mita\yume nara takusan mita\yume nara takusan mita response:	I've dreamed of our meeting so often
+context: mou hajimatteta\mou hajimatteta\It's already begun\yume nara takusan mita\yume nara takusan mita\yume nara takusan mita\yume nara takusan mita\I've dreamed of our meeting so often response:	I've dreamed of our meeting so often
+context: mou hajimatteta\It's already begun\yume nara takusan mita\yume nara takusan mita\yume nara takusan mita\yume nara takusan mita\I've dreamed of our meeting so often\I've dreamed of our meeting so often response:	I've dreamed of our meeting so often
+context: It's already begun\yume nara takusan mita\yume nara takusan mita\yume nara takusan mita\yume nara takusan mita\I've dreamed of our meeting so often\I've dreamed of our meeting so often\I've dreamed of our meeting so often response:	I've dreamed of our meeting so often
+context: yume nara takusan mita\yume nara takusan mita\yume nara takusan mita\yume nara takusan mita\I've dreamed of our meeting so often\I've dreamed of our meeting so often\I've dreamed of our meeting so often\I've dreamed of our meeting so often response:	sameta mama
+context: yume nara takusan mita\yume nara takusan mita\yume nara takusan mita\I've dreamed of our meeting so often\I've dreamed of our meeting so often\I've dreamed of our meeting so often\I've dreamed of our meeting so often\sameta mama response:	Now I'm awake
+context: yume nara takusan mita\yume nara takusan mita\I've dreamed of our meeting so often\I've dreamed of our meeting so often\I've dreamed of our meeting so often\I've dreamed of our meeting so often\sameta mama\Now I'm awake response:	sameta mama
+context: yume nara takusan mita\I've dreamed of our meeting so often\I've dreamed of our meeting so often\I've dreamed of our meeting so often\I've dreamed of our meeting so often\sameta mama\Now I'm awake\sameta mama response:	sameta mama
+context: I've dreamed of our meeting so often\I've dreamed of our meeting so often\I've dreamed of our meeting so often\I've dreamed of our meeting so often\sameta mama\Now I'm awake\sameta mama\sameta mama response:	Now I'm awake
+context: I've dreamed of our meeting so often\I've dreamed of our meeting so often\I've dreamed of our meeting so often\sameta mama\Now I'm awake\sameta mama\sameta mama\Now I'm awake response:	Now I'm awake
+context: I've dreamed of our meeting so often\I've dreamed of our meeting so often\sameta mama\Now I'm awake\sameta mama\sameta mama\Now I'm awake\Now I'm awake response:	demo mada aitai
+context: I've dreamed of our meeting so often\sameta mama\Now I'm awake\sameta mama\sameta mama\Now I'm awake\Now I'm awake\demo mada aitai response:	And still I want to see you
+context: sameta mama\Now I'm awake\sameta mama\sameta mama\Now I'm awake\Now I'm awake\demo mada aitai\And still I want to see you response:	And still I want to see you
+context: Now I'm awake\sameta mama\sameta mama\Now I'm awake\Now I'm awake\demo mada aitai\And still I want to see you\And still I want to see you response:	demo mada aitai
+context: sameta mama\sameta mama\Now I'm awake\Now I'm awake\demo mada aitai\And still I want to see you\And still I want to see you\demo mada aitai response:	demo mada aitai
+context: sameta mama\Now I'm awake\Now I'm awake\demo mada aitai\And still I want to see you\And still I want to see you\demo mada aitai\demo mada aitai response:	And still I want to see you
+context: Now I'm awake\Now I'm awake\demo mada aitai\And still I want to see you\And still I want to see you\demo mada aitai\demo mada aitai\And still I want to see you response:	demo mada aitai
+context: Now I'm awake\demo mada aitai\And still I want to see you\And still I want to see you\demo mada aitai\demo mada aitai\And still I want to see you\demo mada aitai response:	And still I want to see you
+context: demo mada aitai\And still I want to see you\And still I want to see you\demo mada aitai\demo mada aitai\And still I want to see you\demo mada aitai\And still I want to see you response:	And still I want to see you
+context: And still I want to see you\And still I want to see you\demo mada aitai\demo mada aitai\And still I want to see you\demo mada aitai\And still I want to see you\And still I want to see you response:	demo mada aitai
+context: And still I want to see you\demo mada aitai\demo mada aitai\And still I want to see you\demo mada aitai\And still I want to see you\And still I want to see you\demo mada aitai response:	demo mada aitai
+context: demo mada aitai\demo mada aitai\And still I want to see you\demo mada aitai\And still I want to see you\And still I want to see you\demo mada aitai\demo mada aitai response:	And still I want to see you
+context: demo mada aitai\And still I want to see you\demo mada aitai\And still I want to see you\And still I want to see you\demo mada aitai\demo mada aitai\And still I want to see you response:	kimi ga sou saseta
+context: And still I want to see you\demo mada aitai\And still I want to see you\And still I want to see you\demo mada aitai\demo mada aitai\And still I want to see you\kimi ga sou saseta response:	You did this to me
+context: demo mada aitai\And still I want to see you\And still I want to see you\demo mada aitai\demo mada aitai\And still I want to see you\kimi ga sou saseta\You did this to me response:	kimi ga sou saseta
+context: And still I want to see you\And still I want to see you\demo mada aitai\demo mada aitai\And still I want to see you\kimi ga sou saseta\You did this to me\kimi ga sou saseta response:	You did this to me
+context: And still I want to see you\demo mada aitai\demo mada aitai\And still I want to see you\kimi ga sou saseta\You did this to me\kimi ga sou saseta\You did this to me response:	kimi ga sou saseta
+context: demo mada aitai\demo mada aitai\And still I want to see you\kimi ga sou saseta\You did this to me\kimi ga sou saseta\You did this to me\kimi ga sou saseta response:	You did this to me
+context: demo mada aitai\And still I want to see you\kimi ga sou saseta\You did this to me\kimi ga sou saseta\You did this to me\kimi ga sou saseta\You did this to me response:	koi ga yokubari da ne
+context: And still I want to see you\kimi ga sou saseta\You did this to me\kimi ga sou saseta\You did this to me\kimi ga sou saseta\You did this to me\koi ga yokubari da ne response:	Love is greedy
+context: kimi ga sou saseta\You did this to me\kimi ga sou saseta\You did this to me\kimi ga sou saseta\You did this to me\koi ga yokubari da ne\Love is greedy response:	koi ga yokubari da ne Love is greedy
+context: You did this to me\kimi ga sou saseta\You did this to me\kimi ga sou saseta\You did this to me\koi ga yokubari da ne\Love is greedy\koi ga yokubari da ne Love is greedy response:	koi ga yokubari da ne Love is greedy
+context: kimi ga sou saseta\You did this to me\kimi ga sou saseta\You did this to me\koi ga yokubari da ne\Love is greedy\koi ga yokubari da ne Love is greedy\koi ga yokubari da ne Love is greedy response:	tobihanesou na kokoro no
+context: You did this to me\kimi ga sou saseta\You did this to me\koi ga yokubari da ne\Love is greedy\koi ga yokubari da ne Love is greedy\koi ga yokubari da ne Love is greedy\tobihanesou na kokoro no response:	My heart seems to hop with glee
+context: kimi ga sou saseta\You did this to me\koi ga yokubari da ne\Love is greedy\koi ga yokubari da ne Love is greedy\koi ga yokubari da ne Love is greedy\tobihanesou na kokoro no\My heart seems to hop with glee response:	yuku mama ni yukou yo
+context: You did this to me\koi ga yokubari da ne\Love is greedy\koi ga yokubari da ne Love is greedy\koi ga yokubari da ne Love is greedy\tobihanesou na kokoro no\My heart seems to hop with glee\yuku mama ni yukou yo response:	So I'll let it guide me
+context: koi ga yokubari da ne\Love is greedy\koi ga yokubari da ne Love is greedy\koi ga yokubari da ne Love is greedy\tobihanesou na kokoro no\My heart seems to hop with glee\yuku mama ni yukou yo\So I'll let it guide me response:	yuku mama ni yukou yo
+context: Love is greedy\koi ga yokubari da ne Love is greedy\koi ga yokubari da ne Love is greedy\tobihanesou na kokoro no\My heart seems to hop with glee\yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo response:	So I'll let it guide me
+context: koi ga yokubari da ne Love is greedy\koi ga yokubari da ne Love is greedy\tobihanesou na kokoro no\My heart seems to hop with glee\yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me response:	yuku mama ni yukou yo
+context: koi ga yokubari da ne Love is greedy\tobihanesou na kokoro no\My heart seems to hop with glee\yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo response:	So I'll let it guide me
+context: tobihanesou na kokoro no\My heart seems to hop with glee\yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me response:	yuku mama ni yukou yo
+context: My heart seems to hop with glee\yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo response:	So I'll let it guide me
+context: yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me response:	risou mo mousou mo genjitsu mo
+context: So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me\risou mo mousou mo genjitsu mo response:	My ideals, delusions and reality
+context: yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me\risou mo mousou mo genjitsu mo\My ideals, delusions and reality response:	subete kimi wo jiku ni mawaru
+context: So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me\risou mo mousou mo genjitsu mo\My ideals, delusions and reality\subete kimi wo jiku ni mawaru response:	Are all about you
+context: yuku mama ni yukou yo\So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me\risou mo mousou mo genjitsu mo\My ideals, delusions and reality\subete kimi wo jiku ni mawaru\Are all about you response:	atarashii sekai he
+context: So I'll let it guide me\yuku mama ni yukou yo\So I'll let it guide me\risou mo mousou mo genjitsu mo\My ideals, delusions and reality\subete kimi wo jiku ni mawaru\Are all about you\atarashii sekai he response:	Changing into a new world
+context: yuku mama ni yukou yo\So I'll let it guide me\risou mo mousou mo genjitsu mo\My ideals, delusions and reality\subete kimi wo jiku ni mawaru\Are all about you\atarashii sekai he\Changing into a new world response:	Changing into a new world
+context: So I'll let it guide me\risou mo mousou mo genjitsu mo\My ideals, delusions and reality\subete kimi wo jiku ni mawaru\Are all about you\atarashii sekai he\Changing into a new world\Changing into a new world response:	atarashii sekai he
+context: risou mo mousou mo genjitsu mo\My ideals, delusions and reality\subete kimi wo jiku ni mawaru\Are all about you\atarashii sekai he\Changing into a new world\Changing into a new world\atarashii sekai he response:	atarashii sekai he
+context: My ideals, delusions and reality\subete kimi wo jiku ni mawaru\Are all about you\atarashii sekai he\Changing into a new world\Changing into a new world\atarashii sekai he\atarashii sekai he response:	Changing into a new world
+context: subete kimi wo jiku ni mawaru\Are all about you\atarashii sekai he\Changing into a new world\Changing into a new world\atarashii sekai he\atarashii sekai he\Changing into a new world response:	atarashii sekai he
+context: Are all about you\atarashii sekai he\Changing into a new world\Changing into a new world\atarashii sekai he\atarashii sekai he\Changing into a new world\atarashii sekai he response:	Changing into a new world
+context: atarashii sekai he\Changing into a new world\Changing into a new world\atarashii sekai he\atarashii sekai he\Changing into a new world\atarashii sekai he\Changing into a new world response:	Changing into a new world
+context: Changing into a new world\Changing into a new world\atarashii sekai he\atarashii sekai he\Changing into a new world\atarashii sekai he\Changing into a new world\Changing into a new world response:	atarashii sekai he
+context: Changing into a new world\atarashii sekai he\atarashii sekai he\Changing into a new world\atarashii sekai he\Changing into a new world\Changing into a new world\atarashii sekai he response:	atarashii sekai he
+context: atarashii sekai he\atarashii sekai he\Changing into a new world\atarashii sekai he\Changing into a new world\Changing into a new world\atarashii sekai he\atarashii sekai he response:	Changing into a new world
+context: atarashii sekai he\Changing into a new world\atarashii sekai he\Changing into a new world\Changing into a new world\atarashii sekai he\atarashii sekai he\Changing into a new world response:	atarashii sekai he
+context: Changing into a new world\atarashii sekai he\Changing into a new world\Changing into a new world\atarashii sekai he\atarashii sekai he\Changing into a new world\atarashii sekai he response:	Changing into a new world
+context: atarashii sekai he\Changing into a new world\Changing into a new world\atarashii sekai he\atarashii sekai he\Changing into a new world\atarashii sekai he\Changing into a new world response:	Changing into a new world
+context: Changing into a new world\Changing into a new world\atarashii sekai he\atarashii sekai he\Changing into a new world\atarashii sekai he\Changing into a new world\Changing into a new world response:	atarashii sekai he
+context: Changing into a new world\atarashii sekai he\atarashii sekai he\Changing into a new world\atarashii sekai he\Changing into a new world\Changing into a new world\atarashii sekai he response:	atarashii sekai he
+context: atarashii sekai he\atarashii sekai he\Changing into a new world\atarashii sekai he\Changing into a new world\Changing into a new world\atarashii sekai he\atarashii sekai he response:	Changing into a new world
+context: atarashii sekai he\Changing into a new world\atarashii sekai he\Changing into a new world\Changing into a new world\atarashii sekai he\atarashii sekai he\Changing into a new world response:	atarashii sekai he
+context: Changing into a new world\atarashii sekai he\Changing into a new world\Changing into a new world\atarashii sekai he\atarashii sekai he\Changing into a new world\atarashii sekai he response:	Changing into a new world
+context: atarashii sekai he\Changing into a new world\Changing into a new world\atarashii sekai he\atarashii sekai he\Changing into a new world\atarashii sekai he\Changing into a new world response:	Changing into a new world
+context: Changing into a new world\Changing into a new world\atarashii sekai he\atarashii sekai he\Changing into a new world\atarashii sekai he\Changing into a new world\Changing into a new world response:	inside identity ibasho wa doko
+context: Changing into a new world\atarashii sekai he\atarashii sekai he\Changing into a new world\atarashii sekai he\Changing into a new world\Changing into a new world\inside identity ibasho wa doko response:	kanchigai ga haji ka douka
+context: atarashii sekai he\atarashii sekai he\Changing into a new world\atarashii sekai he\Changing into a new world\Changing into a new world\inside identity ibasho wa doko\kanchigai ga haji ka douka response:	sunaosa ga itai toka
+context: atarashii sekai he\Changing into a new world\atarashii sekai he\Changing into a new world\Changing into a new world\inside identity ibasho wa doko\kanchigai ga haji ka douka\sunaosa ga itai toka response:	dare ga nanto iou to tadashisa nante wakannai ze
+context: Changing into a new world\atarashii sekai he\Changing into a new world\Changing into a new world\inside identity ibasho wa doko\kanchigai ga haji ka douka\sunaosa ga itai toka\dare ga nanto iou to tadashisa nante wakannai ze response:	futsuu ni nagareteku nichijou ni
+context: atarashii sekai he\Changing into a new world\Changing into a new world\inside identity ibasho wa doko\kanchigai ga haji ka douka\sunaosa ga itai toka\dare ga nanto iou to tadashisa nante wakannai ze\futsuu ni nagareteku nichijou ni response:	muri shite najimaseta
+context: Changing into a new world\Changing into a new world\inside identity ibasho wa doko\kanchigai ga haji ka douka\sunaosa ga itai toka\dare ga nanto iou to tadashisa nante wakannai ze\futsuu ni nagareteku nichijou ni\muri shite najimaseta response:	shizunjimatta kouseitachi wo
+context: Changing into a new world\inside identity ibasho wa doko\kanchigai ga haji ka douka\sunaosa ga itai toka\dare ga nanto iou to tadashisa nante wakannai ze\futsuu ni nagareteku nichijou ni\muri shite najimaseta\shizunjimatta kouseitachi wo response:	kande nonde haite warau
+context: inside identity ibasho wa doko\kanchigai ga haji ka douka\sunaosa ga itai toka\dare ga nanto iou to tadashisa nante wakannai ze\futsuu ni nagareteku nichijou ni\muri shite najimaseta\shizunjimatta kouseitachi wo\kande nonde haite warau response:	konna boku wo wakatte hoshii
+context: kanchigai ga haji ka douka\sunaosa ga itai toka\dare ga nanto iou to tadashisa nante wakannai ze\futsuu ni nagareteku nichijou ni\muri shite najimaseta\shizunjimatta kouseitachi wo\kande nonde haite warau\konna boku wo wakatte hoshii response:	iitai kedo ienakute
+context: sunaosa ga itai toka\dare ga nanto iou to tadashisa nante wakannai ze\futsuu ni nagareteku nichijou ni\muri shite najimaseta\shizunjimatta kouseitachi wo\kande nonde haite warau\konna boku wo wakatte hoshii\iitai kedo ienakute response:	nande daremo wakatte kunnai no to
+context: dare ga nanto iou to tadashisa nante wakannai ze\futsuu ni nagareteku nichijou ni\muri shite najimaseta\shizunjimatta kouseitachi wo\kande nonde haite warau\konna boku wo wakatte hoshii\iitai kedo ienakute\nande daremo wakatte kunnai no to response:	omou no wa zeitaku nano kana nano kana
+context: futsuu ni nagareteku nichijou ni\muri shite najimaseta\shizunjimatta kouseitachi wo\kande nonde haite warau\konna boku wo wakatte hoshii\iitai kedo ienakute\nande daremo wakatte kunnai no to\omou no wa zeitaku nano kana nano kana response:	kanjouteki na taiyou wa
+context: muri shite najimaseta\shizunjimatta kouseitachi wo\kande nonde haite warau\konna boku wo wakatte hoshii\iitai kedo ienakute\nande daremo wakatte kunnai no to\omou no wa zeitaku nano kana nano kana\kanjouteki na taiyou wa response:	netsu wo agesugite dounika narisou
+context: shizunjimatta kouseitachi wo\kande nonde haite warau\konna boku wo wakatte hoshii\iitai kedo ienakute\nande daremo wakatte kunnai no to\omou no wa zeitaku nano kana nano kana\kanjouteki na taiyou wa\netsu wo agesugite dounika narisou response:	sakebitakute shou ga nai
+context: kande nonde haite warau\konna boku wo wakatte hoshii\iitai kedo ienakute\nande daremo wakatte kunnai no to\omou no wa zeitaku nano kana nano kana\kanjouteki na taiyou wa\netsu wo agesugite dounika narisou\sakebitakute shou ga nai response:	gamushara ni mo tometeru identity
+context: konna boku wo wakatte hoshii\iitai kedo ienakute\nande daremo wakatte kunnai no to\omou no wa zeitaku nano kana nano kana\kanjouteki na taiyou wa\netsu wo agesugite dounika narisou\sakebitakute shou ga nai\gamushara ni mo tometeru identity response:	inside my feeling
+context: iitai kedo ienakute\nande daremo wakatte kunnai no to\omou no wa zeitaku nano kana nano kana\kanjouteki na taiyou wa\netsu wo agesugite dounika narisou\sakebitakute shou ga nai\gamushara ni mo tometeru identity\inside my feeling response:	inside my justice
+context: nande daremo wakatte kunnai no to\omou no wa zeitaku nano kana nano kana\kanjouteki na taiyou wa\netsu wo agesugite dounika narisou\sakebitakute shou ga nai\gamushara ni mo tometeru identity\inside my feeling\inside my justice response:	jama shinaide
+context: omou no wa zeitaku nano kana nano kana\kanjouteki na taiyou wa\netsu wo agesugite dounika narisou\sakebitakute shou ga nai\gamushara ni mo tometeru identity\inside my feeling\inside my justice\jama shinaide response:	ibasho wa doko
+context: kanjouteki na taiyou wa\netsu wo agesugite dounika narisou\sakebitakute shou ga nai\gamushara ni mo tometeru identity\inside my feeling\inside my justice\jama shinaide\ibasho wa doko response:	Inside identity! Where do I belong?
+context: netsu wo agesugite dounika narisou\sakebitakute shou ga nai\gamushara ni mo tometeru identity\inside my feeling\inside my justice\jama shinaide\ibasho wa doko\Inside identity! Where do I belong? response:	Getting it wrong is a shame?
+context: sakebitakute shou ga nai\gamushara ni mo tometeru identity\inside my feeling\inside my justice\jama shinaide\ibasho wa doko\Inside identity! Where do I belong?\Getting it wrong is a shame? response:	Being honest hurts?
+context: gamushara ni mo tometeru identity\inside my feeling\inside my justice\jama shinaide\ibasho wa doko\Inside identity! Where do I belong?\Getting it wrong is a shame?\Being honest hurts? response:	Whatever people say, they don't know what's right
+context: inside my feeling\inside my justice\jama shinaide\ibasho wa doko\Inside identity! Where do I belong?\Getting it wrong is a shame?\Being honest hurts?\Whatever people say, they don't know what's right response:	The boring river of time drifts on
+context: inside my justice\jama shinaide\ibasho wa doko\Inside identity! Where do I belong?\Getting it wrong is a shame?\Being honest hurts?\Whatever people say, they don't know what's right\The boring river of time drifts on response:	We tried to fit in with the flow
+context: jama shinaide\ibasho wa doko\Inside identity! Where do I belong?\Getting it wrong is a shame?\Being honest hurts?\Whatever people say, they don't know what's right\The boring river of time drifts on\We tried to fit in with the flow response:	And our uniqueness sunk in the mud
+context: ibasho wa doko\Inside identity! Where do I belong?\Getting it wrong is a shame?\Being honest hurts?\Whatever people say, they don't know what's right\The boring river of time drifts on\We tried to fit in with the flow\And our uniqueness sunk in the mud response:	So chew it, swallow it, spit it out and laugh
+context: Inside identity! Where do I belong?\Getting it wrong is a shame?\Being honest hurts?\Whatever people say, they don't know what's right\The boring river of time drifts on\We tried to fit in with the flow\And our uniqueness sunk in the mud\So chew it, swallow it, spit it out and laugh response:	I wish you understood me
+context: Getting it wrong is a shame?\Being honest hurts?\Whatever people say, they don't know what's right\The boring river of time drifts on\We tried to fit in with the flow\And our uniqueness sunk in the mud\So chew it, swallow it, spit it out and laugh\I wish you understood me response:	That's what I want to say, but I can't
+context: Being honest hurts?\Whatever people say, they don't know what's right\The boring river of time drifts on\We tried to fit in with the flow\And our uniqueness sunk in the mud\So chew it, swallow it, spit it out and laugh\I wish you understood me\That's what I want to say, but I can't response:	No one ever understands me
+context: Whatever people say, they don't know what's right\The boring river of time drifts on\We tried to fit in with the flow\And our uniqueness sunk in the mud\So chew it, swallow it, spit it out and laugh\I wish you understood me\That's what I want to say, but I can't\No one ever understands me response:	Is it selfish to think that? Is it? Is it?
+context: The boring river of time drifts on\We tried to fit in with the flow\And our uniqueness sunk in the mud\So chew it, swallow it, spit it out and laugh\I wish you understood me\That's what I want to say, but I can't\No one ever understands me\Is it selfish to think that? Is it? Is it? response:	The emotional Sun in the sky
+context: We tried to fit in with the flow\And our uniqueness sunk in the mud\So chew it, swallow it, spit it out and laugh\I wish you understood me\That's what I want to say, but I can't\No one ever understands me\Is it selfish to think that? Is it? Is it?\The emotional Sun in the sky response:	Overheated, reaching its limit
+context: And our uniqueness sunk in the mud\So chew it, swallow it, spit it out and laugh\I wish you understood me\That's what I want to say, but I can't\No one ever understands me\Is it selfish to think that? Is it? Is it?\The emotional Sun in the sky\Overheated, reaching its limit response:	Of course I want to shout
+context: So chew it, swallow it, spit it out and laugh\I wish you understood me\That's what I want to say, but I can't\No one ever understands me\Is it selfish to think that? Is it? Is it?\The emotional Sun in the sky\Overheated, reaching its limit\Of course I want to shout response:	My fast and furious identity
+context: I wish you understood me\That's what I want to say, but I can't\No one ever understands me\Is it selfish to think that? Is it? Is it?\The emotional Sun in the sky\Overheated, reaching its limit\Of course I want to shout\My fast and furious identity response:	Inside my feeling
+context: That's what I want to say, but I can't\No one ever understands me\Is it selfish to think that? Is it? Is it?\The emotional Sun in the sky\Overheated, reaching its limit\Of course I want to shout\My fast and furious identity\Inside my feeling response:	Inside my justice
+context: No one ever understands me\Is it selfish to think that? Is it? Is it?\The emotional Sun in the sky\Overheated, reaching its limit\Of course I want to shout\My fast and furious identity\Inside my feeling\Inside my justice response:	Don't get in my way
+context: Is it selfish to think that? Is it? Is it?\The emotional Sun in the sky\Overheated, reaching its limit\Of course I want to shout\My fast and furious identity\Inside my feeling\Inside my justice\Don't get in my way response:	Where do I belong?
+context: The emotional Sun in the sky\Overheated, reaching its limit\Of course I want to shout\My fast and furious identity\Inside my feeling\Inside my justice\Don't get in my way\Where do I belong? response:	inside identity ibasho wa doko
+context: Overheated, reaching its limit\Of course I want to shout\My fast and furious identity\Inside my feeling\Inside my justice\Don't get in my way\Where do I belong?\inside identity ibasho wa doko response:	kanchigai ga haji ka douka
+context: Of course I want to shout\My fast and furious identity\Inside my feeling\Inside my justice\Don't get in my way\Where do I belong?\inside identity ibasho wa doko\kanchigai ga haji ka douka response:	sunaosa ga itai toka
+context: My fast and furious identity\Inside my feeling\Inside my justice\Don't get in my way\Where do I belong?\inside identity ibasho wa doko\kanchigai ga haji ka douka\sunaosa ga itai toka response:	dare ga nanto iou to tadashisa nante wakannai ze
+context: Inside my feeling\Inside my justice\Don't get in my way\Where do I belong?\inside identity ibasho wa doko\kanchigai ga haji ka douka\sunaosa ga itai toka\dare ga nanto iou to tadashisa nante wakannai ze response:	futsuu ni nagareteku nichijou ni
+context: Inside my justice\Don't get in my way\Where do I belong?\inside identity ibasho wa doko\kanchigai ga haji ka douka\sunaosa ga itai toka\dare ga nanto iou to tadashisa nante wakannai ze\futsuu ni nagareteku nichijou ni response:	muri shite najimaseta
+context: Don't get in my way\Where do I belong?\inside identity ibasho wa doko\kanchigai ga haji ka douka\sunaosa ga itai toka\dare ga nanto iou to tadashisa nante wakannai ze\futsuu ni nagareteku nichijou ni\muri shite najimaseta response:	shizunjimatta kouseitachi wo
+context: Where do I belong?\inside identity ibasho wa doko\kanchigai ga haji ka douka\sunaosa ga itai toka\dare ga nanto iou to tadashisa nante wakannai ze\futsuu ni nagareteku nichijou ni\muri shite najimaseta\shizunjimatta kouseitachi wo response:	kande nonde haite warau
+context: inside identity ibasho wa doko\kanchigai ga haji ka douka\sunaosa ga itai toka\dare ga nanto iou to tadashisa nante wakannai ze\futsuu ni nagareteku nichijou ni\muri shite najimaseta\shizunjimatta kouseitachi wo\kande nonde haite warau response:	konna boku wo wakatte hoshii
+context: kanchigai ga haji ka douka\sunaosa ga itai toka\dare ga nanto iou to tadashisa nante wakannai ze\futsuu ni nagareteku nichijou ni\muri shite najimaseta\shizunjimatta kouseitachi wo\kande nonde haite warau\konna boku wo wakatte hoshii response:	iitai kedo ienakute
+context: sunaosa ga itai toka\dare ga nanto iou to tadashisa nante wakannai ze\futsuu ni nagareteku nichijou ni\muri shite najimaseta\shizunjimatta kouseitachi wo\kande nonde haite warau\konna boku wo wakatte hoshii\iitai kedo ienakute response:	nande daremo wakatte kunnai no to
+context: dare ga nanto iou to tadashisa nante wakannai ze\futsuu ni nagareteku nichijou ni\muri shite najimaseta\shizunjimatta kouseitachi wo\kande nonde haite warau\konna boku wo wakatte hoshii\iitai kedo ienakute\nande daremo wakatte kunnai no to response:	omou no wa zeitaku nano kana nano kana
+context: futsuu ni nagareteku nichijou ni\muri shite najimaseta\shizunjimatta kouseitachi wo\kande nonde haite warau\konna boku wo wakatte hoshii\iitai kedo ienakute\nande daremo wakatte kunnai no to\omou no wa zeitaku nano kana nano kana response:	kanjouteki na taiyou wa
+context: muri shite najimaseta\shizunjimatta kouseitachi wo\kande nonde haite warau\konna boku wo wakatte hoshii\iitai kedo ienakute\nande daremo wakatte kunnai no to\omou no wa zeitaku nano kana nano kana\kanjouteki na taiyou wa response:	netsu wo agesugite dounika narisou
+context: shizunjimatta kouseitachi wo\kande nonde haite warau\konna boku wo wakatte hoshii\iitai kedo ienakute\nande daremo wakatte kunnai no to\omou no wa zeitaku nano kana nano kana\kanjouteki na taiyou wa\netsu wo agesugite dounika narisou response:	sakebitakute shou ga nai
+context: kande nonde haite warau\konna boku wo wakatte hoshii\iitai kedo ienakute\nande daremo wakatte kunnai no to\omou no wa zeitaku nano kana nano kana\kanjouteki na taiyou wa\netsu wo agesugite dounika narisou\sakebitakute shou ga nai response:	gamushara ni mo tometeru identity
+context: konna boku wo wakatte hoshii\iitai kedo ienakute\nande daremo wakatte kunnai no to\omou no wa zeitaku nano kana nano kana\kanjouteki na taiyou wa\netsu wo agesugite dounika narisou\sakebitakute shou ga nai\gamushara ni mo tometeru identity response:	inside my feeling
+context: iitai kedo ienakute\nande daremo wakatte kunnai no to\omou no wa zeitaku nano kana nano kana\kanjouteki na taiyou wa\netsu wo agesugite dounika narisou\sakebitakute shou ga nai\gamushara ni mo tometeru identity\inside my feeling response:	inside my justice
+context: nande daremo wakatte kunnai no to\omou no wa zeitaku nano kana nano kana\kanjouteki na taiyou wa\netsu wo agesugite dounika narisou\sakebitakute shou ga nai\gamushara ni mo tometeru identity\inside my feeling\inside my justice response:	jama shinaide
+context: omou no wa zeitaku nano kana nano kana\kanjouteki na taiyou wa\netsu wo agesugite dounika narisou\sakebitakute shou ga nai\gamushara ni mo tometeru identity\inside my feeling\inside my justice\jama shinaide response:	ibasho wa doko
+context: kanjouteki na taiyou wa\netsu wo agesugite dounika narisou\sakebitakute shou ga nai\gamushara ni mo tometeru identity\inside my feeling\inside my justice\jama shinaide\ibasho wa doko response:	Inside identity! Where do I belong?
+context: netsu wo agesugite dounika narisou\sakebitakute shou ga nai\gamushara ni mo tometeru identity\inside my feeling\inside my justice\jama shinaide\ibasho wa doko\Inside identity! Where do I belong? response:	Getting it wrong is a shame?
+context: sakebitakute shou ga nai\gamushara ni mo tometeru identity\inside my feeling\inside my justice\jama shinaide\ibasho wa doko\Inside identity! Where do I belong?\Getting it wrong is a shame? response:	Being honest hurts?
+context: gamushara ni mo tometeru identity\inside my feeling\inside my justice\jama shinaide\ibasho wa doko\Inside identity! Where do I belong?\Getting it wrong is a shame?\Being honest hurts? response:	Whatever people say, they don't know what's right
+context: inside my feeling\inside my justice\jama shinaide\ibasho wa doko\Inside identity! Where do I belong?\Getting it wrong is a shame?\Being honest hurts?\Whatever people say, they don't know what's right response:	The boring river of time drifts on
+context: inside my justice\jama shinaide\ibasho wa doko\Inside identity! Where do I belong?\Getting it wrong is a shame?\Being honest hurts?\Whatever people say, they don't know what's right\The boring river of time drifts on response:	We tried to fit in with the flow
+context: jama shinaide\ibasho wa doko\Inside identity! Where do I belong?\Getting it wrong is a shame?\Being honest hurts?\Whatever people say, they don't know what's right\The boring river of time drifts on\We tried to fit in with the flow response:	And our uniqueness sunk in the mud
+context: ibasho wa doko\Inside identity! Where do I belong?\Getting it wrong is a shame?\Being honest hurts?\Whatever people say, they don't know what's right\The boring river of time drifts on\We tried to fit in with the flow\And our uniqueness sunk in the mud response:	So chew it, swallow it, spit it out and laugh
+context: Inside identity! Where do I belong?\Getting it wrong is a shame?\Being honest hurts?\Whatever people say, they don't know what's right\The boring river of time drifts on\We tried to fit in with the flow\And our uniqueness sunk in the mud\So chew it, swallow it, spit it out and laugh response:	I wish you understood me
+context: Getting it wrong is a shame?\Being honest hurts?\Whatever people say, they don't know what's right\The boring river of time drifts on\We tried to fit in with the flow\And our uniqueness sunk in the mud\So chew it, swallow it, spit it out and laugh\I wish you understood me response:	That's what I want to say, but I can't
+context: Being honest hurts?\Whatever people say, they don't know what's right\The boring river of time drifts on\We tried to fit in with the flow\And our uniqueness sunk in the mud\So chew it, swallow it, spit it out and laugh\I wish you understood me\That's what I want to say, but I can't response:	No one ever understands me
+context: Whatever people say, they don't know what's right\The boring river of time drifts on\We tried to fit in with the flow\And our uniqueness sunk in the mud\So chew it, swallow it, spit it out and laugh\I wish you understood me\That's what I want to say, but I can't\No one ever understands me response:	Is it selfish to think that? Is it? Is it?
+context: The boring river of time drifts on\We tried to fit in with the flow\And our uniqueness sunk in the mud\So chew it, swallow it, spit it out and laugh\I wish you understood me\That's what I want to say, but I can't\No one ever understands me\Is it selfish to think that? Is it? Is it? response:	The emotional Sun in the sky
+context: We tried to fit in with the flow\And our uniqueness sunk in the mud\So chew it, swallow it, spit it out and laugh\I wish you understood me\That's what I want to say, but I can't\No one ever understands me\Is it selfish to think that? Is it? Is it?\The emotional Sun in the sky response:	Overheated, reaching its limit
+context: And our uniqueness sunk in the mud\So chew it, swallow it, spit it out and laugh\I wish you understood me\That's what I want to say, but I can't\No one ever understands me\Is it selfish to think that? Is it? Is it?\The emotional Sun in the sky\Overheated, reaching its limit response:	Of course I want to shout
+context: So chew it, swallow it, spit it out and laugh\I wish you understood me\That's what I want to say, but I can't\No one ever understands me\Is it selfish to think that? Is it? Is it?\The emotional Sun in the sky\Overheated, reaching its limit\Of course I want to shout response:	My fast and furious identity
+context: I wish you understood me\That's what I want to say, but I can't\No one ever understands me\Is it selfish to think that? Is it? Is it?\The emotional Sun in the sky\Overheated, reaching its limit\Of course I want to shout\My fast and furious identity response:	Inside my feeling
+context: That's what I want to say, but I can't\No one ever understands me\Is it selfish to think that? Is it? Is it?\The emotional Sun in the sky\Overheated, reaching its limit\Of course I want to shout\My fast and furious identity\Inside my feeling response:	Inside my justice
+context: No one ever understands me\Is it selfish to think that? Is it? Is it?\The emotional Sun in the sky\Overheated, reaching its limit\Of course I want to shout\My fast and furious identity\Inside my feeling\Inside my justice response:	Don't get in my way
+context: Is it selfish to think that? Is it? Is it?\The emotional Sun in the sky\Overheated, reaching its limit\Of course I want to shout\My fast and furious identity\Inside my feeling\Inside my justice\Don't get in my way response:	Where do I belong?
+context: The emotional Sun in the sky\Overheated, reaching its limit\Of course I want to shout\My fast and furious identity\Inside my feeling\Inside my justice\Don't get in my way\Where do I belong? response:	Movie screening area
+context: Overheated, reaching its limit\Of course I want to shout\My fast and furious identity\Inside my feeling\Inside my justice\Don't get in my way\Where do I belong?\Movie screening area response:	Movie screening area
+context: Of course I want to shout\My fast and furious identity\Inside my feeling\Inside my justice\Don't get in my way\Where do I belong?\Movie screening area\Movie screening area response:	Pandora's Lunchbox... of the Holy Mother
+context: My fast and furious identity\Inside my feeling\Inside my justice\Don't get in my way\Where do I belong?\Movie screening area\Movie screening area\Pandora's Lunchbox... of the Holy Mother response:	Pandora's Lunchbox... of the Holy Mother
+context: Inside my feeling\Inside my justice\Don't get in my way\Where do I belong?\Movie screening area\Movie screening area\Pandora's Lunchbox... of the Holy Mother\Pandora's Lunchbox... of the Holy Mother response:	Pandora's Lunchbox... of the Holy Mother
+context: Inside my justice\Don't get in my way\Where do I belong?\Movie screening area\Movie screening area\Pandora's Lunchbox... of the Holy Mother\Pandora's Lunchbox... of the Holy Mother\Pandora's Lunchbox... of the Holy Mother response:	Gin
+context: Don't get in my way\Where do I belong?\Movie screening area\Movie screening area\Pandora's Lunchbox... of the Holy Mother\Pandora's Lunchbox... of the Holy Mother\Pandora's Lunchbox... of the Holy Mother\Gin response:	kgo
+context: Where do I belong?\Movie screening area\Movie screening area\Pandora's Lunchbox... of the Holy Mother\Pandora's Lunchbox... of the Holy Mother\Pandora's Lunchbox... of the Holy Mother\Gin\kgo response:	kgo
+context: Movie screening area\Movie screening area\Pandora's Lunchbox... of the Holy Mother\Pandora's Lunchbox... of the Holy Mother\Pandora's Lunchbox... of the Holy Mother\Gin\kgo\kgo response:	Fair
+context: Movie screening area\Pandora's Lunchbox... of the Holy Mother\Pandora's Lunchbox... of the Holy Mother\Pandora's Lunchbox... of the Holy Mother\Gin\kgo\kgo\Fair response:	Gin
+context: Pandora's Lunchbox... of the Holy Mother\Pandora's Lunchbox... of the Holy Mother\Pandora's Lunchbox... of the Holy Mother\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: Pandora's Lunchbox... of the Holy Mother\Pandora's Lunchbox... of the Holy Mother\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Pandora's Lunchbox... of the Holy Mother\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Gin
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Gin response:	kgo
+context: kgo\Fair\Gin\kgo\kgo\Fair\Gin\kgo response:	kgo
+context: Fair\Gin\kgo\kgo\Fair\Gin\kgo\kgo response:	Fair
+context: Gin\kgo\kgo\Fair\Gin\kgo\kgo\Fair response:	Magic Nap Society
+context: kgo\kgo\Fair\Gin\kgo\kgo\Fair\Magic Nap Society response:	Magic Nap Society
+context: kgo\Fair\Gin\kgo\kgo\Fair\Magic Nap Society\Magic Nap Society response:	To be continued
+context: Fair\Gin\kgo\kgo\Fair\Magic Nap Society\Magic Nap Society\To be continued response:	Tune in next time!

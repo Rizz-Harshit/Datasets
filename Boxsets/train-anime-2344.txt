@@ -1,0 +1,330 @@
+context: Yay! Yay! response:	You seem to be enjoying yourself, Sakura-chan.
+context: Yay! Yay!\You seem to be enjoying yourself, Sakura-chan. response:	Yeah.
+context: Yay! Yay!\You seem to be enjoying yourself, Sakura-chan.\Yeah. response:	What is this?
+context: Yay! Yay!\You seem to be enjoying yourself, Sakura-chan.\Yeah.\What is this? response:	Seijou high
+context: Yay! Yay!\You seem to be enjoying yourself, Sakura-chan.\Yeah.\What is this?\Seijou high response:	is having its culture fair this Sunday.
+context: Yay! Yay!\You seem to be enjoying yourself, Sakura-chan.\Yeah.\What is this?\Seijou high\is having its culture fair this Sunday. response:	Oh yeah,
+context: Yay! Yay!\You seem to be enjoying yourself, Sakura-chan.\Yeah.\What is this?\Seijou high\is having its culture fair this Sunday.\Oh yeah, response:	big brother has been home late recently because of preparations.
+context: Yay! Yay!\You seem to be enjoying yourself, Sakura-chan.\Yeah.\What is this?\Seijou high\is having its culture fair this Sunday.\Oh yeah,\big brother has been home late recently because of preparations. response:	Why don't you come along with a friend?
+context: You seem to be enjoying yourself, Sakura-chan.\Yeah.\What is this?\Seijou high\is having its culture fair this Sunday.\Oh yeah,\big brother has been home late recently because of preparations.\Why don't you come along with a friend? response:	Eh!
+context: Yeah.\What is this?\Seijou high\is having its culture fair this Sunday.\Oh yeah,\big brother has been home late recently because of preparations.\Why don't you come along with a friend?\Eh! response:	Perhaps you already got one from Touya.
+context: What is this?\Seijou high\is having its culture fair this Sunday.\Oh yeah,\big brother has been home late recently because of preparations.\Why don't you come along with a friend?\Eh!\Perhaps you already got one from Touya. response:	No,
+context: Seijou high\is having its culture fair this Sunday.\Oh yeah,\big brother has been home late recently because of preparations.\Why don't you come along with a friend?\Eh!\Perhaps you already got one from Touya.\No, response:	last year he gave me one, but not yet this year.
+context: is having its culture fair this Sunday.\Oh yeah,\big brother has been home late recently because of preparations.\Why don't you come along with a friend?\Eh!\Perhaps you already got one from Touya.\No,\last year he gave me one, but not yet this year. response:	Perhaps he is worried about the play.
+context: Oh yeah,\big brother has been home late recently because of preparations.\Why don't you come along with a friend?\Eh!\Perhaps you already got one from Touya.\No,\last year he gave me one, but not yet this year.\Perhaps he is worried about the play. response:	Play?
+context: big brother has been home late recently because of preparations.\Why don't you come along with a friend?\Eh!\Perhaps you already got one from Touya.\No,\last year he gave me one, but not yet this year.\Perhaps he is worried about the play.\Play? response:	Here.
+context: Why don't you come along with a friend?\Eh!\Perhaps you already got one from Touya.\No,\last year he gave me one, but not yet this year.\Perhaps he is worried about the play.\Play?\Here. response:	With this you can eat what ever you want at the stands.
+context: Eh!\Perhaps you already got one from Touya.\No,\last year he gave me one, but not yet this year.\Perhaps he is worried about the play.\Play?\Here.\With this you can eat what ever you want at the stands. response:	Thank you.
+context: Perhaps you already got one from Touya.\No,\last year he gave me one, but not yet this year.\Perhaps he is worried about the play.\Play?\Here.\With this you can eat what ever you want at the stands.\Thank you. response:	Tomoyo-chan!
+context: No,\last year he gave me one, but not yet this year.\Perhaps he is worried about the play.\Play?\Here.\With this you can eat what ever you want at the stands.\Thank you.\Tomoyo-chan! response:	Sakura, you were just so cute
+context: last year he gave me one, but not yet this year.\Perhaps he is worried about the play.\Play?\Here.\With this you can eat what ever you want at the stands.\Thank you.\Tomoyo-chan!\Sakura, you were just so cute response:	as you were lost in memory'
+context: Perhaps he is worried about the play.\Play?\Here.\With this you can eat what ever you want at the stands.\Thank you.\Tomoyo-chan!\Sakura, you were just so cute\as you were lost in memory' response:	Hurry,
+context: Play?\Here.\With this you can eat what ever you want at the stands.\Thank you.\Tomoyo-chan!\Sakura, you were just so cute\as you were lost in memory'\Hurry, response:	it's almost show time.
+context: Here.\With this you can eat what ever you want at the stands.\Thank you.\Tomoyo-chan!\Sakura, you were just so cute\as you were lost in memory'\Hurry,\it's almost show time. response:	Kinomoto,
+context: With this you can eat what ever you want at the stands.\Thank you.\Tomoyo-chan!\Sakura, you were just so cute\as you were lost in memory'\Hurry,\it's almost show time.\Kinomoto, response:	the shoes are broken.
+context: Thank you.\Tomoyo-chan!\Sakura, you were just so cute\as you were lost in memory'\Hurry,\it's almost show time.\Kinomoto,\the shoes are broken. response:	Try and do something about it.
+context: Tomoyo-chan!\Sakura, you were just so cute\as you were lost in memory'\Hurry,\it's almost show time.\Kinomoto,\the shoes are broken.\Try and do something about it. response:	Kinomoto-kun, you're good.
+context: Sakura, you were just so cute\as you were lost in memory'\Hurry,\it's almost show time.\Kinomoto,\the shoes are broken.\Try and do something about it.\Kinomoto-kun, you're good. response:	Are you good at things like this?
+context: as you were lost in memory'\Hurry,\it's almost show time.\Kinomoto,\the shoes are broken.\Try and do something about it.\Kinomoto-kun, you're good.\Are you good at things like this? response:	Sorta.
+context: Hurry,\it's almost show time.\Kinomoto,\the shoes are broken.\Try and do something about it.\Kinomoto-kun, you're good.\Are you good at things like this?\Sorta. response:	You'll make a good husband.
+context: it's almost show time.\Kinomoto,\the shoes are broken.\Try and do something about it.\Kinomoto-kun, you're good.\Are you good at things like this?\Sorta.\You'll make a good husband. response:	Really, really.
+context: Kinomoto,\the shoes are broken.\Try and do something about it.\Kinomoto-kun, you're good.\Are you good at things like this?\Sorta.\You'll make a good husband.\Really, really. response:	Kero-chan would be jealous.
+context: the shoes are broken.\Try and do something about it.\Kinomoto-kun, you're good.\Are you good at things like this?\Sorta.\You'll make a good husband.\Really, really.\Kero-chan would be jealous. response:	Oh yeah.
+context: Try and do something about it.\Kinomoto-kun, you're good.\Are you good at things like this?\Sorta.\You'll make a good husband.\Really, really.\Kero-chan would be jealous.\Oh yeah. response:	Eh!
+context: Kinomoto-kun, you're good.\Are you good at things like this?\Sorta.\You'll make a good husband.\Really, really.\Kero-chan would be jealous.\Oh yeah.\Eh! response:	Kero-chan asked me to get a souvenir.
+context: Are you good at things like this?\Sorta.\You'll make a good husband.\Really, really.\Kero-chan would be jealous.\Oh yeah.\Eh!\Kero-chan asked me to get a souvenir. response:	Oh!
+context: Sorta.\You'll make a good husband.\Really, really.\Kero-chan would be jealous.\Oh yeah.\Eh!\Kero-chan asked me to get a souvenir.\Oh! response:	Hi.
+context: You'll make a good husband.\Really, really.\Kero-chan would be jealous.\Oh yeah.\Eh!\Kero-chan asked me to get a souvenir.\Oh!\Hi. response:	Yukito-san, good afternoon.
+context: Really, really.\Kero-chan would be jealous.\Oh yeah.\Eh!\Kero-chan asked me to get a souvenir.\Oh!\Hi.\Yukito-san, good afternoon. response:	A kimono.
+context: Kero-chan would be jealous.\Oh yeah.\Eh!\Kero-chan asked me to get a souvenir.\Oh!\Hi.\Yukito-san, good afternoon.\A kimono. response:	Our class's shop
+context: Oh yeah.\Eh!\Kero-chan asked me to get a souvenir.\Oh!\Hi.\Yukito-san, good afternoon.\A kimono.\Our class's shop response:	is selling sweets,
+context: Eh!\Kero-chan asked me to get a souvenir.\Oh!\Hi.\Yukito-san, good afternoon.\A kimono.\Our class's shop\is selling sweets, response:	so we did it Japanese style.
+context: Kero-chan asked me to get a souvenir.\Oh!\Hi.\Yukito-san, good afternoon.\A kimono.\Our class's shop\is selling sweets,\so we did it Japanese style. response:	So, come in.
+context: Oh!\Hi.\Yukito-san, good afternoon.\A kimono.\Our class's shop\is selling sweets,\so we did it Japanese style.\So, come in. response:	Eh!
+context: Hi.\Yukito-san, good afternoon.\A kimono.\Our class's shop\is selling sweets,\so we did it Japanese style.\So, come in.\Eh! response:	What do you want?
+context: Yukito-san, good afternoon.\A kimono.\Our class's shop\is selling sweets,\so we did it Japanese style.\So, come in.\Eh!\What do you want? response:	We have lemonade and hiyashiame.
+context: A kimono.\Our class's shop\is selling sweets,\so we did it Japanese style.\So, come in.\Eh!\What do you want?\We have lemonade and hiyashiame. response:	Then I will have hiyashiame.
+context: Our class's shop\is selling sweets,\so we did it Japanese style.\So, come in.\Eh!\What do you want?\We have lemonade and hiyashiame.\Then I will have hiyashiame. response:	Umm, I'll have lemonade.
+context: is selling sweets,\so we did it Japanese style.\So, come in.\Eh!\What do you want?\We have lemonade and hiyashiame.\Then I will have hiyashiame.\Umm, I'll have lemonade. response:	OK, wait one moment.
+context: so we did it Japanese style.\So, come in.\Eh!\What do you want?\We have lemonade and hiyashiame.\Then I will have hiyashiame.\Umm, I'll have lemonade.\OK, wait one moment. response:	Yukito-san.
+context: So, come in.\Eh!\What do you want?\We have lemonade and hiyashiame.\Then I will have hiyashiame.\Umm, I'll have lemonade.\OK, wait one moment.\Yukito-san. response:	Sorry to keep you waiting.
+context: Eh!\What do you want?\We have lemonade and hiyashiame.\Then I will have hiyashiame.\Umm, I'll have lemonade.\OK, wait one moment.\Yukito-san.\Sorry to keep you waiting. response:	Delicious.
+context: What do you want?\We have lemonade and hiyashiame.\Then I will have hiyashiame.\Umm, I'll have lemonade.\OK, wait one moment.\Yukito-san.\Sorry to keep you waiting.\Delicious. response:	What is it?
+context: We have lemonade and hiyashiame.\Then I will have hiyashiame.\Umm, I'll have lemonade.\OK, wait one moment.\Yukito-san.\Sorry to keep you waiting.\Delicious.\What is it? response:	I feel like somebody is looking at me.
+context: Then I will have hiyashiame.\Umm, I'll have lemonade.\OK, wait one moment.\Yukito-san.\Sorry to keep you waiting.\Delicious.\What is it?\I feel like somebody is looking at me. response:	Huh?
+context: Umm, I'll have lemonade.\OK, wait one moment.\Yukito-san.\Sorry to keep you waiting.\Delicious.\What is it?\I feel like somebody is looking at me.\Huh? response:	Would you like another?
+context: OK, wait one moment.\Yukito-san.\Sorry to keep you waiting.\Delicious.\What is it?\I feel like somebody is looking at me.\Huh?\Would you like another? response:	Yeah.
+context: Yukito-san.\Sorry to keep you waiting.\Delicious.\What is it?\I feel like somebody is looking at me.\Huh?\Would you like another?\Yeah. response:	It seems like he has been in here for quite some time.
+context: Sorry to keep you waiting.\Delicious.\What is it?\I feel like somebody is looking at me.\Huh?\Would you like another?\Yeah.\It seems like he has been in here for quite some time. response:	Eh?
+context: Delicious.\What is it?\I feel like somebody is looking at me.\Huh?\Would you like another?\Yeah.\It seems like he has been in here for quite some time.\Eh? response:	Here.
+context: What is it?\I feel like somebody is looking at me.\Huh?\Would you like another?\Yeah.\It seems like he has been in here for quite some time.\Eh?\Here. response:	My shift is over.
+context: I feel like somebody is looking at me.\Huh?\Would you like another?\Yeah.\It seems like he has been in here for quite some time.\Eh?\Here.\My shift is over. response:	Shall I show you around?
+context: Huh?\Would you like another?\Yeah.\It seems like he has been in here for quite some time.\Eh?\Here.\My shift is over.\Shall I show you around? response:	Will you?
+context: Would you like another?\Yeah.\It seems like he has been in here for quite some time.\Eh?\Here.\My shift is over.\Shall I show you around?\Will you? response:	That's heavy.
+context: Yeah.\It seems like he has been in here for quite some time.\Eh?\Here.\My shift is over.\Shall I show you around?\Will you?\That's heavy. response:	Really?
+context: It seems like he has been in here for quite some time.\Eh?\Here.\My shift is over.\Shall I show you around?\Will you?\That's heavy.\Really? response:	Kinomoto,
+context: Eh?\Here.\My shift is over.\Shall I show you around?\Will you?\That's heavy.\Really?\Kinomoto, response:	Are you sure you aren't a robot or something?
+context: Here.\My shift is over.\Shall I show you around?\Will you?\That's heavy.\Really?\Kinomoto,\Are you sure you aren't a robot or something? response:	You're too strong.
+context: My shift is over.\Shall I show you around?\Will you?\That's heavy.\Really?\Kinomoto,\Are you sure you aren't a robot or something?\You're too strong. response:	You guys'
+context: Shall I show you around?\Will you?\That's heavy.\Really?\Kinomoto,\Are you sure you aren't a robot or something?\You're too strong.\You guys' response:	Kinomoto-kun really is great.
+context: Will you?\That's heavy.\Really?\Kinomoto,\Are you sure you aren't a robot or something?\You're too strong.\You guys'\Kinomoto-kun really is great. response:	At first I thought he seemed a bit scary,
+context: That's heavy.\Really?\Kinomoto,\Are you sure you aren't a robot or something?\You're too strong.\You guys'\Kinomoto-kun really is great.\At first I thought he seemed a bit scary, response:	but he is pretty nice.
+context: Really?\Kinomoto,\Are you sure you aren't a robot or something?\You're too strong.\You guys'\Kinomoto-kun really is great.\At first I thought he seemed a bit scary,\but he is pretty nice. response:	He has good looks.
+context: Kinomoto,\Are you sure you aren't a robot or something?\You're too strong.\You guys'\Kinomoto-kun really is great.\At first I thought he seemed a bit scary,\but he is pretty nice.\He has good looks. response:	He is the ace of the soccer team.
+context: Are you sure you aren't a robot or something?\You're too strong.\You guys'\Kinomoto-kun really is great.\At first I thought he seemed a bit scary,\but he is pretty nice.\He has good looks.\He is the ace of the soccer team. response:	He is also good at cooking and sewing.
+context: You're too strong.\You guys'\Kinomoto-kun really is great.\At first I thought he seemed a bit scary,\but he is pretty nice.\He has good looks.\He is the ace of the soccer team.\He is also good at cooking and sewing. response:	Don't you think so too, Youko?
+context: You guys'\Kinomoto-kun really is great.\At first I thought he seemed a bit scary,\but he is pretty nice.\He has good looks.\He is the ace of the soccer team.\He is also good at cooking and sewing.\Don't you think so too, Youko? response:	Eh?
+context: Kinomoto-kun really is great.\At first I thought he seemed a bit scary,\but he is pretty nice.\He has good looks.\He is the ace of the soccer team.\He is also good at cooking and sewing.\Don't you think so too, Youko?\Eh? response:	Why do you ask me?
+context: At first I thought he seemed a bit scary,\but he is pretty nice.\He has good looks.\He is the ace of the soccer team.\He is also good at cooking and sewing.\Don't you think so too, Youko?\Eh?\Why do you ask me? response:	After all you are cute
+context: but he is pretty nice.\He has good looks.\He is the ace of the soccer team.\He is also good at cooking and sewing.\Don't you think so too, Youko?\Eh?\Why do you ask me?\After all you are cute response:	and have a nice personality.
+context: He has good looks.\He is the ace of the soccer team.\He is also good at cooking and sewing.\Don't you think so too, Youko?\Eh?\Why do you ask me?\After all you are cute\and have a nice personality. response:	Yeah, yeah.
+context: He is the ace of the soccer team.\He is also good at cooking and sewing.\Don't you think so too, Youko?\Eh?\Why do you ask me?\After all you are cute\and have a nice personality.\Yeah, yeah. response:	You are the president of the drama club, and are good at taking care of people.
+context: He is also good at cooking and sewing.\Don't you think so too, Youko?\Eh?\Why do you ask me?\After all you are cute\and have a nice personality.\Yeah, yeah.\You are the president of the drama club, and are good at taking care of people. response:	Wouldn't you do well with Kinomoto-kun?
+context: Don't you think so too, Youko?\Eh?\Why do you ask me?\After all you are cute\and have a nice personality.\Yeah, yeah.\You are the president of the drama club, and are good at taking care of people.\Wouldn't you do well with Kinomoto-kun? response:	Geeze,
+context: Eh?\Why do you ask me?\After all you are cute\and have a nice personality.\Yeah, yeah.\You are the president of the drama club, and are good at taking care of people.\Wouldn't you do well with Kinomoto-kun?\Geeze, response:	that has nothing to do with it.
+context: Why do you ask me?\After all you are cute\and have a nice personality.\Yeah, yeah.\You are the president of the drama club, and are good at taking care of people.\Wouldn't you do well with Kinomoto-kun?\Geeze,\that has nothing to do with it. response:	I guess Youko really does like Kinomoto-kun.
+context: After all you are cute\and have a nice personality.\Yeah, yeah.\You are the president of the drama club, and are good at taking care of people.\Wouldn't you do well with Kinomoto-kun?\Geeze,\that has nothing to do with it.\I guess Youko really does like Kinomoto-kun. response:	Yeah,
+context: and have a nice personality.\Yeah, yeah.\You are the president of the drama club, and are good at taking care of people.\Wouldn't you do well with Kinomoto-kun?\Geeze,\that has nothing to do with it.\I guess Youko really does like Kinomoto-kun.\Yeah, response:	but there is a rumor all the girls that have approached Kinomoto-kun
+context: Yeah, yeah.\You are the president of the drama club, and are good at taking care of people.\Wouldn't you do well with Kinomoto-kun?\Geeze,\that has nothing to do with it.\I guess Youko really does like Kinomoto-kun.\Yeah,\but there is a rumor all the girls that have approached Kinomoto-kun response:	were rejected.
+context: You are the president of the drama club, and are good at taking care of people.\Wouldn't you do well with Kinomoto-kun?\Geeze,\that has nothing to do with it.\I guess Youko really does like Kinomoto-kun.\Yeah,\but there is a rumor all the girls that have approached Kinomoto-kun\were rejected. response:	That Kinomoto-kun and Tsukishiro-kun
+context: Wouldn't you do well with Kinomoto-kun?\Geeze,\that has nothing to do with it.\I guess Youko really does like Kinomoto-kun.\Yeah,\but there is a rumor all the girls that have approached Kinomoto-kun\were rejected.\That Kinomoto-kun and Tsukishiro-kun response:	don't have girlfriends
+context: Geeze,\that has nothing to do with it.\I guess Youko really does like Kinomoto-kun.\Yeah,\but there is a rumor all the girls that have approached Kinomoto-kun\were rejected.\That Kinomoto-kun and Tsukishiro-kun\don't have girlfriends response:	is one of the seven mysteries
+context: that has nothing to do with it.\I guess Youko really does like Kinomoto-kun.\Yeah,\but there is a rumor all the girls that have approached Kinomoto-kun\were rejected.\That Kinomoto-kun and Tsukishiro-kun\don't have girlfriends\is one of the seven mysteries response:	of our school.
+context: I guess Youko really does like Kinomoto-kun.\Yeah,\but there is a rumor all the girls that have approached Kinomoto-kun\were rejected.\That Kinomoto-kun and Tsukishiro-kun\don't have girlfriends\is one of the seven mysteries\of our school. response:	How cute.
+context: Yeah,\but there is a rumor all the girls that have approached Kinomoto-kun\were rejected.\That Kinomoto-kun and Tsukishiro-kun\don't have girlfriends\is one of the seven mysteries\of our school.\How cute. response:	You like such childish things?
+context: but there is a rumor all the girls that have approached Kinomoto-kun\were rejected.\That Kinomoto-kun and Tsukishiro-kun\don't have girlfriends\is one of the seven mysteries\of our school.\How cute.\You like such childish things? response:	But it's cute.
+context: were rejected.\That Kinomoto-kun and Tsukishiro-kun\don't have girlfriends\is one of the seven mysteries\of our school.\How cute.\You like such childish things?\But it's cute. response:	You can have it
+context: That Kinomoto-kun and Tsukishiro-kun\don't have girlfriends\is one of the seven mysteries\of our school.\How cute.\You like such childish things?\But it's cute.\You can have it response:	if you pass through five
+context: don't have girlfriends\is one of the seven mysteries\of our school.\How cute.\You like such childish things?\But it's cute.\You can have it\if you pass through five response:	of our regulars
+context: is one of the seven mysteries\of our school.\How cute.\You like such childish things?\But it's cute.\You can have it\if you pass through five\of our regulars response:	and score.
+context: of our school.\How cute.\You like such childish things?\But it's cute.\You can have it\if you pass through five\of our regulars\and score. response:	Eh?
+context: How cute.\You like such childish things?\But it's cute.\You can have it\if you pass through five\of our regulars\and score.\Eh? response:	A hundred yen per attempt.
+context: You like such childish things?\But it's cute.\You can have it\if you pass through five\of our regulars\and score.\Eh?\A hundred yen per attempt. response:	Here.
+context: But it's cute.\You can have it\if you pass through five\of our regulars\and score.\Eh?\A hundred yen per attempt.\Here. response:	You are going to do it?
+context: You can have it\if you pass through five\of our regulars\and score.\Eh?\A hundred yen per attempt.\Here.\You are going to do it? response:	Yeah.
+context: if you pass through five\of our regulars\and score.\Eh?\A hundred yen per attempt.\Here.\You are going to do it?\Yeah. response:	Wait just a bit.
+context: of our regulars\and score.\Eh?\A hundred yen per attempt.\Here.\You are going to do it?\Yeah.\Wait just a bit. response:	Yes.
+context: and score.\Eh?\A hundred yen per attempt.\Here.\You are going to do it?\Yeah.\Wait just a bit.\Yes. response:	Go in!
+context: Eh?\A hundred yen per attempt.\Here.\You are going to do it?\Yeah.\Wait just a bit.\Yes.\Go in! response:	Oh! Huh!
+context: A hundred yen per attempt.\Here.\You are going to do it?\Yeah.\Wait just a bit.\Yes.\Go in!\Oh! Huh! response:	Eh?
+context: Here.\You are going to do it?\Yeah.\Wait just a bit.\Yes.\Go in!\Oh! Huh!\Eh? response:	Hey
+context: You are going to do it?\Yeah.\Wait just a bit.\Yes.\Go in!\Oh! Huh!\Eh?\Hey response:	There is no way our club members can win against Tsukishiro-kun.
+context: Yeah.\Wait just a bit.\Yes.\Go in!\Oh! Huh!\Eh?\Hey\There is no way our club members can win against Tsukishiro-kun. response:	That's not true.
+context: Wait just a bit.\Yes.\Go in!\Oh! Huh!\Eh?\Hey\There is no way our club members can win against Tsukishiro-kun.\That's not true. response:	Here.
+context: Yes.\Go in!\Oh! Huh!\Eh?\Hey\There is no way our club members can win against Tsukishiro-kun.\That's not true.\Here. response:	Thank you.
+context: Go in!\Oh! Huh!\Eh?\Hey\There is no way our club members can win against Tsukishiro-kun.\That's not true.\Here.\Thank you. response:	You're going again?
+context: Oh! Huh!\Eh?\Hey\There is no way our club members can win against Tsukishiro-kun.\That's not true.\Here.\Thank you.\You're going again? response:	I need two more stuffed animals.
+context: Eh?\Hey\There is no way our club members can win against Tsukishiro-kun.\That's not true.\Here.\Thank you.\You're going again?\I need two more stuffed animals. response:	Tsukishiro!
+context: Hey\There is no way our club members can win against Tsukishiro-kun.\That's not true.\Here.\Thank you.\You're going again?\I need two more stuffed animals.\Tsukishiro! response:	Join our team.
+context: There is no way our club members can win against Tsukishiro-kun.\That's not true.\Here.\Thank you.\You're going again?\I need two more stuffed animals.\Tsukishiro!\Join our team. response:	I'll think about it.
+context: That's not true.\Here.\Thank you.\You're going again?\I need two more stuffed animals.\Tsukishiro!\Join our team.\I'll think about it. response:	It's just about time.
+context: Here.\Thank you.\You're going again?\I need two more stuffed animals.\Tsukishiro!\Join our team.\I'll think about it.\It's just about time. response:	Time for what?
+context: Thank you.\You're going again?\I need two more stuffed animals.\Tsukishiro!\Join our team.\I'll think about it.\It's just about time.\Time for what? response:	Time for play
+context: You're going again?\I need two more stuffed animals.\Tsukishiro!\Join our team.\I'll think about it.\It's just about time.\Time for what?\Time for play response:	Our class play.
+context: I need two more stuffed animals.\Tsukishiro!\Join our team.\I'll think about it.\It's just about time.\Time for what?\Time for play\Our class play. response:	We're doing it in the gym.
+context: Tsukishiro!\Join our team.\I'll think about it.\It's just about time.\Time for what?\Time for play\Our class play.\We're doing it in the gym. response:	Is my brother in it?
+context: Join our team.\I'll think about it.\It's just about time.\Time for what?\Time for play\Our class play.\We're doing it in the gym.\Is my brother in it? response:	Yeah.
+context: I'll think about it.\It's just about time.\Time for what?\Time for play\Our class play.\We're doing it in the gym.\Is my brother in it?\Yeah. response:	I wonder what role it is.
+context: It's just about time.\Time for what?\Time for play\Our class play.\We're doing it in the gym.\Is my brother in it?\Yeah.\I wonder what role it is. response:	Ha'
+context: Time for what?\Time for play\Our class play.\We're doing it in the gym.\Is my brother in it?\Yeah.\I wonder what role it is.\Ha' response:	Look forward to seeing it.
+context: Time for play\Our class play.\We're doing it in the gym.\Is my brother in it?\Yeah.\I wonder what role it is.\Ha'\Look forward to seeing it. response:	Umm'
+context: Our class play.\We're doing it in the gym.\Is my brother in it?\Yeah.\I wonder what role it is.\Ha'\Look forward to seeing it.\Umm' response:	Excuse me!
+context: We're doing it in the gym.\Is my brother in it?\Yeah.\I wonder what role it is.\Ha'\Look forward to seeing it.\Umm'\Excuse me! response:	Eh
+context: Is my brother in it?\Yeah.\I wonder what role it is.\Ha'\Look forward to seeing it.\Umm'\Excuse me!\Eh response:	Are you in it?
+context: Yeah.\I wonder what role it is.\Ha'\Look forward to seeing it.\Umm'\Excuse me!\Eh\Are you in it? response:	Me?
+context: I wonder what role it is.\Ha'\Look forward to seeing it.\Umm'\Excuse me!\Eh\Are you in it?\Me? response:	Yes.
+context: Ha'\Look forward to seeing it.\Umm'\Excuse me!\Eh\Are you in it?\Me?\Yes. response:	Woo'
+context: Look forward to seeing it.\Umm'\Excuse me!\Eh\Are you in it?\Me?\Yes.\Woo' response:	What is your part?
+context: Umm'\Excuse me!\Eh\Are you in it?\Me?\Yes.\Woo'\What is your part? response:	Canned mackerel.
+context: Excuse me!\Eh\Are you in it?\Me?\Yes.\Woo'\What is your part?\Canned mackerel. response:	Eh!
+context: Eh\Are you in it?\Me?\Yes.\Woo'\What is your part?\Canned mackerel.\Eh! response:	Mackerel?
+context: Are you in it?\Me?\Yes.\Woo'\What is your part?\Canned mackerel.\Eh!\Mackerel? response:	Canned?
+context: Me?\Yes.\Woo'\What is your part?\Canned mackerel.\Eh!\Mackerel?\Canned? response:	Yep.
+context: Yes.\Woo'\What is your part?\Canned mackerel.\Eh!\Mackerel?\Canned?\Yep. response:	Seems like a pretty delicious role.
+context: Woo'\What is your part?\Canned mackerel.\Eh!\Mackerel?\Canned?\Yep.\Seems like a pretty delicious role. response:	You're right,
+context: What is your part?\Canned mackerel.\Eh!\Mackerel?\Canned?\Yep.\Seems like a pretty delicious role.\You're right, response:	canned mackerel is delicious.
+context: Canned mackerel.\Eh!\Mackerel?\Canned?\Yep.\Seems like a pretty delicious role.\You're right,\canned mackerel is delicious. response:	Next is the play Cinderella by 2nd year D class.
+context: Eh!\Mackerel?\Canned?\Yep.\Seems like a pretty delicious role.\You're right,\canned mackerel is delicious.\Next is the play Cinderella by 2nd year D class. response:	Class D
+context: Mackerel?\Canned?\Yep.\Seems like a pretty delicious role.\You're right,\canned mackerel is delicious.\Next is the play Cinderella by 2nd year D class.\Class D response:	is your brother's right?
+context: Canned?\Yep.\Seems like a pretty delicious role.\You're right,\canned mackerel is delicious.\Next is the play Cinderella by 2nd year D class.\Class D\is your brother's right? response:	Why would there be canned mackerel
+context: Yep.\Seems like a pretty delicious role.\You're right,\canned mackerel is delicious.\Next is the play Cinderella by 2nd year D class.\Class D\is your brother's right?\Why would there be canned mackerel response:	in Cinderella?
+context: Seems like a pretty delicious role.\You're right,\canned mackerel is delicious.\Next is the play Cinderella by 2nd year D class.\Class D\is your brother's right?\Why would there be canned mackerel\in Cinderella? response:	Sob. Sob.
+context: You're right,\canned mackerel is delicious.\Next is the play Cinderella by 2nd year D class.\Class D\is your brother's right?\Why would there be canned mackerel\in Cinderella?\Sob. Sob. response:	Long ago,
+context: canned mackerel is delicious.\Next is the play Cinderella by 2nd year D class.\Class D\is your brother's right?\Why would there be canned mackerel\in Cinderella?\Sob. Sob.\Long ago, response:	in a land far away
+context: Next is the play Cinderella by 2nd year D class.\Class D\is your brother's right?\Why would there be canned mackerel\in Cinderella?\Sob. Sob.\Long ago,\in a land far away response:	there was a beautiful and lovable girl
+context: Class D\is your brother's right?\Why would there be canned mackerel\in Cinderella?\Sob. Sob.\Long ago,\in a land far away\there was a beautiful and lovable girl response:	named Cinderella.
+context: is your brother's right?\Why would there be canned mackerel\in Cinderella?\Sob. Sob.\Long ago,\in a land far away\there was a beautiful and lovable girl\named Cinderella. response:	Sob'
+context: Why would there be canned mackerel\in Cinderella?\Sob. Sob.\Long ago,\in a land far away\there was a beautiful and lovable girl\named Cinderella.\Sob' response:	This voice.
+context: in Cinderella?\Sob. Sob.\Long ago,\in a land far away\there was a beautiful and lovable girl\named Cinderella.\Sob'\This voice. response:	Cinderella was bullied by her mother and sisters
+context: Sob. Sob.\Long ago,\in a land far away\there was a beautiful and lovable girl\named Cinderella.\Sob'\This voice.\Cinderella was bullied by her mother and sisters response:	every day,
+context: Long ago,\in a land far away\there was a beautiful and lovable girl\named Cinderella.\Sob'\This voice.\Cinderella was bullied by her mother and sisters\every day, response:	but was still a good girl who worked very hard.
+context: in a land far away\there was a beautiful and lovable girl\named Cinderella.\Sob'\This voice.\Cinderella was bullied by her mother and sisters\every day,\but was still a good girl who worked very hard. response:	Bro' Brother
+context: there was a beautiful and lovable girl\named Cinderella.\Sob'\This voice.\Cinderella was bullied by her mother and sisters\every day,\but was still a good girl who worked very hard.\Bro' Brother response:	He's'
+context: named Cinderella.\Sob'\This voice.\Cinderella was bullied by her mother and sisters\every day,\but was still a good girl who worked very hard.\Bro' Brother\He's' response:	Big brother?
+context: Sob'\This voice.\Cinderella was bullied by her mother and sisters\every day,\but was still a good girl who worked very hard.\Bro' Brother\He's'\Big brother? response:	Your brother seems very popular.
+context: This voice.\Cinderella was bullied by her mother and sisters\every day,\but was still a good girl who worked very hard.\Bro' Brother\He's'\Big brother?\Your brother seems very popular. response:	Are you cleaning well?
+context: Cinderella was bullied by her mother and sisters\every day,\but was still a good girl who worked very hard.\Bro' Brother\He's'\Big brother?\Your brother seems very popular.\Are you cleaning well? response:	It is dirty over here,
+context: every day,\but was still a good girl who worked very hard.\Bro' Brother\He's'\Big brother?\Your brother seems very popular.\Are you cleaning well?\It is dirty over here, response:	useless girl.
+context: but was still a good girl who worked very hard.\Bro' Brother\He's'\Big brother?\Your brother seems very popular.\Are you cleaning well?\It is dirty over here,\useless girl. response:	Useless!
+context: Bro' Brother\He's'\Big brother?\Your brother seems very popular.\Are you cleaning well?\It is dirty over here,\useless girl.\Useless! response:	Hey, the miso soup this morning
+context: He's'\Big brother?\Your brother seems very popular.\Are you cleaning well?\It is dirty over here,\useless girl.\Useless!\Hey, the miso soup this morning response:	was terrible.
+context: Big brother?\Your brother seems very popular.\Are you cleaning well?\It is dirty over here,\useless girl.\Useless!\Hey, the miso soup this morning\was terrible. response:	Ah!
+context: Your brother seems very popular.\Are you cleaning well?\It is dirty over here,\useless girl.\Useless!\Hey, the miso soup this morning\was terrible.\Ah! response:	Were you trying to kill us?
+context: Are you cleaning well?\It is dirty over here,\useless girl.\Useless!\Hey, the miso soup this morning\was terrible.\Ah!\Were you trying to kill us? response:	Oh my God!'
+context: It is dirty over here,\useless girl.\Useless!\Hey, the miso soup this morning\was terrible.\Ah!\Were you trying to kill us?\Oh my God!' response:	There is a ball at the castle today.
+context: useless girl.\Useless!\Hey, the miso soup this morning\was terrible.\Ah!\Were you trying to kill us?\Oh my God!'\There is a ball at the castle today. response:	Oh yes.
+context: Useless!\Hey, the miso soup this morning\was terrible.\Ah!\Were you trying to kill us?\Oh my God!'\There is a ball at the castle today.\Oh yes. response:	Yes, there is a ball.
+context: Hey, the miso soup this morning\was terrible.\Ah!\Were you trying to kill us?\Oh my God!'\There is a ball at the castle today.\Oh yes.\Yes, there is a ball. response:	The prince is going to choose his bride.
+context: was terrible.\Ah!\Were you trying to kill us?\Oh my God!'\There is a ball at the castle today.\Oh yes.\Yes, there is a ball.\The prince is going to choose his bride. response:	From the girls that come to the ball.
+context: Ah!\Were you trying to kill us?\Oh my God!'\There is a ball at the castle today.\Oh yes.\Yes, there is a ball.\The prince is going to choose his bride.\From the girls that come to the ball. response:	I will be joined with the prince.
+context: Were you trying to kill us?\Oh my God!'\There is a ball at the castle today.\Oh yes.\Yes, there is a ball.\The prince is going to choose his bride.\From the girls that come to the ball.\I will be joined with the prince. response:	No, me.
+context: Oh my God!'\There is a ball at the castle today.\Oh yes.\Yes, there is a ball.\The prince is going to choose his bride.\From the girls that come to the ball.\I will be joined with the prince.\No, me. response:	It will be me.
+context: There is a ball at the castle today.\Oh yes.\Yes, there is a ball.\The prince is going to choose his bride.\From the girls that come to the ball.\I will be joined with the prince.\No, me.\It will be me. response:	La'
+context: Oh yes.\Yes, there is a ball.\The prince is going to choose his bride.\From the girls that come to the ball.\I will be joined with the prince.\No, me.\It will be me.\La' response:	This seems fun.
+context: Yes, there is a ball.\The prince is going to choose his bride.\From the girls that come to the ball.\I will be joined with the prince.\No, me.\It will be me.\La'\This seems fun. response:	Hey, be a little jealous.
+context: The prince is going to choose his bride.\From the girls that come to the ball.\I will be joined with the prince.\No, me.\It will be me.\La'\This seems fun.\Hey, be a little jealous. response:	Ah, I want to go to.
+context: From the girls that come to the ball.\I will be joined with the prince.\No, me.\It will be me.\La'\This seems fun.\Hey, be a little jealous.\Ah, I want to go to. response:	The three of us are going,
+context: I will be joined with the prince.\No, me.\It will be me.\La'\This seems fun.\Hey, be a little jealous.\Ah, I want to go to.\The three of us are going, response:	you stay home.
+context: No, me.\It will be me.\La'\This seems fun.\Hey, be a little jealous.\Ah, I want to go to.\The three of us are going,\you stay home. response:	Have dinner ready too.
+context: It will be me.\La'\This seems fun.\Hey, be a little jealous.\Ah, I want to go to.\The three of us are going,\you stay home.\Have dinner ready too. response:	Ramen, we'll have ramen.
+context: La'\This seems fun.\Hey, be a little jealous.\Ah, I want to go to.\The three of us are going,\you stay home.\Have dinner ready too.\Ramen, we'll have ramen. response:	Shall we go?
+context: This seems fun.\Hey, be a little jealous.\Ah, I want to go to.\The three of us are going,\you stay home.\Have dinner ready too.\Ramen, we'll have ramen.\Shall we go? response:	Yes, let's go.
+context: Hey, be a little jealous.\Ah, I want to go to.\The three of us are going,\you stay home.\Have dinner ready too.\Ramen, we'll have ramen.\Shall we go?\Yes, let's go. response:	Let's dance.
+context: Ah, I want to go to.\The three of us are going,\you stay home.\Have dinner ready too.\Ramen, we'll have ramen.\Shall we go?\Yes, let's go.\Let's dance. response:	Woo'
+context: The three of us are going,\you stay home.\Have dinner ready too.\Ramen, we'll have ramen.\Shall we go?\Yes, let's go.\Let's dance.\Woo' response:	I want to go to the ball too.
+context: you stay home.\Have dinner ready too.\Ramen, we'll have ramen.\Shall we go?\Yes, let's go.\Let's dance.\Woo'\I want to go to the ball too. response:	He doesn't seem to want to go at all.
+context: Have dinner ready too.\Ramen, we'll have ramen.\Shall we go?\Yes, let's go.\Let's dance.\Woo'\I want to go to the ball too.\He doesn't seem to want to go at all. response:	Hello.
+context: Ramen, we'll have ramen.\Shall we go?\Yes, let's go.\Let's dance.\Woo'\I want to go to the ball too.\He doesn't seem to want to go at all.\Hello. response:	Wow
+context: Shall we go?\Yes, let's go.\Let's dance.\Woo'\I want to go to the ball too.\He doesn't seem to want to go at all.\Hello.\Wow response:	It's Yukito-san.
+context: Yes, let's go.\Let's dance.\Woo'\I want to go to the ball too.\He doesn't seem to want to go at all.\Hello.\Wow\It's Yukito-san. response:	Tsukishiro-san is popular too.
+context: Let's dance.\Woo'\I want to go to the ball too.\He doesn't seem to want to go at all.\Hello.\Wow\It's Yukito-san.\Tsukishiro-san is popular too. response:	Yukito-san is wonderful.
+context: Woo'\I want to go to the ball too.\He doesn't seem to want to go at all.\Hello.\Wow\It's Yukito-san.\Tsukishiro-san is popular too.\Yukito-san is wonderful. response:	You seem troubled,
+context: I want to go to the ball too.\He doesn't seem to want to go at all.\Hello.\Wow\It's Yukito-san.\Tsukishiro-san is popular too.\Yukito-san is wonderful.\You seem troubled, response:	Cinderella.
+context: He doesn't seem to want to go at all.\Hello.\Wow\It's Yukito-san.\Tsukishiro-san is popular too.\Yukito-san is wonderful.\You seem troubled,\Cinderella. response:	This is an invitation to the ball,
+context: Hello.\Wow\It's Yukito-san.\Tsukishiro-san is popular too.\Yukito-san is wonderful.\You seem troubled,\Cinderella.\This is an invitation to the ball, response:	but why do you do this?
+context: Wow\It's Yukito-san.\Tsukishiro-san is popular too.\Yukito-san is wonderful.\You seem troubled,\Cinderella.\This is an invitation to the ball,\but why do you do this? response:	Because I am a wizard.
+context: It's Yukito-san.\Tsukishiro-san is popular too.\Yukito-san is wonderful.\You seem troubled,\Cinderella.\This is an invitation to the ball,\but why do you do this?\Because I am a wizard. response:	What is that on your head?
+context: Tsukishiro-san is popular too.\Yukito-san is wonderful.\You seem troubled,\Cinderella.\This is an invitation to the ball,\but why do you do this?\Because I am a wizard.\What is that on your head? response:	Canned mackerel.
+context: Yukito-san is wonderful.\You seem troubled,\Cinderella.\This is an invitation to the ball,\but why do you do this?\Because I am a wizard.\What is that on your head?\Canned mackerel. response:	A discarded canned mackerel
+context: You seem troubled,\Cinderella.\This is an invitation to the ball,\but why do you do this?\Because I am a wizard.\What is that on your head?\Canned mackerel.\A discarded canned mackerel response:	that gained magical power
+context: Cinderella.\This is an invitation to the ball,\but why do you do this?\Because I am a wizard.\What is that on your head?\Canned mackerel.\A discarded canned mackerel\that gained magical power response:	over many years.
+context: This is an invitation to the ball,\but why do you do this?\Because I am a wizard.\What is that on your head?\Canned mackerel.\A discarded canned mackerel\that gained magical power\over many years. response:	Why a canned mackerel?
+context: but why do you do this?\Because I am a wizard.\What is that on your head?\Canned mackerel.\A discarded canned mackerel\that gained magical power\over many years.\Why a canned mackerel? response:	There is a moral to the story,
+context: Because I am a wizard.\What is that on your head?\Canned mackerel.\A discarded canned mackerel\that gained magical power\over many years.\Why a canned mackerel?\There is a moral to the story, response:	treat things with respect.
+context: What is that on your head?\Canned mackerel.\A discarded canned mackerel\that gained magical power\over many years.\Why a canned mackerel?\There is a moral to the story,\treat things with respect. response:	The prince has arrived.
+context: Canned mackerel.\A discarded canned mackerel\that gained magical power\over many years.\Why a canned mackerel?\There is a moral to the story,\treat things with respect.\The prince has arrived. response:	Eh!
+context: A discarded canned mackerel\that gained magical power\over many years.\Why a canned mackerel?\There is a moral to the story,\treat things with respect.\The prince has arrived.\Eh! response:	I think you all know,
+context: that gained magical power\over many years.\Why a canned mackerel?\There is a moral to the story,\treat things with respect.\The prince has arrived.\Eh!\I think you all know, response:	but today is a ball
+context: over many years.\Why a canned mackerel?\There is a moral to the story,\treat things with respect.\The prince has arrived.\Eh!\I think you all know,\but today is a ball response:	to determine my bride.
+context: Why a canned mackerel?\There is a moral to the story,\treat things with respect.\The prince has arrived.\Eh!\I think you all know,\but today is a ball\to determine my bride. response:	Eh!
+context: There is a moral to the story,\treat things with respect.\The prince has arrived.\Eh!\I think you all know,\but today is a ball\to determine my bride.\Eh! response:	Big brother.
+context: treat things with respect.\The prince has arrived.\Eh!\I think you all know,\but today is a ball\to determine my bride.\Eh!\Big brother. response:	Eh!
+context: The prince has arrived.\Eh!\I think you all know,\but today is a ball\to determine my bride.\Eh!\Big brother.\Eh! response:	Youko,
+context: Eh!\I think you all know,\but today is a ball\to determine my bride.\Eh!\Big brother.\Eh!\Youko, response:	your line.
+context: I think you all know,\but today is a ball\to determine my bride.\Eh!\Big brother.\Eh!\Youko,\your line. response:	Oh, what a wonderful young maiden.
+context: but today is a ball\to determine my bride.\Eh!\Big brother.\Eh!\Youko,\your line.\Oh, what a wonderful young maiden. response:	Well then, shall we dance?
+context: to determine my bride.\Eh!\Big brother.\Eh!\Youko,\your line.\Oh, what a wonderful young maiden.\Well then, shall we dance? response:	Weird play.
+context: Eh!\Big brother.\Eh!\Youko,\your line.\Oh, what a wonderful young maiden.\Well then, shall we dance?\Weird play. response:	Huh!
+context: Big brother.\Eh!\Youko,\your line.\Oh, what a wonderful young maiden.\Well then, shall we dance?\Weird play.\Huh! response:	Is something wrong?
+context: Eh!\Youko,\your line.\Oh, what a wonderful young maiden.\Well then, shall we dance?\Weird play.\Huh!\Is something wrong? response:	Perhaps my imagination?
+context: Youko,\your line.\Oh, what a wonderful young maiden.\Well then, shall we dance?\Weird play.\Huh!\Is something wrong?\Perhaps my imagination? response:	Cinderella,
+context: your line.\Oh, what a wonderful young maiden.\Well then, shall we dance?\Weird play.\Huh!\Is something wrong?\Perhaps my imagination?\Cinderella, response:	I don't want to let you leave like this.
+context: Oh, what a wonderful young maiden.\Well then, shall we dance?\Weird play.\Huh!\Is something wrong?\Perhaps my imagination?\Cinderella,\I don't want to let you leave like this. response:	But if I don't go make the ramen'
+context: Well then, shall we dance?\Weird play.\Huh!\Is something wrong?\Perhaps my imagination?\Cinderella,\I don't want to let you leave like this.\But if I don't go make the ramen' response:	Please be my bride.
+context: Weird play.\Huh!\Is something wrong?\Perhaps my imagination?\Cinderella,\I don't want to let you leave like this.\But if I don't go make the ramen'\Please be my bride. response:	But the canned mackerel told me
+context: Huh!\Is something wrong?\Perhaps my imagination?\Cinderella,\I don't want to let you leave like this.\But if I don't go make the ramen'\Please be my bride.\But the canned mackerel told me response:	to be home by midnight.
+context: Is something wrong?\Perhaps my imagination?\Cinderella,\I don't want to let you leave like this.\But if I don't go make the ramen'\Please be my bride.\But the canned mackerel told me\to be home by midnight. response:	Something'
+context: Perhaps my imagination?\Cinderella,\I don't want to let you leave like this.\But if I don't go make the ramen'\Please be my bride.\But the canned mackerel told me\to be home by midnight.\Something' response:	Feels strange.
+context: Cinderella,\I don't want to let you leave like this.\But if I don't go make the ramen'\Please be my bride.\But the canned mackerel told me\to be home by midnight.\Something'\Feels strange. response:	Cinderella, I'
+context: I don't want to let you leave like this.\But if I don't go make the ramen'\Please be my bride.\But the canned mackerel told me\to be home by midnight.\Something'\Feels strange.\Cinderella, I' response:	Prince.
+context: But if I don't go make the ramen'\Please be my bride.\But the canned mackerel told me\to be home by midnight.\Something'\Feels strange.\Cinderella, I'\Prince. response:	Ah!
+context: Please be my bride.\But the canned mackerel told me\to be home by midnight.\Something'\Feels strange.\Cinderella, I'\Prince.\Ah! response:	Eh!
+context: But the canned mackerel told me\to be home by midnight.\Something'\Feels strange.\Cinderella, I'\Prince.\Ah!\Eh! response:	Big brother!
+context: to be home by midnight.\Something'\Feels strange.\Cinderella, I'\Prince.\Ah!\Eh!\Big brother! response:	Touya!
+context: Something'\Feels strange.\Cinderella, I'\Prince.\Ah!\Eh!\Big brother!\Touya! response:	Ummm'
+context: Feels strange.\Cinderella, I'\Prince.\Ah!\Eh!\Big brother!\Touya!\Ummm' response:	What's going on!
+context: Cinderella, I'\Prince.\Ah!\Eh!\Big brother!\Touya!\Ummm'\What's going on! response:	It was a Clow Card after all.
+context: Prince.\Ah!\Eh!\Big brother!\Touya!\Ummm'\What's going on!\It was a Clow Card after all. response:	We have to go somewhere people don't go.
+context: Ah!\Eh!\Big brother!\Touya!\Ummm'\What's going on!\It was a Clow Card after all.\We have to go somewhere people don't go. response:	Sakura-chan.
+context: Eh!\Big brother!\Touya!\Ummm'\What's going on!\It was a Clow Card after all.\We have to go somewhere people don't go.\Sakura-chan. response:	Li-kun!
+context: Big brother!\Touya!\Ummm'\What's going on!\It was a Clow Card after all.\We have to go somewhere people don't go.\Sakura-chan.\Li-kun! response:	What a great story, it made me cry.
+context: Touya!\Ummm'\What's going on!\It was a Clow Card after all.\We have to go somewhere people don't go.\Sakura-chan.\Li-kun!\What a great story, it made me cry. response:	Parent-child relationships sure are great.
+context: Ummm'\What's going on!\It was a Clow Card after all.\We have to go somewhere people don't go.\Sakura-chan.\Li-kun!\What a great story, it made me cry.\Parent-child relationships sure are great. response:	Kero-chan, it's terrible,
+context: What's going on!\It was a Clow Card after all.\We have to go somewhere people don't go.\Sakura-chan.\Li-kun!\What a great story, it made me cry.\Parent-child relationships sure are great.\Kero-chan, it's terrible, response:	the play my brother is in'
+context: It was a Clow Card after all.\We have to go somewhere people don't go.\Sakura-chan.\Li-kun!\What a great story, it made me cry.\Parent-child relationships sure are great.\Kero-chan, it's terrible,\the play my brother is in' response:	What?
+context: We have to go somewhere people don't go.\Sakura-chan.\Li-kun!\What a great story, it made me cry.\Parent-child relationships sure are great.\Kero-chan, it's terrible,\the play my brother is in'\What? response:	Yeah. Yeah.
+context: Sakura-chan.\Li-kun!\What a great story, it made me cry.\Parent-child relationships sure are great.\Kero-chan, it's terrible,\the play my brother is in'\What?\Yeah. Yeah. response:	That is the Mist card,
+context: Li-kun!\What a great story, it made me cry.\Parent-child relationships sure are great.\Kero-chan, it's terrible,\the play my brother is in'\What?\Yeah. Yeah.\That is the Mist card, response:	it corrodes everything
+context: What a great story, it made me cry.\Parent-child relationships sure are great.\Kero-chan, it's terrible,\the play my brother is in'\What?\Yeah. Yeah.\That is the Mist card,\it corrodes everything response:	that gets in the fog.
+context: Parent-child relationships sure are great.\Kero-chan, it's terrible,\the play my brother is in'\What?\Yeah. Yeah.\That is the Mist card,\it corrodes everything\that gets in the fog. response:	If you don't hurry
+context: Kero-chan, it's terrible,\the play my brother is in'\What?\Yeah. Yeah.\That is the Mist card,\it corrodes everything\that gets in the fog.\If you don't hurry response:	your brother's footing will crumble too.
+context: the play my brother is in'\What?\Yeah. Yeah.\That is the Mist card,\it corrodes everything\that gets in the fog.\If you don't hurry\your brother's footing will crumble too. response:	This can't be.
+context: What?\Yeah. Yeah.\That is the Mist card,\it corrodes everything\that gets in the fog.\If you don't hurry\your brother's footing will crumble too.\This can't be. response:	It would be good
+context: Yeah. Yeah.\That is the Mist card,\it corrodes everything\that gets in the fog.\If you don't hurry\your brother's footing will crumble too.\This can't be.\It would be good response:	if you could gather Mist all into one place to take care of it.
+context: That is the Mist card,\it corrodes everything\that gets in the fog.\If you don't hurry\your brother's footing will crumble too.\This can't be.\It would be good\if you could gather Mist all into one place to take care of it. response:	Gather it?
+context: it corrodes everything\that gets in the fog.\If you don't hurry\your brother's footing will crumble too.\This can't be.\It would be good\if you could gather Mist all into one place to take care of it.\Gather it? response:	Ah!
+context: that gets in the fog.\If you don't hurry\your brother's footing will crumble too.\This can't be.\It would be good\if you could gather Mist all into one place to take care of it.\Gather it?\Ah! response:	Eh!
+context: If you don't hurry\your brother's footing will crumble too.\This can't be.\It would be good\if you could gather Mist all into one place to take care of it.\Gather it?\Ah!\Eh! response:	Youko!
+context: your brother's footing will crumble too.\This can't be.\It would be good\if you could gather Mist all into one place to take care of it.\Gather it?\Ah!\Eh!\Youko! response:	Kinomoto-kun.
+context: This can't be.\It would be good\if you could gather Mist all into one place to take care of it.\Gather it?\Ah!\Eh!\Youko!\Kinomoto-kun. response:	Touya.
+context: It would be good\if you could gather Mist all into one place to take care of it.\Gather it?\Ah!\Eh!\Youko!\Kinomoto-kun.\Touya. response:	Touya, let go!
+context: if you could gather Mist all into one place to take care of it.\Gather it?\Ah!\Eh!\Youko!\Kinomoto-kun.\Touya.\Touya, let go! response:	You'll fall too.
+context: Gather it?\Ah!\Eh!\Youko!\Kinomoto-kun.\Touya.\Touya, let go!\You'll fall too. response:	At this height
+context: Ah!\Eh!\Youko!\Kinomoto-kun.\Touya.\Touya, let go!\You'll fall too.\At this height response:	I will just be hurt a little,
+context: Eh!\Youko!\Kinomoto-kun.\Touya.\Touya, let go!\You'll fall too.\At this height\I will just be hurt a little, response:	so'
+context: Youko!\Kinomoto-kun.\Touya.\Touya, let go!\You'll fall too.\At this height\I will just be hurt a little,\so' response:	Touya
+context: Kinomoto-kun.\Touya.\Touya, let go!\You'll fall too.\At this height\I will just be hurt a little,\so'\Touya response:	Gather? How can I gather it?
+context: Touya.\Touya, let go!\You'll fall too.\At this height\I will just be hurt a little,\so'\Touya\Gather? How can I gather it? response:	Oh yeah.
+context: Touya, let go!\You'll fall too.\At this height\I will just be hurt a little,\so'\Touya\Gather? How can I gather it?\Oh yeah. response:	Shadows, gather all the fog within you.
+context: You'll fall too.\At this height\I will just be hurt a little,\so'\Touya\Gather? How can I gather it?\Oh yeah.\Shadows, gather all the fog within you. response:	Shadow!
+context: At this height\I will just be hurt a little,\so'\Touya\Gather? How can I gather it?\Oh yeah.\Shadows, gather all the fog within you.\Shadow! response:	Return to your rightful form,
+context: I will just be hurt a little,\so'\Touya\Gather? How can I gather it?\Oh yeah.\Shadows, gather all the fog within you.\Shadow!\Return to your rightful form, response:	Clow Card!
+context: so'\Touya\Gather? How can I gather it?\Oh yeah.\Shadows, gather all the fog within you.\Shadow!\Return to your rightful form,\Clow Card! response:	Woo'
+context: Touya\Gather? How can I gather it?\Oh yeah.\Shadows, gather all the fog within you.\Shadow!\Return to your rightful form,\Clow Card!\Woo' response:	Wah'
+context: Gather? How can I gather it?\Oh yeah.\Shadows, gather all the fog within you.\Shadow!\Return to your rightful form,\Clow Card!\Woo'\Wah' response:	Wind come forth!
+context: Oh yeah.\Shadows, gather all the fog within you.\Shadow!\Return to your rightful form,\Clow Card!\Woo'\Wah'\Wind come forth! response:	Thank you.
+context: Shadows, gather all the fog within you.\Shadow!\Return to your rightful form,\Clow Card!\Woo'\Wah'\Wind come forth!\Thank you. response:	Touya!
+context: Shadow!\Return to your rightful form,\Clow Card!\Woo'\Wah'\Wind come forth!\Thank you.\Touya! response:	Youko!
+context: Return to your rightful form,\Clow Card!\Woo'\Wah'\Wind come forth!\Thank you.\Touya!\Youko! response:	Thank god.
+context: Clow Card!\Woo'\Wah'\Wind come forth!\Thank you.\Touya!\Youko!\Thank god. response:	Touya, are you OK? Not hurt?
+context: Woo'\Wah'\Wind come forth!\Thank you.\Touya!\Youko!\Thank god.\Touya, are you OK? Not hurt? response:	Somehow.
+context: Wah'\Wind come forth!\Thank you.\Touya!\Youko!\Thank god.\Touya, are you OK? Not hurt?\Somehow. response:	Mic test. Mic test.
+context: Wind come forth!\Thank you.\Touya!\Youko!\Thank god.\Touya, are you OK? Not hurt?\Somehow.\Mic test. Mic test. response:	Even so it is unfortunate,
+context: Thank you.\Touya!\Youko!\Thank god.\Touya, are you OK? Not hurt?\Somehow.\Mic test. Mic test.\Even so it is unfortunate, response:	even though I brought my video camera
+context: Touya!\Youko!\Thank god.\Touya, are you OK? Not hurt?\Somehow.\Mic test. Mic test.\Even so it is unfortunate,\even though I brought my video camera response:	I missed your action.
+context: Youko!\Thank god.\Touya, are you OK? Not hurt?\Somehow.\Mic test. Mic test.\Even so it is unfortunate,\even though I brought my video camera\I missed your action. response:	Ha'
+context: Thank god.\Touya, are you OK? Not hurt?\Somehow.\Mic test. Mic test.\Even so it is unfortunate,\even though I brought my video camera\I missed your action.\Ha' response:	But it is good it didn't become a big accident.
+context: Touya, are you OK? Not hurt?\Somehow.\Mic test. Mic test.\Even so it is unfortunate,\even though I brought my video camera\I missed your action.\Ha'\But it is good it didn't become a big accident. response:	Really.
+context: Somehow.\Mic test. Mic test.\Even so it is unfortunate,\even though I brought my video camera\I missed your action.\Ha'\But it is good it didn't become a big accident.\Really. response:	Thank you.
+context: Mic test. Mic test.\Even so it is unfortunate,\even though I brought my video camera\I missed your action.\Ha'\But it is good it didn't become a big accident.\Really.\Thank you. response:	For helping me.
+context: Even so it is unfortunate,\even though I brought my video camera\I missed your action.\Ha'\But it is good it didn't become a big accident.\Really.\Thank you.\For helping me. response:	I don't remember helping you.
+context: even though I brought my video camera\I missed your action.\Ha'\But it is good it didn't become a big accident.\Really.\Thank you.\For helping me.\I don't remember helping you. response:	Yukito-san.
+context: I missed your action.\Ha'\But it is good it didn't become a big accident.\Really.\Thank you.\For helping me.\I don't remember helping you.\Yukito-san. response:	That was pretty exciting.
+context: Ha'\But it is good it didn't become a big accident.\Really.\Thank you.\For helping me.\I don't remember helping you.\Yukito-san.\That was pretty exciting. response:	Your canned mackerel was wonderful.
+context: But it is good it didn't become a big accident.\Really.\Thank you.\For helping me.\I don't remember helping you.\Yukito-san.\That was pretty exciting.\Your canned mackerel was wonderful. response:	Thank you.
+context: Really.\Thank you.\For helping me.\I don't remember helping you.\Yukito-san.\That was pretty exciting.\Your canned mackerel was wonderful.\Thank you. response:	Where is my brother?
+context: Thank you.\For helping me.\I don't remember helping you.\Yukito-san.\That was pretty exciting.\Your canned mackerel was wonderful.\Thank you.\Where is my brother? response:	He's fine.
+context: For helping me.\I don't remember helping you.\Yukito-san.\That was pretty exciting.\Your canned mackerel was wonderful.\Thank you.\Where is my brother?\He's fine. response:	But he was called out to talk to somebody.
+context: I don't remember helping you.\Yukito-san.\That was pretty exciting.\Your canned mackerel was wonderful.\Thank you.\Where is my brother?\He's fine.\But he was called out to talk to somebody. response:	Umm' I'
+context: Yukito-san.\That was pretty exciting.\Your canned mackerel was wonderful.\Thank you.\Where is my brother?\He's fine.\But he was called out to talk to somebody.\Umm' I' response:	I love you.
+context: That was pretty exciting.\Your canned mackerel was wonderful.\Thank you.\Where is my brother?\He's fine.\But he was called out to talk to somebody.\Umm' I'\I love you. response:	Thank you, but I'
+context: Your canned mackerel was wonderful.\Thank you.\Where is my brother?\He's fine.\But he was called out to talk to somebody.\Umm' I'\I love you.\Thank you, but I' response:	You have somebody you like?
+context: Thank you.\Where is my brother?\He's fine.\But he was called out to talk to somebody.\Umm' I'\I love you.\Thank you, but I'\You have somebody you like? response:	Yes.
+context: Where is my brother?\He's fine.\But he was called out to talk to somebody.\Umm' I'\I love you.\Thank you, but I'\You have somebody you like?\Yes. response:	I had that feeling.
+context: He's fine.\But he was called out to talk to somebody.\Umm' I'\I love you.\Thank you, but I'\You have somebody you like?\Yes.\I had that feeling. response:	Sorry for crying.
+context: But he was called out to talk to somebody.\Umm' I'\I love you.\Thank you, but I'\You have somebody you like?\Yes.\I had that feeling.\Sorry for crying. response:	Don't worry about me. Ah, they are doing a bonfire.
+context: Umm' I'\I love you.\Thank you, but I'\You have somebody you like?\Yes.\I had that feeling.\Sorry for crying.\Don't worry about me. Ah, they are doing a bonfire. response:	May I ask one request?
+context: I love you.\Thank you, but I'\You have somebody you like?\Yes.\I had that feeling.\Sorry for crying.\Don't worry about me. Ah, they are doing a bonfire.\May I ask one request? response:	Dance with me.
+context: Thank you, but I'\You have somebody you like?\Yes.\I had that feeling.\Sorry for crying.\Don't worry about me. Ah, they are doing a bonfire.\May I ask one request?\Dance with me. response:	It's my brother.
+context: You have somebody you like?\Yes.\I had that feeling.\Sorry for crying.\Don't worry about me. Ah, they are doing a bonfire.\May I ask one request?\Dance with me.\It's my brother. response:	Thank you.
+context: Yes.\I had that feeling.\Sorry for crying.\Don't worry about me. Ah, they are doing a bonfire.\May I ask one request?\Dance with me.\It's my brother.\Thank you. response:	Hey, Kinomoto-kun.
+context: I had that feeling.\Sorry for crying.\Don't worry about me. Ah, they are doing a bonfire.\May I ask one request?\Dance with me.\It's my brother.\Thank you.\Hey, Kinomoto-kun. response:	I only promised Youko.
+context: Sorry for crying.\Don't worry about me. Ah, they are doing a bonfire.\May I ask one request?\Dance with me.\It's my brother.\Thank you.\Hey, Kinomoto-kun.\I only promised Youko. response:	A little too cool.
+context: Don't worry about me. Ah, they are doing a bonfire.\May I ask one request?\Dance with me.\It's my brother.\Thank you.\Hey, Kinomoto-kun.\I only promised Youko.\A little too cool. response:	You should have told me
+context: May I ask one request?\Dance with me.\It's my brother.\Thank you.\Hey, Kinomoto-kun.\I only promised Youko.\A little too cool.\You should have told me response:	you were in the play.
+context: Dance with me.\It's my brother.\Thank you.\Hey, Kinomoto-kun.\I only promised Youko.\A little too cool.\You should have told me\you were in the play. response:	You told her?
+context: It's my brother.\Thank you.\Hey, Kinomoto-kun.\I only promised Youko.\A little too cool.\You should have told me\you were in the play.\You told her? response:	Yeah.
+context: Thank you.\Hey, Kinomoto-kun.\I only promised Youko.\A little too cool.\You should have told me\you were in the play.\You told her?\Yeah. response:	Shall we dance?
+context: Hey, Kinomoto-kun.\I only promised Youko.\A little too cool.\You should have told me\you were in the play.\You told her?\Yeah.\Shall we dance? response:	Eh?
+context: I only promised Youko.\A little too cool.\You should have told me\you were in the play.\You told her?\Yeah.\Shall we dance?\Eh? response:	Let's go.
+context: A little too cool.\You should have told me\you were in the play.\You told her?\Yeah.\Shall we dance?\Eh?\Let's go. response:	This will make a good video.

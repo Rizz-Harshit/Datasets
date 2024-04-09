@@ -1,0 +1,142 @@
+context: From today onwards response:	Would you like to ask our commoner anything?
+context: From today onwards\Would you like to ask our commoner anything? response:	the ring
+context: From today onwards\Would you like to ask our commoner anything?\the ring response:	the ring
+context: From today onwards\Would you like to ask our commoner anything?\the ring\the ring response:	the ring
+context: From today onwards\Would you like to ask our commoner anything?\the ring\the ring\the ring response:	the ring
+context: From today onwards\Would you like to ask our commoner anything?\the ring\the ring\the ring\the ring response:	the ring
+context: From today onwards\Would you like to ask our commoner anything?\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: From today onwards\Would you like to ask our commoner anything?\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: Would you like to ask our commoner anything?\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	the ring
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\the ring response:	Huh?
+context: the ring\the ring\the ring\the ring\the ring\the ring\the ring\Huh? response:	Verse?
+context: the ring\the ring\the ring\the ring\the ring\the ring\Huh?\Verse? response:	Heck... you are fine as usual, right?
+context: the ring\the ring\the ring\the ring\the ring\Huh?\Verse?\Heck... you are fine as usual, right? response:	A-Where am I?
+context: the ring\the ring\the ring\the ring\Huh?\Verse?\Heck... you are fine as usual, right?\A-Where am I? response:	Get the hell!?
+context: the ring\the ring\the ring\Huh?\Verse?\Heck... you are fine as usual, right?\A-Where am I?\Get the hell!? response:	But in any case, where I am and you?
+context: the ring\the ring\Huh?\Verse?\Heck... you are fine as usual, right?\A-Where am I?\Get the hell!?\But in any case, where I am and you? response:	For girls?
+context: the ring\Huh?\Verse?\Heck... you are fine as usual, right?\A-Where am I?\Get the hell!?\But in any case, where I am and you?\For girls? response:	Verse?
+context: Huh?\Verse?\Heck... you are fine as usual, right?\A-Where am I?\Get the hell!?\But in any case, where I am and you?\For girls?\Verse? response:	Verse?
+context: Verse?\Heck... you are fine as usual, right?\A-Where am I?\Get the hell!?\But in any case, where I am and you?\For girls?\Verse?\Verse? response:	What are you talking about! What I'll do here?
+context: Heck... you are fine as usual, right?\A-Where am I?\Get the hell!?\But in any case, where I am and you?\For girls?\Verse?\Verse?\What are you talking about! What I'll do here? response:	Or tell me, what am I?
+context: A-Where am I?\Get the hell!?\But in any case, where I am and you?\For girls?\Verse?\Verse?\What are you talking about! What I'll do here?\Or tell me, what am I? response:	Do you Taatjahlaina?
+context: Get the hell!?\But in any case, where I am and you?\For girls?\Verse?\Verse?\What are you talking about! What I'll do here?\Or tell me, what am I?\Do you Taatjahlaina? response:	some problems?
+context: But in any case, where I am and you?\For girls?\Verse?\Verse?\What are you talking about! What I'll do here?\Or tell me, what am I?\Do you Taatjahlaina?\some problems? response:	what's the problem?
+context: For girls?\Verse?\Verse?\What are you talking about! What I'll do here?\Or tell me, what am I?\Do you Taatjahlaina?\some problems?\what's the problem? response:	No choice but to deal with the opposite sex
+context: Verse?\Verse?\What are you talking about! What I'll do here?\Or tell me, what am I?\Do you Taatjahlaina?\some problems?\what's the problem?\No choice but to deal with the opposite sex response:	How is that! For this matter?
+context: Verse?\What are you talking about! What I'll do here?\Or tell me, what am I?\Do you Taatjahlaina?\some problems?\what's the problem?\No choice but to deal with the opposite sex\How is that! For this matter? response:	How do you choose!?
+context: What are you talking about! What I'll do here?\Or tell me, what am I?\Do you Taatjahlaina?\some problems?\what's the problem?\No choice but to deal with the opposite sex\How is that! For this matter?\How do you choose!? response:	Sample slang?
+context: Or tell me, what am I?\Do you Taatjahlaina?\some problems?\what's the problem?\No choice but to deal with the opposite sex\How is that! For this matter?\How do you choose!?\Sample slang? response:	I understand Osbabikm, but I want to know what I am?
+context: Do you Taatjahlaina?\some problems?\what's the problem?\No choice but to deal with the opposite sex\How is that! For this matter?\How do you choose!?\Sample slang?\I understand Osbabikm, but I want to know what I am? response:	Trait?
+context: some problems?\what's the problem?\No choice but to deal with the opposite sex\How is that! For this matter?\How do you choose!?\Sample slang?\I understand Osbabikm, but I want to know what I am?\Trait? response:	- Right
+context: what's the problem?\No choice but to deal with the opposite sex\How is that! For this matter?\How do you choose!?\Sample slang?\I understand Osbabikm, but I want to know what I am?\Trait?\- Right response:	I do not need something?
+context: No choice but to deal with the opposite sex\How is that! For this matter?\How do you choose!?\Sample slang?\I understand Osbabikm, but I want to know what I am?\Trait?\- Right\I do not need something? response:	Who is obsessed muscles?
+context: How is that! For this matter?\How do you choose!?\Sample slang?\I understand Osbabikm, but I want to know what I am?\Trait?\- Right\I do not need something?\Who is obsessed muscles? response:	Am I wrong?
+context: How do you choose!?\Sample slang?\I understand Osbabikm, but I want to know what I am?\Trait?\- Right\I do not need something?\Who is obsessed muscles?\Am I wrong? response:	Huh? what is wrong with you?
+context: Sample slang?\I understand Osbabikm, but I want to know what I am?\Trait?\- Right\I do not need something?\Who is obsessed muscles?\Am I wrong?\Huh? what is wrong with you? response:	The name?
+context: I understand Osbabikm, but I want to know what I am?\Trait?\- Right\I do not need something?\Who is obsessed muscles?\Am I wrong?\Huh? what is wrong with you?\The name? response:	He said, Name
+context: Trait?\- Right\I do not need something?\Who is obsessed muscles?\Am I wrong?\Huh? what is wrong with you?\The name?\He said, Name response:	What was this?
+context: - Right\I do not need something?\Who is obsessed muscles?\Am I wrong?\Huh? what is wrong with you?\The name?\He said, Name\What was this? response:	What's that sound?
+context: I do not need something?\Who is obsessed muscles?\Am I wrong?\Huh? what is wrong with you?\The name?\He said, Name\What was this?\What's that sound? response:	Rejected it!?
+context: Who is obsessed muscles?\Am I wrong?\Huh? what is wrong with you?\The name?\He said, Name\What was this?\What's that sound?\Rejected it!? response:	A-Could that be?
+context: Am I wrong?\Huh? what is wrong with you?\The name?\He said, Name\What was this?\What's that sound?\Rejected it!?\A-Could that be? response:	Telephone?
+context: Huh? what is wrong with you?\The name?\He said, Name\What was this?\What's that sound?\Rejected it!?\A-Could that be?\Telephone? response:	smart phone?
+context: The name?\He said, Name\What was this?\What's that sound?\Rejected it!?\A-Could that be?\Telephone?\smart phone? response:	E-A-T-P!?
+context: He said, Name\What was this?\What's that sound?\Rejected it!?\A-Could that be?\Telephone?\smart phone?\E-A-T-P!? response:	this thing!?
+context: What was this?\What's that sound?\Rejected it!?\A-Could that be?\Telephone?\smart phone?\E-A-T-P!?\this thing!? response:	Ymknny Lmsh?
+context: What's that sound?\Rejected it!?\A-Could that be?\Telephone?\smart phone?\E-A-T-P!?\this thing!?\Ymknny Lmsh? response:	But how do we do?
+context: Rejected it!?\A-Could that be?\Telephone?\smart phone?\E-A-T-P!?\this thing!?\Ymknny Lmsh?\But how do we do? response:	What have you done!?
+context: A-Could that be?\Telephone?\smart phone?\E-A-T-P!?\this thing!?\Ymknny Lmsh?\But how do we do?\What have you done!? response:	Arzogaoa-san
+context: Telephone?\smart phone?\E-A-T-P!?\this thing!?\Ymknny Lmsh?\But how do we do?\What have you done!?\Arzogaoa-san response:	Hey, what do you get?
+context: smart phone?\E-A-T-P!?\this thing!?\Ymknny Lmsh?\But how do we do?\What have you done!?\Arzogaoa-san\Hey, what do you get? response:	Let me...
+context: E-A-T-P!?\this thing!?\Ymknny Lmsh?\But how do we do?\What have you done!?\Arzogaoa-san\Hey, what do you get?\Let me... response:	If Ami accepted like you will become reality every aspirations, true?
+context: this thing!?\Ymknny Lmsh?\But how do we do?\What have you done!?\Arzogaoa-san\Hey, what do you get?\Let me...\If Ami accepted like you will become reality every aspirations, true? response:	Do thy Stsedkin Alseenba that were not in the world never commoner or Stsedkina I commoner!?
+context: Ymknny Lmsh?\But how do we do?\What have you done!?\Arzogaoa-san\Hey, what do you get?\Let me...\If Ami accepted like you will become reality every aspirations, true?\Do thy Stsedkin Alseenba that were not in the world never commoner or Stsedkina I commoner!? response:	Oh really?
+context: But how do we do?\What have you done!?\Arzogaoa-san\Hey, what do you get?\Let me...\If Ami accepted like you will become reality every aspirations, true?\Do thy Stsedkin Alseenba that were not in the world never commoner or Stsedkina I commoner!?\Oh really? response:	So?
+context: What have you done!?\Arzogaoa-san\Hey, what do you get?\Let me...\If Ami accepted like you will become reality every aspirations, true?\Do thy Stsedkin Alseenba that were not in the world never commoner or Stsedkina I commoner!?\Oh really?\So? response:	What speeches?
+context: Arzogaoa-san\Hey, what do you get?\Let me...\If Ami accepted like you will become reality every aspirations, true?\Do thy Stsedkin Alseenba that were not in the world never commoner or Stsedkina I commoner!?\Oh really?\So?\What speeches? response:	privet room?
+context: Hey, what do you get?\Let me...\If Ami accepted like you will become reality every aspirations, true?\Do thy Stsedkin Alseenba that were not in the world never commoner or Stsedkina I commoner!?\Oh really?\So?\What speeches?\privet room? response:	100 visits?
+context: Let me...\If Ami accepted like you will become reality every aspirations, true?\Do thy Stsedkin Alseenba that were not in the world never commoner or Stsedkina I commoner!?\Oh really?\So?\What speeches?\privet room?\100 visits? response:	A dirty room?
+context: If Ami accepted like you will become reality every aspirations, true?\Do thy Stsedkin Alseenba that were not in the world never commoner or Stsedkina I commoner!?\Oh really?\So?\What speeches?\privet room?\100 visits?\A dirty room? response:	I am not obsessed with muscle?
+context: Do thy Stsedkin Alseenba that were not in the world never commoner or Stsedkina I commoner!?\Oh really?\So?\What speeches?\privet room?\100 visits?\A dirty room?\I am not obsessed with muscle? response:	Tjmiatk of socks?
+context: Oh really?\So?\What speeches?\privet room?\100 visits?\A dirty room?\I am not obsessed with muscle?\Tjmiatk of socks? response:	Are not these images to the feet of girls?
+context: So?\What speeches?\privet room?\100 visits?\A dirty room?\I am not obsessed with muscle?\Tjmiatk of socks?\Are not these images to the feet of girls? response:	Do you lie about being obsessed with muscle?
+context: What speeches?\privet room?\100 visits?\A dirty room?\I am not obsessed with muscle?\Tjmiatk of socks?\Are not these images to the feet of girls?\Do you lie about being obsessed with muscle? response:	Huh?
+context: privet room?\100 visits?\A dirty room?\I am not obsessed with muscle?\Tjmiatk of socks?\Are not these images to the feet of girls?\Do you lie about being obsessed with muscle?\Huh? response:	Personal Khademta?
+context: 100 visits?\A dirty room?\I am not obsessed with muscle?\Tjmiatk of socks?\Are not these images to the feet of girls?\Do you lie about being obsessed with muscle?\Huh?\Personal Khademta? response:	So... you'll be Khademta
+context: A dirty room?\I am not obsessed with muscle?\Tjmiatk of socks?\Are not these images to the feet of girls?\Do you lie about being obsessed with muscle?\Huh?\Personal Khademta?\So... you'll be Khademta response:	You will not be doing anything?
+context: I am not obsessed with muscle?\Tjmiatk of socks?\Are not these images to the feet of girls?\Do you lie about being obsessed with muscle?\Huh?\Personal Khademta?\So... you'll be Khademta\You will not be doing anything? response:	In this room?
+context: Tjmiatk of socks?\Are not these images to the feet of girls?\Do you lie about being obsessed with muscle?\Huh?\Personal Khademta?\So... you'll be Khademta\You will not be doing anything?\In this room? response:	What?
+context: Are not these images to the feet of girls?\Do you lie about being obsessed with muscle?\Huh?\Personal Khademta?\So... you'll be Khademta\You will not be doing anything?\In this room?\What? response:	Do not tell me that this is your dream all the time?
+context: Do you lie about being obsessed with muscle?\Huh?\Personal Khademta?\So... you'll be Khademta\You will not be doing anything?\In this room?\What?\Do not tell me that this is your dream all the time? response:	Yes, do you have a problem?
+context: Huh?\Personal Khademta?\So... you'll be Khademta\You will not be doing anything?\In this room?\What?\Do not tell me that this is your dream all the time?\Yes, do you have a problem? response:	Oh really?
+context: Personal Khademta?\So... you'll be Khademta\You will not be doing anything?\In this room?\What?\Do not tell me that this is your dream all the time?\Yes, do you have a problem?\Oh really? response:	Well, do you want this experience?
+context: So... you'll be Khademta\You will not be doing anything?\In this room?\What?\Do not tell me that this is your dream all the time?\Yes, do you have a problem?\Oh really?\Well, do you want this experience? response:	Camera!?
+context: You will not be doing anything?\In this room?\What?\Do not tell me that this is your dream all the time?\Yes, do you have a problem?\Oh really?\Well, do you want this experience?\Camera!? response:	control unit
+context: In this room?\What?\Do not tell me that this is your dream all the time?\Yes, do you have a problem?\Oh really?\Well, do you want this experience?\Camera!?\control unit response:	control unit?
+context: What?\Do not tell me that this is your dream all the time?\Yes, do you have a problem?\Oh really?\Well, do you want this experience?\Camera!?\control unit\control unit? response:	shghlyha vhsb
+context: Do not tell me that this is your dream all the time?\Yes, do you have a problem?\Oh really?\Well, do you want this experience?\Camera!?\control unit\control unit?\shghlyha vhsb response:	Surprised!?
+context: Yes, do you have a problem?\Oh really?\Well, do you want this experience?\Camera!?\control unit\control unit?\shghlyha vhsb\Surprised!? response:	Yup?
+context: Oh really?\Well, do you want this experience?\Camera!?\control unit\control unit?\shghlyha vhsb\Surprised!?\Yup? response:	What?
+context: Well, do you want this experience?\Camera!?\control unit\control unit?\shghlyha vhsb\Surprised!?\Yup?\What? response:	Slang?
+context: Camera!?\control unit\control unit?\shghlyha vhsb\Surprised!?\Yup?\What?\Slang? response:	It sounds good, right?
+context: control unit\control unit?\shghlyha vhsb\Surprised!?\Yup?\What?\Slang?\It sounds good, right? response:	Do you want to question our common man any question?
+context: control unit?\shghlyha vhsb\Surprised!?\Yup?\What?\Slang?\It sounds good, right?\Do you want to question our common man any question? response:	Have you used the methods of spending previously?
+context: shghlyha vhsb\Surprised!?\Yup?\What?\Slang?\It sounds good, right?\Do you want to question our common man any question?\Have you used the methods of spending previously? response:	This card crossing
+context: Surprised!?\Yup?\What?\Slang?\It sounds good, right?\Do you want to question our common man any question?\Have you used the methods of spending previously?\This card crossing response:	Clothes inside?
+context: Yup?\What?\Slang?\It sounds good, right?\Do you want to question our common man any question?\Have you used the methods of spending previously?\This card crossing\Clothes inside? response:	Rico-sama yearns to us
+context: What?\Slang?\It sounds good, right?\Do you want to question our common man any question?\Have you used the methods of spending previously?\This card crossing\Clothes inside?\Rico-sama yearns to us response:	Rico-sama yearns to us
+context: Slang?\It sounds good, right?\Do you want to question our common man any question?\Have you used the methods of spending previously?\This card crossing\Clothes inside?\Rico-sama yearns to us\Rico-sama yearns to us response:	Rico-sama yearns to us
+context: It sounds good, right?\Do you want to question our common man any question?\Have you used the methods of spending previously?\This card crossing\Clothes inside?\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us response:	Rico-sama yearns to us
+context: Do you want to question our common man any question?\Have you used the methods of spending previously?\This card crossing\Clothes inside?\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us response:	Rico-sama yearns to us
+context: Have you used the methods of spending previously?\This card crossing\Clothes inside?\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us response:	Rico-sama yearns to us
+context: This card crossing\Clothes inside?\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us response:	Rico-sama yearns to us
+context: Clothes inside?\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us response:	Rico-sama yearns to us
+context: Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us response:	Rico-sama yearns to us
+context: Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us response:	Rico-sama yearns to us
+context: Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us response:	Rico-sama yearns to us
+context: Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us response:	Rico-sama yearns to us
+context: Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us response:	Rico-sama yearns to us
+context: Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us response:	Rico-sama yearns to us
+context: Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us response:	Translation of Vergil vergil-sub.blogspot.com
+context: Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Rico-sama yearns to us\Translation of Vergil vergil-sub.blogspot.com response:	Translation of Vergil vergil-sub.blogspot.com

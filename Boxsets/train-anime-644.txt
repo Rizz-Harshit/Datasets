@@ -1,0 +1,265 @@
+context: Hilda. response:	Hilda.
+context: Hilda.\Hilda. response:	Oh, dear. You're here again?
+context: Hilda.\Hilda.\Oh, dear. You're here again? response:	You sure do like it there.
+context: Hilda.\Hilda.\Oh, dear. You're here again?\You sure do like it there. response:	Yep.
+context: Hilda.\Hilda.\Oh, dear. You're here again?\You sure do like it there.\Yep. response:	The apple pie's ready.
+context: Hilda.\Hilda.\Oh, dear. You're here again?\You sure do like it there.\Yep.\The apple pie's ready. response:	Really?
+context: Hilda.\Hilda.\Oh, dear. You're here again?\You sure do like it there.\Yep.\The apple pie's ready.\Really? response:	Yay!
+context: Hilda.\Hilda.\Oh, dear. You're here again?\You sure do like it there.\Yep.\The apple pie's ready.\Really?\Yay! response:	Eat up.
+context: Hilda.\Oh, dear. You're here again?\You sure do like it there.\Yep.\The apple pie's ready.\Really?\Yay!\Eat up. response:	I love, love, love your apple pie.
+context: Oh, dear. You're here again?\You sure do like it there.\Yep.\The apple pie's ready.\Really?\Yay!\Eat up.\I love, love, love your apple pie. response:	Time to eat.
+context: You sure do like it there.\Yep.\The apple pie's ready.\Really?\Yay!\Eat up.\I love, love, love your apple pie.\Time to eat. response:	Hilda.
+context: Yep.\The apple pie's ready.\Really?\Yay!\Eat up.\I love, love, love your apple pie.\Time to eat.\Hilda. response:	Hilda!
+context: The apple pie's ready.\Really?\Yay!\Eat up.\I love, love, love your apple pie.\Time to eat.\Hilda.\Hilda! response:	Mom.
+context: Really?\Yay!\Eat up.\I love, love, love your apple pie.\Time to eat.\Hilda.\Hilda!\Mom. response:	Mom!
+context: Yay!\Eat up.\I love, love, love your apple pie.\Time to eat.\Hilda.\Hilda!\Mom.\Mom! response:	Please! Spare her!
+context: Eat up.\I love, love, love your apple pie.\Time to eat.\Hilda.\Hilda!\Mom.\Mom!\Please! Spare her! response:	Spare her!
+context: I love, love, love your apple pie.\Time to eat.\Hilda.\Hilda!\Mom.\Mom!\Please! Spare her!\Spare her! response:	She may be a Norma, but she's still my child!
+context: Time to eat.\Hilda.\Hilda!\Mom.\Mom!\Please! Spare her!\Spare her!\She may be a Norma, but she's still my child! response:	She's my precious daughter!
+context: Hilda.\Hilda!\Mom.\Mom!\Please! Spare her!\Spare her!\She may be a Norma, but she's still my child!\She's my precious daughter! response:	Mom.
+context: Hilda!\Mom.\Mom!\Please! Spare her!\Spare her!\She may be a Norma, but she's still my child!\She's my precious daughter!\Mom. response:	Mom!
+context: Mom.\Mom!\Please! Spare her!\Spare her!\She may be a Norma, but she's still my child!\She's my precious daughter!\Mom.\Mom! response:	Hilda! Give her back!
+context: Mom!\Please! Spare her!\Spare her!\She may be a Norma, but she's still my child!\She's my precious daughter!\Mom.\Mom!\Hilda! Give her back! response:	Give back my daughter!
+context: Please! Spare her!\Spare her!\She may be a Norma, but she's still my child!\She's my precious daughter!\Mom.\Mom!\Hilda! Give her back!\Give back my daughter! response:	Mom!
+context: Spare her!\She may be a Norma, but she's still my child!\She's my precious daughter!\Mom.\Mom!\Hilda! Give her back!\Give back my daughter!\Mom! response:	Hilda.
+context: She may be a Norma, but she's still my child!\She's my precious daughter!\Mom.\Mom!\Hilda! Give her back!\Give back my daughter!\Mom!\Hilda. response:	Hilda!
+context: She's my precious daughter!\Mom.\Mom!\Hilda! Give her back!\Give back my daughter!\Mom!\Hilda.\Hilda! response:	What the?
+context: Mom.\Mom!\Hilda! Give her back!\Give back my daughter!\Mom!\Hilda.\Hilda!\What the? response:	The Hometown of Betrayal
+context: Mom!\Hilda! Give her back!\Give back my daughter!\Mom!\Hilda.\Hilda!\What the?\The Hometown of Betrayal response:	Forgive me, Angelise-sama, I
+context: Hilda! Give her back!\Give back my daughter!\Mom!\Hilda.\Hilda!\What the?\The Hometown of Betrayal\Forgive me, Angelise-sama, I response:	Get some rest.
+context: Give back my daughter!\Mom!\Hilda.\Hilda!\What the?\The Hometown of Betrayal\Forgive me, Angelise-sama, I\Get some rest. response:	We move at night.
+context: Mom!\Hilda.\Hilda!\What the?\The Hometown of Betrayal\Forgive me, Angelise-sama, I\Get some rest.\We move at night. response:	Okay.
+context: Hilda.\Hilda!\What the?\The Hometown of Betrayal\Forgive me, Angelise-sama, I\Get some rest.\We move at night.\Okay. response:	I wonder if Hilda...
+context: Hilda!\What the?\The Hometown of Betrayal\Forgive me, Angelise-sama, I\Get some rest.\We move at night.\Okay.\I wonder if Hilda... response:	Hilda!
+context: What the?\The Hometown of Betrayal\Forgive me, Angelise-sama, I\Get some rest.\We move at night.\Okay.\I wonder if Hilda...\Hilda! response:	Give her back!
+context: The Hometown of Betrayal\Forgive me, Angelise-sama, I\Get some rest.\We move at night.\Okay.\I wonder if Hilda...\Hilda!\Give her back! response:	Give back my daughter!
+context: Forgive me, Angelise-sama, I\Get some rest.\We move at night.\Okay.\I wonder if Hilda...\Hilda!\Give her back!\Give back my daughter! response:	Mom.
+context: Get some rest.\We move at night.\Okay.\I wonder if Hilda...\Hilda!\Give her back!\Give back my daughter!\Mom. response:	Open.
+context: We move at night.\Okay.\I wonder if Hilda...\Hilda!\Give her back!\Give back my daughter!\Mom.\Open. response:	Who's there?
+context: Okay.\I wonder if Hilda...\Hilda!\Give her back!\Give back my daughter!\Mom.\Open.\Who's there? response:	Reika? Maki?
+context: I wonder if Hilda...\Hilda!\Give her back!\Give back my daughter!\Mom.\Open.\Who's there?\Reika? Maki? response:	Akiho.
+context: Hilda!\Give her back!\Give back my daughter!\Mom.\Open.\Who's there?\Reika? Maki?\Akiho. response:	It's been a while, Akiho.
+context: Give her back!\Give back my daughter!\Mom.\Open.\Who's there?\Reika? Maki?\Akiho.\It's been a while, Akiho. response:	Angelise-sama...
+context: Give back my daughter!\Mom.\Open.\Who's there?\Reika? Maki?\Akiho.\It's been a while, Akiho.\Angelise-sama... response:	You're still here doing maintenance?
+context: Mom.\Open.\Who's there?\Reika? Maki?\Akiho.\It's been a while, Akiho.\Angelise-sama...\You're still here doing maintenance? response:	You're as diligent as ever.
+context: Open.\Who's there?\Reika? Maki?\Akiho.\It's been a while, Akiho.\Angelise-sama...\You're still here doing maintenance?\You're as diligent as ever. response:	Yes.
+context: Who's there?\Reika? Maki?\Akiho.\It's been a while, Akiho.\Angelise-sama...\You're still here doing maintenance?\You're as diligent as ever.\Yes. response:	You c-cut your hair.
+context: Reika? Maki?\Akiho.\It's been a while, Akiho.\Angelise-sama...\You're still here doing maintenance?\You're as diligent as ever.\Yes.\You c-cut your hair. response:	It looks good
+context: Akiho.\It's been a while, Akiho.\Angelise-sama...\You're still here doing maintenance?\You're as diligent as ever.\Yes.\You c-cut your hair.\It looks good response:	Forgive me!
+context: It's been a while, Akiho.\Angelise-sama...\You're still here doing maintenance?\You're as diligent as ever.\Yes.\You c-cut your hair.\It looks good\Forgive me! response:	Help me!
+context: Angelise-sama...\You're still here doing maintenance?\You're as diligent as ever.\Yes.\You c-cut your hair.\It looks good\Forgive me!\Help me! response:	Akiho.
+context: You're still here doing maintenance?\You're as diligent as ever.\Yes.\You c-cut your hair.\It looks good\Forgive me!\Help me!\Akiho. response:	Did you think I was going to hurt you?
+context: You're as diligent as ever.\Yes.\You c-cut your hair.\It looks good\Forgive me!\Help me!\Akiho.\Did you think I was going to hurt you? response:	No...
+context: Yes.\You c-cut your hair.\It looks good\Forgive me!\Help me!\Akiho.\Did you think I was going to hurt you?\No... response:	You believe it, too?
+context: You c-cut your hair.\It looks good\Forgive me!\Help me!\Akiho.\Did you think I was going to hurt you?\No...\You believe it, too? response:	That Normas are violent, antisocial monsters.
+context: It looks good\Forgive me!\Help me!\Akiho.\Did you think I was going to hurt you?\No...\You believe it, too?\That Normas are violent, antisocial monsters. response:	No!
+context: Forgive me!\Help me!\Akiho.\Did you think I was going to hurt you?\No...\You believe it, too?\That Normas are violent, antisocial monsters.\No! response:	I may be a Norma, but I'm still me.
+context: Help me!\Akiho.\Did you think I was going to hurt you?\No...\You believe it, too?\That Normas are violent, antisocial monsters.\No!\I may be a Norma, but I'm still me. response:	Nothing's changed.
+context: Akiho.\Did you think I was going to hurt you?\No...\You believe it, too?\That Normas are violent, antisocial monsters.\No!\I may be a Norma, but I'm still me.\Nothing's changed. response:	I don't intend to harm you.
+context: Did you think I was going to hurt you?\No...\You believe it, too?\That Normas are violent, antisocial monsters.\No!\I may be a Norma, but I'm still me.\Nothing's changed.\I don't intend to harm you. response:	Akiho.
+context: No...\You believe it, too?\That Normas are violent, antisocial monsters.\No!\I may be a Norma, but I'm still me.\Nothing's changed.\I don't intend to harm you.\Akiho. response:	You're my friend.
+context: You believe it, too?\That Normas are violent, antisocial monsters.\No!\I may be a Norma, but I'm still me.\Nothing's changed.\I don't intend to harm you.\Akiho.\You're my friend. response:	Friend?
+context: That Normas are violent, antisocial monsters.\No!\I may be a Norma, but I'm still me.\Nothing's changed.\I don't intend to harm you.\Akiho.\You're my friend.\Friend? response:	O-Of course.
+context: No!\I may be a Norma, but I'm still me.\Nothing's changed.\I don't intend to harm you.\Akiho.\You're my friend.\Friend?\O-Of course. response:	W-We're friends.
+context: I may be a Norma, but I'm still me.\Nothing's changed.\I don't intend to harm you.\Akiho.\You're my friend.\Friend?\O-Of course.\W-We're friends. response:	Akiho.
+context: Nothing's changed.\I don't intend to harm you.\Akiho.\You're my friend.\Friend?\O-Of course.\W-We're friends.\Akiho. response:	I have a request.
+context: I don't intend to harm you.\Akiho.\You're my friend.\Friend?\O-Of course.\W-We're friends.\Akiho.\I have a request. response:	Y-Yes?
+context: Akiho.\You're my friend.\Friend?\O-Of course.\W-We're friends.\Akiho.\I have a request.\Y-Yes? response:	Don't tell anyone that I'm here.
+context: You're my friend.\Friend?\O-Of course.\W-We're friends.\Akiho.\I have a request.\Y-Yes?\Don't tell anyone that I'm here. response:	O-Of course.
+context: Friend?\O-Of course.\W-We're friends.\Akiho.\I have a request.\Y-Yes?\Don't tell anyone that I'm here.\O-Of course. response:	I won't tell anyone.
+context: O-Of course.\W-We're friends.\Akiho.\I have a request.\Y-Yes?\Don't tell anyone that I'm here.\O-Of course.\I won't tell anyone. response:	I promise.
+context: W-We're friends.\Akiho.\I have a request.\Y-Yes?\Don't tell anyone that I'm here.\O-Of course.\I won't tell anyone.\I promise. response:	So, can we leave right away?
+context: Akiho.\I have a request.\Y-Yes?\Don't tell anyone that I'm here.\O-Of course.\I won't tell anyone.\I promise.\So, can we leave right away? response:	Yes, we can.
+context: I have a request.\Y-Yes?\Don't tell anyone that I'm here.\O-Of course.\I won't tell anyone.\I promise.\So, can we leave right away?\Yes, we can. response:	I thought so.
+context: Y-Yes?\Don't tell anyone that I'm here.\O-Of course.\I won't tell anyone.\I promise.\So, can we leave right away?\Yes, we can.\I thought so. response:	You're like them, too.
+context: Don't tell anyone that I'm here.\O-Of course.\I won't tell anyone.\I promise.\So, can we leave right away?\Yes, we can.\I thought so.\You're like them, too. response:	Don't come near, you monster!
+context: O-Of course.\I won't tell anyone.\I promise.\So, can we leave right away?\Yes, we can.\I thought so.\You're like them, too.\Don't come near, you monster! response:	Let's go to the imperial palace.
+context: I won't tell anyone.\I promise.\So, can we leave right away?\Yes, we can.\I thought so.\You're like them, too.\Don't come near, you monster!\Let's go to the imperial palace. response:	Right!
+context: I promise.\So, can we leave right away?\Yes, we can.\I thought so.\You're like them, too.\Don't come near, you monster!\Let's go to the imperial palace.\Right! response:	Angelise-sama.
+context: So, can we leave right away?\Yes, we can.\I thought so.\You're like them, too.\Don't come near, you monster!\Let's go to the imperial palace.\Right!\Angelise-sama. response:	It's fine. I knew.
+context: Yes, we can.\I thought so.\You're like them, too.\Don't come near, you monster!\Let's go to the imperial palace.\Right!\Angelise-sama.\It's fine. I knew. response:	Thanks, Momoka.
+context: I thought so.\You're like them, too.\Don't come near, you monster!\Let's go to the imperial palace.\Right!\Angelise-sama.\It's fine. I knew.\Thanks, Momoka. response:	You're... you.
+context: You're like them, too.\Don't come near, you monster!\Let's go to the imperial palace.\Right!\Angelise-sama.\It's fine. I knew.\Thanks, Momoka.\You're... you. response:	Angelise-sama.
+context: Don't come near, you monster!\Let's go to the imperial palace.\Right!\Angelise-sama.\It's fine. I knew.\Thanks, Momoka.\You're... you.\Angelise-sama. response:	Sylvia.
+context: Let's go to the imperial palace.\Right!\Angelise-sama.\It's fine. I knew.\Thanks, Momoka.\You're... you.\Angelise-sama.\Sylvia. response:	Mom.
+context: Right!\Angelise-sama.\It's fine. I knew.\Thanks, Momoka.\You're... you.\Angelise-sama.\Sylvia.\Mom. response:	Mom.
+context: Angelise-sama.\It's fine. I knew.\Thanks, Momoka.\You're... you.\Angelise-sama.\Sylvia.\Mom.\Mom. response:	Who's there?
+context: It's fine. I knew.\Thanks, Momoka.\You're... you.\Angelise-sama.\Sylvia.\Mom.\Mom.\Who's there? response:	Who might you be?
+context: Thanks, Momoka.\You're... you.\Angelise-sama.\Sylvia.\Mom.\Mom.\Who's there?\Who might you be? response:	M-Mom.
+context: You're... you.\Angelise-sama.\Sylvia.\Mom.\Mom.\Who's there?\Who might you be?\M-Mom. response:	I, I
+context: Angelise-sama.\Sylvia.\Mom.\Mom.\Who's there?\Who might you be?\M-Mom.\I, I response:	Ah, a friend of my daughter's.
+context: Sylvia.\Mom.\Mom.\Who's there?\Who might you be?\M-Mom.\I, I\Ah, a friend of my daughter's. response:	No.
+context: Mom.\Mom.\Who's there?\Who might you be?\M-Mom.\I, I\Ah, a friend of my daughter's.\No. response:	I-I
+context: Mom.\Who's there?\Who might you be?\M-Mom.\I, I\Ah, a friend of my daughter's.\No.\I-I response:	Make yourself at home.
+context: Who's there?\Who might you be?\M-Mom.\I, I\Ah, a friend of my daughter's.\No.\I-I\Make yourself at home. response:	She'll be home soon.
+context: Who might you be?\M-Mom.\I, I\Ah, a friend of my daughter's.\No.\I-I\Make yourself at home.\She'll be home soon. response:	Oh, right, my apple pie will be ready soon.
+context: M-Mom.\I, I\Ah, a friend of my daughter's.\No.\I-I\Make yourself at home.\She'll be home soon.\Oh, right, my apple pie will be ready soon. response:	It's her favorite.
+context: I, I\Ah, a friend of my daughter's.\No.\I-I\Make yourself at home.\She'll be home soon.\Oh, right, my apple pie will be ready soon.\It's her favorite. response:	Apple pie.
+context: Ah, a friend of my daughter's.\No.\I-I\Make yourself at home.\She'll be home soon.\Oh, right, my apple pie will be ready soon.\It's her favorite.\Apple pie. response:	Mom.
+context: No.\I-I\Make yourself at home.\She'll be home soon.\Oh, right, my apple pie will be ready soon.\It's her favorite.\Apple pie.\Mom. response:	I'm really home.
+context: I-I\Make yourself at home.\She'll be home soon.\Oh, right, my apple pie will be ready soon.\It's her favorite.\Apple pie.\Mom.\I'm really home. response:	Let's go, Angelise-sama.
+context: Make yourself at home.\She'll be home soon.\Oh, right, my apple pie will be ready soon.\It's her favorite.\Apple pie.\Mom.\I'm really home.\Let's go, Angelise-sama. response:	The Dawn Pillar...
+context: She'll be home soon.\Oh, right, my apple pie will be ready soon.\It's her favorite.\Apple pie.\Mom.\I'm really home.\Let's go, Angelise-sama.\The Dawn Pillar... response:	Left.
+context: Oh, right, my apple pie will be ready soon.\It's her favorite.\Apple pie.\Mom.\I'm really home.\Let's go, Angelise-sama.\The Dawn Pillar...\Left. response:	Okay.
+context: It's her favorite.\Apple pie.\Mom.\I'm really home.\Let's go, Angelise-sama.\The Dawn Pillar...\Left.\Okay. response:	Um, really?
+context: Apple pie.\Mom.\I'm really home.\Let's go, Angelise-sama.\The Dawn Pillar...\Left.\Okay.\Um, really? response:	We're getting further from the palace.
+context: Mom.\I'm really home.\Let's go, Angelise-sama.\The Dawn Pillar...\Left.\Okay.\Um, really?\We're getting further from the palace. response:	Don't worry.
+context: I'm really home.\Let's go, Angelise-sama.\The Dawn Pillar...\Left.\Okay.\Um, really?\We're getting further from the palace.\Don't worry. response:	An ambush?
+context: Let's go, Angelise-sama.\The Dawn Pillar...\Left.\Okay.\Um, really?\We're getting further from the palace.\Don't worry.\An ambush? response:	Wh-What shall we do?
+context: The Dawn Pillar...\Left.\Okay.\Um, really?\We're getting further from the palace.\Don't worry.\An ambush?\Wh-What shall we do? response:	What else?
+context: Left.\Okay.\Um, really?\We're getting further from the palace.\Don't worry.\An ambush?\Wh-What shall we do?\What else? response:	Go right through it.
+context: Okay.\Um, really?\We're getting further from the palace.\Don't worry.\An ambush?\Wh-What shall we do?\What else?\Go right through it. response:	Thank you for the report.
+context: Um, really?\We're getting further from the palace.\Don't worry.\An ambush?\Wh-What shall we do?\What else?\Go right through it.\Thank you for the report. response:	Please catch them.
+context: We're getting further from the palace.\Don't worry.\An ambush?\Wh-What shall we do?\What else?\Go right through it.\Thank you for the report.\Please catch them. response:	Otherwise, I don't know what she'll do to me.
+context: Don't worry.\An ambush?\Wh-What shall we do?\What else?\Go right through it.\Thank you for the report.\Please catch them.\Otherwise, I don't know what she'll do to me. response:	Don't worry.
+context: An ambush?\Wh-What shall we do?\What else?\Go right through it.\Thank you for the report.\Please catch them.\Otherwise, I don't know what she'll do to me.\Don't worry. response:	There's nowhere for a Norma to run.
+context: Wh-What shall we do?\What else?\Go right through it.\Thank you for the report.\Please catch them.\Otherwise, I don't know what she'll do to me.\Don't worry.\There's nowhere for a Norma to run. response:	I knew this would happen.
+context: What else?\Go right through it.\Thank you for the report.\Please catch them.\Otherwise, I don't know what she'll do to me.\Don't worry.\There's nowhere for a Norma to run.\I knew this would happen. response:	Does she have no concept of stealth... or infiltration, or modesty?
+context: Go right through it.\Thank you for the report.\Please catch them.\Otherwise, I don't know what she'll do to me.\Don't worry.\There's nowhere for a Norma to run.\I knew this would happen.\Does she have no concept of stealth... or infiltration, or modesty? response:	I guess not.
+context: Thank you for the report.\Please catch them.\Otherwise, I don't know what she'll do to me.\Don't worry.\There's nowhere for a Norma to run.\I knew this would happen.\Does she have no concept of stealth... or infiltration, or modesty?\I guess not. response:	Well, that's definitely like Ange.
+context: Please catch them.\Otherwise, I don't know what she'll do to me.\Don't worry.\There's nowhere for a Norma to run.\I knew this would happen.\Does she have no concept of stealth... or infiltration, or modesty?\I guess not.\Well, that's definitely like Ange. response:	A restraint barrier?
+context: Otherwise, I don't know what she'll do to me.\Don't worry.\There's nowhere for a Norma to run.\I knew this would happen.\Does she have no concept of stealth... or infiltration, or modesty?\I guess not.\Well, that's definitely like Ange.\A restraint barrier? response:	Momoka.
+context: Don't worry.\There's nowhere for a Norma to run.\I knew this would happen.\Does she have no concept of stealth... or infiltration, or modesty?\I guess not.\Well, that's definitely like Ange.\A restraint barrier?\Momoka. response:	Dammit.
+context: There's nowhere for a Norma to run.\I knew this would happen.\Does she have no concept of stealth... or infiltration, or modesty?\I guess not.\Well, that's definitely like Ange.\A restraint barrier?\Momoka.\Dammit. response:	Angelise-sama.
+context: I knew this would happen.\Does she have no concept of stealth... or infiltration, or modesty?\I guess not.\Well, that's definitely like Ange.\A restraint barrier?\Momoka.\Dammit.\Angelise-sama. response:	Momoka, get me a clip.
+context: Does she have no concept of stealth... or infiltration, or modesty?\I guess not.\Well, that's definitely like Ange.\A restraint barrier?\Momoka.\Dammit.\Angelise-sama.\Momoka, get me a clip. response:	Okay.
+context: I guess not.\Well, that's definitely like Ange.\A restraint barrier?\Momoka.\Dammit.\Angelise-sama.\Momoka, get me a clip.\Okay. response:	Forget using Mana, use a net gun.
+context: Well, that's definitely like Ange.\A restraint barrier?\Momoka.\Dammit.\Angelise-sama.\Momoka, get me a clip.\Okay.\Forget using Mana, use a net gun. response:	Momoka.
+context: A restraint barrier?\Momoka.\Dammit.\Angelise-sama.\Momoka, get me a clip.\Okay.\Forget using Mana, use a net gun.\Momoka. response:	Okay.
+context: Momoka.\Dammit.\Angelise-sama.\Momoka, get me a clip.\Okay.\Forget using Mana, use a net gun.\Momoka.\Okay. response:	Fire!
+context: Dammit.\Angelise-sama.\Momoka, get me a clip.\Okay.\Forget using Mana, use a net gun.\Momoka.\Okay.\Fire! response:	Over there.
+context: Angelise-sama.\Momoka, get me a clip.\Okay.\Forget using Mana, use a net gun.\Momoka.\Okay.\Fire!\Over there. response:	Charge!
+context: Momoka, get me a clip.\Okay.\Forget using Mana, use a net gun.\Momoka.\Okay.\Fire!\Over there.\Charge! response:	O-Okay.
+context: Okay.\Forget using Mana, use a net gun.\Momoka.\Okay.\Fire!\Over there.\Charge!\O-Okay. response:	Now we just follow the road.
+context: Forget using Mana, use a net gun.\Momoka.\Okay.\Fire!\Over there.\Charge!\O-Okay.\Now we just follow the road. response:	It'll take us to the front of the palace.
+context: Momoka.\Okay.\Fire!\Over there.\Charge!\O-Okay.\Now we just follow the road.\It'll take us to the front of the palace. response:	I never knew of this secret passage.
+context: Okay.\Fire!\Over there.\Charge!\O-Okay.\Now we just follow the road.\It'll take us to the front of the palace.\I never knew of this secret passage. response:	Only royalty know of it.
+context: Fire!\Over there.\Charge!\O-Okay.\Now we just follow the road.\It'll take us to the front of the palace.\I never knew of this secret passage.\Only royalty know of it. response:	I used to use it to sneak out at night.
+context: Over there.\Charge!\O-Okay.\Now we just follow the road.\It'll take us to the front of the palace.\I never knew of this secret passage.\Only royalty know of it.\I used to use it to sneak out at night. response:	Really?
+context: Charge!\O-Okay.\Now we just follow the road.\It'll take us to the front of the palace.\I never knew of this secret passage.\Only royalty know of it.\I used to use it to sneak out at night.\Really? response:	I never heard about it.
+context: O-Okay.\Now we just follow the road.\It'll take us to the front of the palace.\I never knew of this secret passage.\Only royalty know of it.\I used to use it to sneak out at night.\Really?\I never heard about it. response:	Her tactics, eh?
+context: Now we just follow the road.\It'll take us to the front of the palace.\I never knew of this secret passage.\Only royalty know of it.\I used to use it to sneak out at night.\Really?\I never heard about it.\Her tactics, eh? response:	Predictable indeed.
+context: It'll take us to the front of the palace.\I never knew of this secret passage.\Only royalty know of it.\I used to use it to sneak out at night.\Really?\I never heard about it.\Her tactics, eh?\Predictable indeed. response:	The palace.
+context: I never knew of this secret passage.\Only royalty know of it.\I used to use it to sneak out at night.\Really?\I never heard about it.\Her tactics, eh?\Predictable indeed.\The palace. response:	What the
+context: Only royalty know of it.\I used to use it to sneak out at night.\Really?\I never heard about it.\Her tactics, eh?\Predictable indeed.\The palace.\What the response:	Onee-sama.
+context: I used to use it to sneak out at night.\Really?\I never heard about it.\Her tactics, eh?\Predictable indeed.\The palace.\What the\Onee-sama. response:	Onee-sama!
+context: Really?\I never heard about it.\Her tactics, eh?\Predictable indeed.\The palace.\What the\Onee-sama.\Onee-sama! response:	Angelise-oneesama.
+context: I never heard about it.\Her tactics, eh?\Predictable indeed.\The palace.\What the\Onee-sama.\Onee-sama!\Angelise-oneesama. response:	Help me.
+context: Her tactics, eh?\Predictable indeed.\The palace.\What the\Onee-sama.\Onee-sama!\Angelise-oneesama.\Help me. response:	Onee-sama.
+context: Predictable indeed.\The palace.\What the\Onee-sama.\Onee-sama!\Angelise-oneesama.\Help me.\Onee-sama. response:	Sylvia.
+context: The palace.\What the\Onee-sama.\Onee-sama!\Angelise-oneesama.\Help me.\Onee-sama.\Sylvia. response:	Let Sylvia go!
+context: What the\Onee-sama.\Onee-sama!\Angelise-oneesama.\Help me.\Onee-sama.\Sylvia.\Let Sylvia go! response:	She wouldn't recognize me.
+context: Onee-sama.\Onee-sama!\Angelise-oneesama.\Help me.\Onee-sama.\Sylvia.\Let Sylvia go!\She wouldn't recognize me. response:	I've grown up so much.
+context: Onee-sama!\Angelise-oneesama.\Help me.\Onee-sama.\Sylvia.\Let Sylvia go!\She wouldn't recognize me.\I've grown up so much. response:	Sorry to keep you waiting.
+context: Angelise-oneesama.\Help me.\Onee-sama.\Sylvia.\Let Sylvia go!\She wouldn't recognize me.\I've grown up so much.\Sorry to keep you waiting. response:	Eat up.
+context: Help me.\Onee-sama.\Sylvia.\Let Sylvia go!\She wouldn't recognize me.\I've grown up so much.\Sorry to keep you waiting.\Eat up. response:	Be careful, it's still hot.
+context: Onee-sama.\Sylvia.\Let Sylvia go!\She wouldn't recognize me.\I've grown up so much.\Sorry to keep you waiting.\Eat up.\Be careful, it's still hot. response:	Okay.
+context: Sylvia.\Let Sylvia go!\She wouldn't recognize me.\I've grown up so much.\Sorry to keep you waiting.\Eat up.\Be careful, it's still hot.\Okay. response:	Um, I... I'm...
+context: Let Sylvia go!\She wouldn't recognize me.\I've grown up so much.\Sorry to keep you waiting.\Eat up.\Be careful, it's still hot.\Okay.\Um, I... I'm... response:	Hilda.
+context: She wouldn't recognize me.\I've grown up so much.\Sorry to keep you waiting.\Eat up.\Be careful, it's still hot.\Okay.\Um, I... I'm...\Hilda. response:	I'm home, Mom.
+context: I've grown up so much.\Sorry to keep you waiting.\Eat up.\Be careful, it's still hot.\Okay.\Um, I... I'm...\Hilda.\I'm home, Mom. response:	School finished early, did it, Hilda?
+context: Sorry to keep you waiting.\Eat up.\Be careful, it's still hot.\Okay.\Um, I... I'm...\Hilda.\I'm home, Mom.\School finished early, did it, Hilda? response:	Happy birthday, Mom.
+context: Eat up.\Be careful, it's still hot.\Okay.\Um, I... I'm...\Hilda.\I'm home, Mom.\School finished early, did it, Hilda?\Happy birthday, Mom. response:	You remembered?
+context: Be careful, it's still hot.\Okay.\Um, I... I'm...\Hilda.\I'm home, Mom.\School finished early, did it, Hilda?\Happy birthday, Mom.\You remembered? response:	Of course.
+context: Okay.\Um, I... I'm...\Hilda.\I'm home, Mom.\School finished early, did it, Hilda?\Happy birthday, Mom.\You remembered?\Of course. response:	We're family.
+context: Um, I... I'm...\Hilda.\I'm home, Mom.\School finished early, did it, Hilda?\Happy birthday, Mom.\You remembered?\Of course.\We're family. response:	Apple pie.
+context: Hilda.\I'm home, Mom.\School finished early, did it, Hilda?\Happy birthday, Mom.\You remembered?\Of course.\We're family.\Apple pie. response:	Can I have some?
+context: I'm home, Mom.\School finished early, did it, Hilda?\Happy birthday, Mom.\You remembered?\Of course.\We're family.\Apple pie.\Can I have some? response:	Wash your hands first.
+context: School finished early, did it, Hilda?\Happy birthday, Mom.\You remembered?\Of course.\We're family.\Apple pie.\Can I have some?\Wash your hands first. response:	Your friend's going to laugh at you.
+context: Happy birthday, Mom.\You remembered?\Of course.\We're family.\Apple pie.\Can I have some?\Wash your hands first.\Your friend's going to laugh at you. response:	Fine, fine.
+context: You remembered?\Of course.\We're family.\Apple pie.\Can I have some?\Wash your hands first.\Your friend's going to laugh at you.\Fine, fine. response:	Hey, Mom.
+context: Of course.\We're family.\Apple pie.\Can I have some?\Wash your hands first.\Your friend's going to laugh at you.\Fine, fine.\Hey, Mom. response:	Who is she?
+context: We're family.\Apple pie.\Can I have some?\Wash your hands first.\Your friend's going to laugh at you.\Fine, fine.\Hey, Mom.\Who is she? response:	Isn't she one of your friends?
+context: Apple pie.\Can I have some?\Wash your hands first.\Your friend's going to laugh at you.\Fine, fine.\Hey, Mom.\Who is she?\Isn't she one of your friends? response:	Why?
+context: Can I have some?\Wash your hands first.\Your friend's going to laugh at you.\Fine, fine.\Hey, Mom.\Who is she?\Isn't she one of your friends?\Why? response:	Why... Why is she Hilda?
+context: Wash your hands first.\Your friend's going to laugh at you.\Fine, fine.\Hey, Mom.\Who is she?\Isn't she one of your friends?\Why?\Why... Why is she Hilda? response:	I'm Hilda.
+context: Your friend's going to laugh at you.\Fine, fine.\Hey, Mom.\Who is she?\Isn't she one of your friends?\Why?\Why... Why is she Hilda?\I'm Hilda. response:	I'm Hilda.
+context: Fine, fine.\Hey, Mom.\Who is she?\Isn't she one of your friends?\Why?\Why... Why is she Hilda?\I'm Hilda.\I'm Hilda. response:	Hildegard Schlievogt.
+context: Hey, Mom.\Who is she?\Isn't she one of your friends?\Why?\Why... Why is she Hilda?\I'm Hilda.\I'm Hilda.\Hildegard Schlievogt. response:	We were separated eleven years ago.
+context: Who is she?\Isn't she one of your friends?\Why?\Why... Why is she Hilda?\I'm Hilda.\I'm Hilda.\Hildegard Schlievogt.\We were separated eleven years ago. response:	I'm your daughter.
+context: Isn't she one of your friends?\Why?\Why... Why is she Hilda?\I'm Hilda.\I'm Hilda.\Hildegard Schlievogt.\We were separated eleven years ago.\I'm your daughter. response:	You're alive.
+context: Why?\Why... Why is she Hilda?\I'm Hilda.\I'm Hilda.\Hildegard Schlievogt.\We were separated eleven years ago.\I'm your daughter.\You're alive. response:	Mom.
+context: Why... Why is she Hilda?\I'm Hilda.\I'm Hilda.\Hildegard Schlievogt.\We were separated eleven years ago.\I'm your daughter.\You're alive.\Mom. response:	Why did you come back?
+context: I'm Hilda.\I'm Hilda.\Hildegard Schlievogt.\We were separated eleven years ago.\I'm your daughter.\You're alive.\Mom.\Why did you come back? response:	Wh-Why?
+context: I'm Hilda.\Hildegard Schlievogt.\We were separated eleven years ago.\I'm your daughter.\You're alive.\Mom.\Why did you come back?\Wh-Why? response:	Because I missed you, Mom.
+context: Hildegard Schlievogt.\We were separated eleven years ago.\I'm your daughter.\You're alive.\Mom.\Why did you come back?\Wh-Why?\Because I missed you, Mom. response:	Leave.
+context: We were separated eleven years ago.\I'm your daughter.\You're alive.\Mom.\Why did you come back?\Wh-Why?\Because I missed you, Mom.\Leave. response:	Leave, now!
+context: I'm your daughter.\You're alive.\Mom.\Why did you come back?\Wh-Why?\Because I missed you, Mom.\Leave.\Leave, now! response:	Don't ever come back!
+context: You're alive.\Mom.\Why did you come back?\Wh-Why?\Because I missed you, Mom.\Leave.\Leave, now!\Don't ever come back! response:	Mom.
+context: Mom.\Why did you come back?\Wh-Why?\Because I missed you, Mom.\Leave.\Leave, now!\Don't ever come back!\Mom. response:	I'm not your mom.
+context: Why did you come back?\Wh-Why?\Because I missed you, Mom.\Leave.\Leave, now!\Don't ever come back!\Mom.\I'm not your mom. response:	This is my only child!
+context: Wh-Why?\Because I missed you, Mom.\Leave.\Leave, now!\Don't ever come back!\Mom.\I'm not your mom.\This is my only child! response:	Your daughter?
+context: Because I missed you, Mom.\Leave.\Leave, now!\Don't ever come back!\Mom.\I'm not your mom.\This is my only child!\Your daughter? response:	She's alive?
+context: Leave.\Leave, now!\Don't ever come back!\Mom.\I'm not your mom.\This is my only child!\Your daughter?\She's alive? response:	You mean, she's my sister?
+context: Leave, now!\Don't ever come back!\Mom.\I'm not your mom.\This is my only child!\Your daughter?\She's alive?\You mean, she's my sister? response:	No.
+context: Don't ever come back!\Mom.\I'm not your mom.\This is my only child!\Your daughter?\She's alive?\You mean, she's my sister?\No. response:	She's a monster.
+context: Mom.\I'm not your mom.\This is my only child!\Your daughter?\She's alive?\You mean, she's my sister?\No.\She's a monster. response:	A monster?
+context: I'm not your mom.\This is my only child!\Your daughter?\She's alive?\You mean, she's my sister?\No.\She's a monster.\A monster? response:	A forcefield?
+context: This is my only child!\Your daughter?\She's alive?\You mean, she's my sister?\No.\She's a monster.\A monster?\A forcefield? response:	Norma.
+context: Your daughter?\She's alive?\You mean, she's my sister?\No.\She's a monster.\A monster?\A forcefield?\Norma. response:	Norma!
+context: She's alive?\You mean, she's my sister?\No.\She's a monster.\A monster?\A forcefield?\Norma.\Norma! response:	Hilda.
+context: You mean, she's my sister?\No.\She's a monster.\A monster?\A forcefield?\Norma.\Norma!\Hilda. response:	Hilda!
+context: No.\She's a monster.\A monster?\A forcefield?\Norma.\Norma!\Hilda.\Hilda! response:	Mom.
+context: She's a monster.\A monster?\A forcefield?\Norma.\Norma!\Hilda.\Hilda!\Mom. response:	Stay away.
+context: A monster?\A forcefield?\Norma.\Norma!\Hilda.\Hilda!\Mom.\Stay away. response:	I finally forgot about that nightmare.
+context: A forcefield?\Norma.\Norma!\Hilda.\Hilda!\Mom.\Stay away.\I finally forgot about that nightmare. response:	I was finally happy.
+context: Norma.\Norma!\Hilda.\Hilda!\Mom.\Stay away.\I finally forgot about that nightmare.\I was finally happy. response:	Don't take my happiness.
+context: Norma!\Hilda.\Hilda!\Mom.\Stay away.\I finally forgot about that nightmare.\I was finally happy.\Don't take my happiness. response:	Please.
+context: Hilda.\Hilda!\Mom.\Stay away.\I finally forgot about that nightmare.\I was finally happy.\Don't take my happiness.\Please. response:	You know, there are some things in this world that just can't be helped.
+context: Hilda!\Mom.\Stay away.\I finally forgot about that nightmare.\I was finally happy.\Don't take my happiness.\Please.\You know, there are some things in this world that just can't be helped. response:	Right?
+context: Mom.\Stay away.\I finally forgot about that nightmare.\I was finally happy.\Don't take my happiness.\Please.\You know, there are some things in this world that just can't be helped.\Right? response:	That I gave birth to a Norma.
+context: Stay away.\I finally forgot about that nightmare.\I was finally happy.\Don't take my happiness.\Please.\You know, there are some things in this world that just can't be helped.\Right?\That I gave birth to a Norma. response:	And that you're a Norma.
+context: I finally forgot about that nightmare.\I was finally happy.\Don't take my happiness.\Please.\You know, there are some things in this world that just can't be helped.\Right?\That I gave birth to a Norma.\And that you're a Norma. response:	Leave, please.
+context: I was finally happy.\Don't take my happiness.\Please.\You know, there are some things in this world that just can't be helped.\Right?\That I gave birth to a Norma.\And that you're a Norma.\Leave, please. response:	I won't tell anyone you came.
+context: Don't take my happiness.\Please.\You know, there are some things in this world that just can't be helped.\Right?\That I gave birth to a Norma.\And that you're a Norma.\Leave, please.\I won't tell anyone you came. response:	I promise.
+context: Please.\You know, there are some things in this world that just can't be helped.\Right?\That I gave birth to a Norma.\And that you're a Norma.\Leave, please.\I won't tell anyone you came.\I promise. response:	I promise.
+context: You know, there are some things in this world that just can't be helped.\Right?\That I gave birth to a Norma.\And that you're a Norma.\Leave, please.\I won't tell anyone you came.\I promise.\I promise. response:	Mom.
+context: Right?\That I gave birth to a Norma.\And that you're a Norma.\Leave, please.\I won't tell anyone you came.\I promise.\I promise.\Mom. response:	How could you?
+context: That I gave birth to a Norma.\And that you're a Norma.\Leave, please.\I won't tell anyone you came.\I promise.\I promise.\Mom.\How could you? response:	I told you to leave!
+context: And that you're a Norma.\Leave, please.\I won't tell anyone you came.\I promise.\I promise.\Mom.\How could you?\I told you to leave! response:	You... You shouldn't have even been born!
+context: Leave, please.\I won't tell anyone you came.\I promise.\I promise.\Mom.\How could you?\I told you to leave!\You... You shouldn't have even been born! response:	Get away from me.
+context: I won't tell anyone you came.\I promise.\I promise.\Mom.\How could you?\I told you to leave!\You... You shouldn't have even been born!\Get away from me. response:	Sylvia, come here.
+context: I promise.\I promise.\Mom.\How could you?\I told you to leave!\You... You shouldn't have even been born!\Get away from me.\Sylvia, come here. response:	Okay.
+context: I promise.\Mom.\How could you?\I told you to leave!\You... You shouldn't have even been born!\Get away from me.\Sylvia, come here.\Okay. response:	Sylvia-sama.
+context: Mom.\How could you?\I told you to leave!\You... You shouldn't have even been born!\Get away from me.\Sylvia, come here.\Okay.\Sylvia-sama. response:	You came for me, Onee-sama.
+context: How could you?\I told you to leave!\You... You shouldn't have even been born!\Get away from me.\Sylvia, come here.\Okay.\Sylvia-sama.\You came for me, Onee-sama. response:	You're my sister. Of course.
+context: I told you to leave!\You... You shouldn't have even been born!\Get away from me.\Sylvia, come here.\Okay.\Sylvia-sama.\You came for me, Onee-sama.\You're my sister. Of course. response:	Thank goodness you're okay.
+context: You... You shouldn't have even been born!\Get away from me.\Sylvia, come here.\Okay.\Sylvia-sama.\You came for me, Onee-sama.\You're my sister. Of course.\Thank goodness you're okay. response:	Angelise-oneesama!
+context: Get away from me.\Sylvia, come here.\Okay.\Sylvia-sama.\You came for me, Onee-sama.\You're my sister. Of course.\Thank goodness you're okay.\Angelise-oneesama! response:	Angelise-sama.
+context: Sylvia, come here.\Okay.\Sylvia-sama.\You came for me, Onee-sama.\You're my sister. Of course.\Thank goodness you're okay.\Angelise-oneesama!\Angelise-sama. response:	Get a hold of yourself.
+context: Okay.\Sylvia-sama.\You came for me, Onee-sama.\You're my sister. Of course.\Thank goodness you're okay.\Angelise-oneesama!\Angelise-sama.\Get a hold of yourself. response:	Angelise-sama.
+context: Sylvia-sama.\You came for me, Onee-sama.\You're my sister. Of course.\Thank goodness you're okay.\Angelise-oneesama!\Angelise-sama.\Get a hold of yourself.\Angelise-sama. response:	Sylvia.
+context: You came for me, Onee-sama.\You're my sister. Of course.\Thank goodness you're okay.\Angelise-oneesama!\Angelise-sama.\Get a hold of yourself.\Angelise-sama.\Sylvia. response:	Don't be friendly with me.
+context: You're my sister. Of course.\Thank goodness you're okay.\Angelise-oneesama!\Angelise-sama.\Get a hold of yourself.\Angelise-sama.\Sylvia.\Don't be friendly with me. response:	You're not my sister or anything.
+context: Thank goodness you're okay.\Angelise-oneesama!\Angelise-sama.\Get a hold of yourself.\Angelise-sama.\Sylvia.\Don't be friendly with me.\You're not my sister or anything. response:	You monster!
+context: Angelise-oneesama!\Angelise-sama.\Get a hold of yourself.\Angelise-sama.\Sylvia.\Don't be friendly with me.\You're not my sister or anything.\You monster! response:	Why?
+context: Angelise-sama.\Get a hold of yourself.\Angelise-sama.\Sylvia.\Don't be friendly with me.\You're not my sister or anything.\You monster!\Why? response:	Why were you born?
+context: Get a hold of yourself.\Angelise-sama.\Sylvia.\Don't be friendly with me.\You're not my sister or anything.\You monster!\Why?\Why were you born? response:	If only you were never born,
+context: Angelise-sama.\Sylvia.\Don't be friendly with me.\You're not my sister or anything.\You monster!\Why?\Why were you born?\If only you were never born, response:	Mother, Father, Onii-sama, and I would all have been happy.
+context: Sylvia.\Don't be friendly with me.\You're not my sister or anything.\You monster!\Why?\Why were you born?\If only you were never born,\Mother, Father, Onii-sama, and I would all have been happy. response:	If only you never existed, I would have been able to walk.
+context: Don't be friendly with me.\You're not my sister or anything.\You monster!\Why?\Why were you born?\If only you were never born,\Mother, Father, Onii-sama, and I would all have been happy.\If only you never existed, I would have been able to walk. response:	Mother would have never died.
+context: You're not my sister or anything.\You monster!\Why?\Why were you born?\If only you were never born,\Mother, Father, Onii-sama, and I would all have been happy.\If only you never existed, I would have been able to walk.\Mother would have never died. response:	You took it all.
+context: You monster!\Why?\Why were you born?\If only you were never born,\Mother, Father, Onii-sama, and I would all have been happy.\If only you never existed, I would have been able to walk.\Mother would have never died.\You took it all. response:	You destroyed everything.
+context: Why?\Why were you born?\If only you were never born,\Mother, Father, Onii-sama, and I would all have been happy.\If only you never existed, I would have been able to walk.\Mother would have never died.\You took it all.\You destroyed everything. response:	Bring back Mother!
+context: Why were you born?\If only you were never born,\Mother, Father, Onii-sama, and I would all have been happy.\If only you never existed, I would have been able to walk.\Mother would have never died.\You took it all.\You destroyed everything.\Bring back Mother! response:	You monster!
+context: If only you were never born,\Mother, Father, Onii-sama, and I would all have been happy.\If only you never existed, I would have been able to walk.\Mother would have never died.\You took it all.\You destroyed everything.\Bring back Mother!\You monster! response:	You monster!
+context: Mother, Father, Onii-sama, and I would all have been happy.\If only you never existed, I would have been able to walk.\Mother would have never died.\You took it all.\You destroyed everything.\Bring back Mother!\You monster!\You monster! response:	I hate you!
+context: If only you never existed, I would have been able to walk.\Mother would have never died.\You took it all.\You destroyed everything.\Bring back Mother!\You monster!\You monster!\I hate you! response:	Sylvia-sama...
+context: Mother would have never died.\You took it all.\You destroyed everything.\Bring back Mother!\You monster!\You monster!\I hate you!\Sylvia-sama... response:	Angelise-sama!
+context: You took it all.\You destroyed everything.\Bring back Mother!\You monster!\You monster!\I hate you!\Sylvia-sama...\Angelise-sama! response:	Angelise-sama.
+context: You destroyed everything.\Bring back Mother!\You monster!\You monster!\I hate you!\Sylvia-sama...\Angelise-sama!\Angelise-sama. response:	You look pathetic.
+context: Bring back Mother!\You monster!\You monster!\I hate you!\Sylvia-sama...\Angelise-sama!\Angelise-sama.\You look pathetic. response:	A fittingly miserable end to a fallen princess.
+context: You monster!\You monster!\I hate you!\Sylvia-sama...\Angelise-sama!\Angelise-sama.\You look pathetic.\A fittingly miserable end to a fallen princess. response:	Julio-oniisama.
+context: You monster!\I hate you!\Sylvia-sama...\Angelise-sama!\Angelise-sama.\You look pathetic.\A fittingly miserable end to a fallen princess.\Julio-oniisama. response:	Yes, that's it.
+context: I hate you!\Sylvia-sama...\Angelise-sama!\Angelise-sama.\You look pathetic.\A fittingly miserable end to a fallen princess.\Julio-oniisama.\Yes, that's it. response:	I wanted to see that dumbfounded face.
+context: Sylvia-sama...\Angelise-sama!\Angelise-sama.\You look pathetic.\A fittingly miserable end to a fallen princess.\Julio-oniisama.\Yes, that's it.\I wanted to see that dumbfounded face. response:	It was worth trying to lure you out.
+context: Angelise-sama!\Angelise-sama.\You look pathetic.\A fittingly miserable end to a fallen princess.\Julio-oniisama.\Yes, that's it.\I wanted to see that dumbfounded face.\It was worth trying to lure you out. response:	Now, let's begin the trial, Angelise.
+context: Angelise-sama.\You look pathetic.\A fittingly miserable end to a fallen princess.\Julio-oniisama.\Yes, that's it.\I wanted to see that dumbfounded face.\It was worth trying to lure you out.\Now, let's begin the trial, Angelise. response:	For the crime that is you.
+context: You look pathetic.\A fittingly miserable end to a fallen princess.\Julio-oniisama.\Yes, that's it.\I wanted to see that dumbfounded face.\It was worth trying to lure you out.\Now, let's begin the trial, Angelise.\For the crime that is you. response:	I wonder if Ange found her sister...
+context: A fittingly miserable end to a fallen princess.\Julio-oniisama.\Yes, that's it.\I wanted to see that dumbfounded face.\It was worth trying to lure you out.\Now, let's begin the trial, Angelise.\For the crime that is you.\I wonder if Ange found her sister... response:	Preview
+context: Julio-oniisama.\Yes, that's it.\I wanted to see that dumbfounded face.\It was worth trying to lure you out.\Now, let's begin the trial, Angelise.\For the crime that is you.\I wonder if Ange found her sister...\Preview response:	I caught Onee-sama today.
+context: Yes, that's it.\I wanted to see that dumbfounded face.\It was worth trying to lure you out.\Now, let's begin the trial, Angelise.\For the crime that is you.\I wonder if Ange found her sister...\Preview\I caught Onee-sama today. response:	I was scared! She was so vicious.
+context: I wanted to see that dumbfounded face.\It was worth trying to lure you out.\Now, let's begin the trial, Angelise.\For the crime that is you.\I wonder if Ange found her sister...\Preview\I caught Onee-sama today.\I was scared! She was so vicious. response:	I used to be her delicate sister,
+context: It was worth trying to lure you out.\Now, let's begin the trial, Angelise.\For the crime that is you.\I wonder if Ange found her sister...\Preview\I caught Onee-sama today.\I was scared! She was so vicious.\I used to be her delicate sister, response:	but now I'm swinging a knife around.
+context: Now, let's begin the trial, Angelise.\For the crime that is you.\I wonder if Ange found her sister...\Preview\I caught Onee-sama today.\I was scared! She was so vicious.\I used to be her delicate sister,\but now I'm swinging a knife around. response:	It's terrible, as always.
+context: For the crime that is you.\I wonder if Ange found her sister...\Preview\I caught Onee-sama today.\I was scared! She was so vicious.\I used to be her delicate sister,\but now I'm swinging a knife around.\It's terrible, as always. response:	Goodbye From the Gallows
